@@ -1,7 +1,7 @@
 #!/bin/bash
 
 host="127.0.0.1 localhost
-152.94.169.14 master
+192.168.12.146 master
 192.168.12.148 slave-1
 192.168.12.51 slave-2
 192.168.12.10 slave-3
