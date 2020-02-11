@@ -1,10 +1,10 @@
 #!/bin/bash
 
 host="127.0.0.1 localhost
-192.168.12.146 master
-192.168.12.148 slave-1
-192.168.12.51 slave-2
-192.168.12.10 slave-3
+192.168.22.29 master
+192.168.22.162 slave-1
+192.168.22.97 slave-2
+192.168.22.196 slave-3
 
 # The following lines are desirable for IPv6 capable hosts
 ::1 ip6-localhost ip6-loopback
