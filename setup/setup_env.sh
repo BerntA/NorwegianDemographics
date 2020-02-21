@@ -21,6 +21,7 @@ mkdir -p /usr/local/hadoop && \
 	echo 'PATH="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/local/hadoop/bin:/usr/local/hadoop/sbin:/usr/local/spark/bin:/usr/local/spark/sbin"' >> /etc/environment && \
 	echo 'JAVA_HOME="/usr/lib/jvm/java-8-openjdk-amd64/"' >> /etc/environment && \
 	echo 'SPARK_HOME="/usr/local/spark"' >> /etc/environment && \
+	echo 'HADOOP_CONF_DIR="/usr/local/hadoop/etc/hadoop"' >> /etc/environment && \
 	source /etc/environment && \
 	sudo chown -R ubuntu /usr/local/hadoop && \
 	sudo chown -R ubuntu /usr/local/spark
