@@ -18,7 +18,9 @@ rm /etc/hosts && touch /etc/hosts && echo "$host" >> /etc/hosts
 mkdir -p /usr/local/hadoop && \
 	rm /etc/environment && \
 	touch /etc/environment && \
-	echo 'PATH="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/local/hadoop/bin:/usr/local/hadoop/sbin"' >> /etc/environment && \
+	echo 'PATH="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/local/hadoop/bin:/usr/local/hadoop/sbin:/usr/local/spark/bin:/usr/local/spark/sbin"' >> /etc/environment && \
 	echo 'JAVA_HOME="/usr/lib/jvm/java-8-openjdk-amd64/"' >> /etc/environment && \
+	echo 'SPARK_HOME="/usr/local/spark"' >> /etc/environment && \
 	source /etc/environment && \
-	sudo chown -R ubuntu /usr/local/hadoop
+	chown -R ubuntu /usr/local/hadoop && \ 
+	chown -R ubuntu /usr/local/spark
