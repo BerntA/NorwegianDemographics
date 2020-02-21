@@ -66,7 +66,7 @@ export HADOOP_HOME=/usr/local/hadoop/
 # /etc/profile.d or equivalent.  Some options (such as
 # --config) may react strangely otherwise.
 #
-# export HADOOP_CONF_DIR=${HADOOP_HOME}/etc/hadoop
+export HADOOP_CONF_DIR=${HADOOP_HOME}/etc/hadoop
 
 # The maximum amount of heap to use (Java -Xmx).  If no unit
 # is provided, it will be converted to MB.  Daemons will
@@ -179,7 +179,7 @@ esac
 
 # Filename which contains all of the hosts for any remote execution
 # helper scripts # such as workers.sh, start-dfs.sh, etc.
-# export HADOOP_WORKERS="${HADOOP_CONF_DIR}/workers"
+export HADOOP_WORKERS="${HADOOP_CONF_DIR}/workers"
 
 ###
 # Options for all daemons
