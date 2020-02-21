@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 
 import sys
-import numpy as np
 import codecs
 
 person, bosted, fodested, fodeaar, kjonn = False, '?', '?', '?', '?'
