@@ -25,9 +25,9 @@ for line in sys.stdin:
         if k >= 0:
             kjonn = line[(k+7):(k+8)]
 
-        aar = line.find("</fodselsaar>")
-        if aar >= 0:
-            fodeaar = line[(aar-4):aar]
+        aar_start, aar_end = line.find(">"), line.find("</fodselsaar>")
+        if aar_end >= 0:
+            fodeaar = line[(aar_start+1):aar_end][:4]
 
         sted_start, sted_end = line.find("<fodested>"), line.find("</fodested>")
         if sted_start >= 0:
