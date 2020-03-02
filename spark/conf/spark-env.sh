@@ -68,4 +68,5 @@
 # - MKL_NUM_THREADS=1        Disable multi-threading of Intel MKL
 # - OPENBLAS_NUM_THREADS=1   Disable multi-threading of OpenBLAS
 
-export PYSPARK_PYTHON=python3
+export PYSPARK_PYTHON=python3.6
+export PYSPARK_DRIVER_PYTHON=python3.6
