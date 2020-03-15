@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+src/data/1900_census_merged.csv
+src/data/1910_census_merged.csv
