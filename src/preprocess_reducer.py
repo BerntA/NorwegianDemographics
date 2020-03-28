@@ -13,11 +13,8 @@ import sys
 # 7 - Birth Year
 # 8 - Birth Place (Municipality)
 
-sys.stdin.reconfigure(encoding='utf-8') # Ensure correct encoding.
+#sys.stdin.reconfigure(encoding='utf-8') # Ensure correct encoding.
 
 for line in sys.stdin:
-    line = line.strip().split(',')
-    if len(line) != 9: # Bogus, skip!
-        continue
-
-    print(','.join(line[2:])) # Very simple reducer, we don't want the census year, not county.
+    line = line.strip()
+    print(line)
