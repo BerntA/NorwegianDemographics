@@ -88,7 +88,9 @@ for line in sys.stdin:
     try:
         line = [str(s) for s in line.split(',')]
     except:
-        print("Error:", ",".join(line))
+        continue
+
+    if len(line) != 9:
         continue
 
     # Update municipality name to todays municipality name.
@@ -106,4 +108,4 @@ for line in sys.stdin:
     # Fix faulty abbrevations and typos.
     line[6] = cleanupReligion(line[6])
 
-    print("{},{},{},{},{},{},{}".format(line[2], line[3], line[4], line[5], line[6], line[7], line[8]))
+    print(",".join(line[2:]))
