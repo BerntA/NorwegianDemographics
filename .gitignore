@@ -131,4 +131,5 @@ dmypy.json
 src/data/1900_census_merged.csv
 src/data/1910_census_merged.csv
 src/data/1910_census_modern.csv
+src/data/census_preprocessed.csv
 src/img/birth_*
