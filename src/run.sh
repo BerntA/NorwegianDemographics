@@ -18,6 +18,11 @@ hadoop fs -rm -r /output/analyze_births && \
 
 # hadoop fs -get /data/census_births.csv ~/dat500/src/data/census_births.csv < copy over result for use in visualization
 
+# Generate info about population registered in 19XX.
+python3 analyze_census_pop.py --hadoop-streaming-jar /usr/local/hadoop/share/hadoop/tools/lib/hadoop-streaming-3.1.1.jar -r hadoop hdfs:///data/census_preprocessed.csv --output-dir hdfs:///output/analyze_population --no-output && \
+hadoop fs -mv -n /output/analyze_population/part* /data/census_population.csv && \
+hadoop fs -rm -r /output/analyze_population && \
+
 # Generate info about religions based in certain municipality and how many representatives they had in 19XX.
 
 # Generate info about field of work, visualize where the most common type of work were more popular (geographically).
