@@ -5,179 +5,68 @@ Liten, 5796
 ?, 5551
 Inderen, 4554
 Herl, 4345
-Målselven, 4180
-Her, 3846
 Bols, 3654
-Skåt, 3647
 Ed, 3543
-Tjm, 3499
-Hery, 3499
-Hammer, 3465
-Våge, 3427
-Tjlling, 3426
 Krania, 3378
-Tjtta, 3286
-Ådalen, 3249
-Daviken, 3235
-Ier, 3169
-Storelvedalen, 3164
-Sndeled, 3164
-Rsten, 3144
-Hitteren, 3091
-Vikten, 3029
-Krdsherred, 2994
-Indviken, 2888
-Dybvåg, 2859
-Rdy, 2830
-Frnen, 2820
 Ve, 2796
-Kvfjord, 2789
-Sndre Undal, 2783
-Sndre Fron, 2755
-Tanen, 2752
 Nan, 2699
 Hegre, 2696
-Askvold, 2683
-Lesje, 2655
-Skjervy, 2562
-Vannelven, 2554
-Vard, 2529
 Halså Og Hartmark, 2527
-Hurdalen, 2513
-Norddalen, 2482
-Stre Gausdal, 2475
-Austevold, 2413
 Eker, 2395
-Skkelven, 2392
-Stadsbygden, 2379
-Ytre Sandsvr, 2338
 Lury, 2336
-Stre Slidre, 2320
-Snåsen, 2318
 Overhallen, 2305
 Re, 2269
-Hjrundfjord, 2258
-Sannikedal, 2209
-Soknedalen, 2194
-Skjrn, 2149
 Nr, 2108
 Fossan, 2072
-Stren, 2067
-Vossestranden, 2038
-Kråkery, 2016
-Etnedalen, 2012
-Stenkjr, 2011
 Sulen, 1997
-Sydvaranger, 1961
 Mark, 1949
 Meraker, 1939
 Amerika, 1936
-Srreisa, 1928
-Karlsy, 1928
-Hgebostad, 1905
 Hitter, 1893
 Kra, 1888
 Nrb, 1886
-Trom, 1873
-Hvåg, 1845
-Sundalen, 1833
 Brsen, 1808
-Ytre Rendalen, 1806
-Sunnelven, 1803
 His, 1796
-Srfrya, 1792
-Hlandet, 1787
 Danmark, 1765
 Kirkeb, 1759
 Toten, 1758
-S Odalen, 1755
-Rskog, 1742
-Snertingdalen, 1738
-Tusteren, 1732
-Kvnangen, 1728
-Stranden, 1720
-Nittedalen, 1710
-Halse, 1708
-Mås, 1680
-Bjarky, 1676
-Vegardsheien, 1675
-Trany, 1648
-Stre Moland, 1646
-Vre Sandsvr, 1633
-Hillesy, 1622
 Sandsvr, 1600
 Hobl, 1589
 Dyry, 1584
-Namdalseidet, 1571
 Fuse, 1535
-Eresfjord Og Vistdalen, 1500
 Sverge, 1460
 Nordre Undal, 1440
-Jssund, 1430
-Hornindalen, 1419
 Holme, 1408
-Hedalen, 1379
-Helgy, 1371
-Åsene, 1351
-Gransherred, 1336
 Finn, 1332
 Finland, 1324
-V Toten, 1292
-Ytteren, 1277
-Mosviken, 1272
-Ogne, 1249
 Solr, 1246
-Lensviken, 1238
-Randsund, 1227
-Rennes, 1221
-Mosjen, 1220
-Dnnes, 1206
-Strmmen, 1201
-Hle, 1200
-Ogndalen, 1199
-Vry, 1198
-Rdenes, 1191
 Tyskland, 1174
 Nter, 1162
-Klingen, 1141
-Srfjord, 1095
-Brseskognen, 1070
 Holtålen, 1064
 Strmsneset, 1050
-Moster, 1037
-Sndre Vågs, 1029
 Hatfjelldalen, 1028
-Nordre Vågs, 1018
-Nordvaranger, 1014
 Herred, 998
 Loppen Og Ksfjord, 994
 S Land, 990
 Vreb, 984
-Tydalen, 982
-Stordalen, 978
-Jostedalen, 969
 Grindum, 964
 Flor, 943
 Klbu, 942
 Fede, 939
 Odalen, 927
-Leinstranden, 927
 Ns Romerike, 923
 Hgeland, 910
 Ski, 904
 Valsfjorden, 900
 Krsand S, 898
 Isleb, 893
-Vard Herred, 878
 Lrenskogen, 864
 N Odalen, 854
 Varalds, 853
 Ringerike, 832
 Hadeland, 803
-Setskogen, 786
 Sveen, 750
 Kjbenhavn, 749
-Hålandsdalen, 749
 Slagen, 748
 Hnefos, 743
 Rkedalen, 732
@@ -188,9 +77,7 @@ Kjerringy, 691
 Bjrnr, 689
 Hedemarken, 688
 Avaldsns, 688
-Buviken, 688
 Vre Siredalen, 681
-Budalen, 671
 Skiptvedt, 670
 Vartdalstranden, 670
 Håbl, 661
@@ -271,7 +158,6 @@ Barbu, 343
 Gudbrandsdalen, 343
 Dalsland Sverige, 342
 Nesne, 340
-Velfjorden, 339
 Birkrem, 338
 Båstad, 335
 Kvrnes, 335
@@ -290,7 +176,6 @@ Nordfjordeid, 306
 Romsdalen, 305
 Brnn, 305
 Gleminge, 303
-Ål Hallingdal, 303
 Skeberg, 301
 Sandehered, 299
 Nsne, 299
@@ -311,7 +196,6 @@ Stamns, 281
 Tromssund, 280
 Len, 276
 Svelvig, 275
-Våle Jarlsberg, 275
 Fyrisdal, 275
 Alvrsund, 272
 Nrstrand, 272
@@ -370,7 +254,6 @@ S Undal, 214
 Svde, 214
 Fiskum, 213
 Ns Hallingdal, 212
-Tysfjorden, 212
 Hlen, 211
 Urskaug, 209
 Eggedal, 209
@@ -420,7 +303,6 @@ Bjark, 185
 Sterdalen, 184
 Sandeid, 184
 Tjt, 184
-Storden, 183
 Kvinnesdal, 182
 Dyr, 180
 Loppen, 179
@@ -432,10 +314,8 @@ Hakedalen, 177
 Beieren, 176
 Strmsgodset, 176
 Trkstad, 175
-Balsfjorden, 173
 Eivindvik, 172
 Hakedal, 172
-Flå Hallingdal, 172
 Landvig, 172
 Ankens, 172
 Krsund, 170
@@ -448,7 +328,6 @@ Hareide, 167
 Sleb, 166
 Bohusln Sverige, 164
 Sandherred, 163
-Åsnes Solr, 163
 Wermland, 162
 Bohuslen Sverige, 162
 Hardanger, 162
@@ -459,10 +338,8 @@ Gjsdal, 160
 Ekne, 160
 Mlselven, 160
 Srreisen, 160
-Her Sndmr, 160
 Evens, 159
 Birid, 158
-Våle Jarlsb, 158
 Ksns, 158
 Hoff I Jarlsberg, 157
 Rokke, 154
@@ -484,7 +361,6 @@ Tysver, 144
 Hilles, 144
 Kvelle, 143
 Ns Hedem, 143
-Nordvaranger Jacobselv, 143
 Vefring, 142
 Lunder, 141
 Siljord, 140
@@ -539,7 +415,6 @@ Herrefos, 126
 Bohuslen, 125
 Hatfjelddalen, 125
 Rdnes, 124
-Lenviken, 124
 Sitskogen, 123
 Frenen, 123
 Skauger, 122
@@ -561,7 +436,6 @@ Lilleelvedal, 118
 Vermeland Sverige, 116
 Brandvold Solr, 116
 Hillestad, 116
-Jondalen, 116
 Mland, 116
 Gimnes, 116
 Relingen, 115
@@ -575,7 +449,6 @@ Veggli, 112
 Grorud, 111
 Skiaker, 111
 Kvindherred, 111
-Nordfolden, 111
 Greibstad, 111
 Heen, 110
 Nsna, 110
@@ -587,7 +460,6 @@ Lyngr, 108
 Kodal, 108
 Skonevik, 108
 Strmsnesset, 108
-Våle I Jarlsberg, 107
 Skjrvy, 107
 Åsns Solr, 106
 Tjty, 106
@@ -603,20 +475,16 @@ Nordland, 103
 Rrås, 103
 Hornes, 103
 Fria, 103
-Hery Helgel, 103
 Masfjord, 102
-Verdalen, 102
 Evendvik, 102
 Åssiden, 101
 Hvidings, 101
 Ladvik, 101
 Trsundets H, 101
-Åmot Sterdalen, 100
 Tretten, 100
 Undrumsdal, 100
 Esberg, 100
 Ringebo, 100
 Sverik, 100
-Trom Sogn, 100
 Bjerkrem, 100
 Gravik, 100
