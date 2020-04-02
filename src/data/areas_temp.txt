@@ -5,22 +5,17 @@ Liten, 5796
 ?, 5551
 Inderen, 4554
 Herl, 4345
-Bols, 3654
 Ed, 3543
 Krania, 3378
 Ve, 2796
 Nan, 2699
-Hegre, 2696
-Halså Og Hartmark, 2527
 Eker, 2395
 Lury, 2336
-Overhallen, 2305
 Re, 2269
 Nr, 2108
 Fossan, 2072
 Sulen, 1997
 Mark, 1949
-Meraker, 1939
 Amerika, 1936
 Hitter, 1893
 Kra, 1888
@@ -217,7 +212,6 @@ Skudesns, 254
 Smålenene, 254
 Nordfjord, 253
 Buksns, 253
-Ekersund, 252
 Andebo, 250
 Fossand, 250
 Nsodden, 249
