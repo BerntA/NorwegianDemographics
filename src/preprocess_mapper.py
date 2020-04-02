@@ -8,21 +8,32 @@ BIRTH_PLACE_REPLACE = {"Id":"Idd","Frhald":"Fredrikshald","Frstad":"Fredrikstad"
 
 RELIGION_REPLACE = {"Intet Samfund":"Atheist","Uttraadt Intet Samfund":"Atheist","Uttraadt Intet Samf":"Atheist","Intet Samf":"Atheist","Udtraadt Intet Samfund":"Atheist","Udtraadt Intet Samf":"Atheist","Uttrdt Intet Samfund":"Atheist","Udtraat Intet Samfund":"Atheist","Uttraadt Intet S":"Atheist","Uttrdt Intet Samf":"Atheist","Intet Samfun":"Atheist","Uttraadt":"Atheist","Uttraat Intet Samf":"Atheist","Udtraadt":"Atheist","Udtraat":"Atheist","Utraadt Intet Samfund":"Atheist","Uttr Intet Samf":"Atheist","Utraat Intet Samfund":"Atheist","Intet":"Atheist","Uttraat Intet Samfund":"Atheist","Uttrdt":"Atheist","Uttrt Intet Samfund":"Atheist","Udtrdt Intet Samfund":"Atheist","Intet S":"Atheist","Uttraadt Int Samf":"Atheist","Udtr Intet Samf":"Atheist","Udtraadt Intet S":"Atheist","Uttraadt Intet Sf":"Atheist","Uttraadt I S":"Atheist","Utraat":"Atheist","Uttraadt Int S":"Atheist","Uttraat":"Atheist","Luttersk":"Lutheranism","Lutt Frikirke":"Lutheranism","Luttersk Frikirke":"Lutheranism","Lut Frikirke":"Lutheranism","Luteraner":"Lutheranism","Babtist":"Baptist","Baptistsamf":"Baptist","Baptistsamfundet":"Baptist","Baptistsamfund":"Baptist","Baptister":"Baptist","Katholik":"Catholism","nan":"Norwegian Church"}
 
-def findCandidates(a):
-    return [w for w in a.split() if w in MUNICIPALITIES_TO_MODERN] # A list of matching municipalities.
-
+def findBestCandidate(a):
+    words = a.split()
+    
+    b = [MUNICIPALITIES_TO_MODERN[w] for w in words if w in MUNICIPALITIES_TO_MODERN]
+    if len(b) != 0:
+        return b[0]
+        
+    b = [BIRTH_PLACE_REPLACE[w] for w in words if w in BIRTH_PLACE_REPLACE]
+    if len(b) != 0:
+        return MUNICIPALITIES_TO_MODERN[b[0]]
+        
+    return None
+    
 def findUpdatedBirthPlace(a):
     a = a.strip().lower().replace('aa','å').title()
-    if a in BIRTH_PLACE_REPLACE:
-        a = BIRTH_PLACE_REPLACE[a]
-    else:
-        a = ' '.join([(BIRTH_PLACE_REPLACE[w] if w in BIRTH_PLACE_REPLACE else w) for w in a.split()]) # Do some typo and abbrevation fixup.
+    if a in MUNICIPALITIES_TO_MODERN:
+        return MUNICIPALITIES_TO_MODERN[a]
+    elif a in BIRTH_PLACE_REPLACE:
+        return MUNICIPALITIES_TO_MODERN[BIRTH_PLACE_REPLACE[a]]
 
-    candidates = findCandidates(a)
-    if len(candidates) <= 0 and a.endswith('en'): # Do a quick check, if for ex Rendalen->Rendal
-        candidates = findCandidates(a[:-2])    
+    # Still nothing? Check word for word if we find any potential combo.
+    candidate = findBestCandidate(a)
+    if (candidate is None) and a.endswith('en'): # Do a quick check, if for ex Rendalen->Rendal
+        candidate = findBestCandidate(a[:-2])
     
-    return (MUNICIPALITIES_TO_MODERN[candidates[0]] if (len(candidates) > 0) else a) # If there is a candidate, just pick the first one for now.
+    return (candidate if candidate else a)
 
 def cleanupFieldOfWork(r):
     if 'fisker' in r:

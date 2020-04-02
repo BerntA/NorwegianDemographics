@@ -208,7 +208,6 @@ Istad, 266
 Selbo, 262
 Frosten, 261
 Sell, 261
-Srfolden, 261
 Tistedalen, 260
 Lur, 257
 Vermland, 255
@@ -289,7 +288,6 @@ Vestfossen, 193
 Horningdal, 193
 Sverig, 192
 New York, 192
-Tromen, 191
 Holmedal, 191
 Vermland Sverige, 190
 America, 190
