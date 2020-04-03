@@ -3,6 +3,10 @@
 # Remove old data @ hdfs
 hadoop fs -rm -r -f /data/census_* && \
 
+# Remove old data @ local
+rm -rf ./data/census_* && \
+rm -rf ./data/.census_* && \
+
 # Run preprocessing on raw data. Clean the data.
 hadoop jar /usr/local/hadoop/share/hadoop/tools/lib/hadoop-streaming-3.1.1.jar -file /home/ubuntu/dat500/src/preprocess_mapper.py -mapper preprocess_mapper.py -file /home/ubuntu/dat500/src/preprocess_reducer.py -reducer preprocess_reducer.py -input /data/census.csv -output /output/preprocessed && \
 
@@ -40,8 +44,7 @@ hadoop fs -getmerge -skip-empty-file /output/analyze_gender/part* ./data/census_
 hadoop fs -put ./data/census_gender.csv /data/census_gender.csv && \
 hadoop fs -rm -r /output/analyze_gender && \
 
-# Remove old data @ local
-rm -rf ./data/census_* && \
+# Remove cache crap from the getmerge func.
 rm -rf ./data/.census_* && \
 
 # Copy over results from hdfs

@@ -5,6 +5,7 @@ from collections import Counter
 
 spark = SparkSession.builder.appName('CensusAnalysis').getOrCreate()
 sc = spark.sparkContext
+sc.setLogLevel("ERROR") # For god sake, stop the spam!!!
 
 sqlContext = SQLContext(sc)
 df_census = sc.textFile('/data/census_preprocessed.csv')
