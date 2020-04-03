@@ -3,7 +3,8 @@
 from pyspark.sql import SQLContext, Row, SparkSession
 from collections import Counter
 
-sc = SparkSession.builder.appName('CensusAnalysis').getOrCreate()
+spark = SparkSession.builder.appName('CensusAnalysis').getOrCreate()
+sc = spark.sparkContext
 
 sqlContext = SQLContext(sc)
 df_census = sc.textFile('/data/census_preprocessed.csv')
@@ -26,3 +27,6 @@ schemaPeople.filter(schemaPeople.work.isin(common_work)).groupBy('municipality',
 # Gender split
 schemaPeople.groupBy('municipality', 'gender').count().orderBy("municipality").write.csv('/output/analyze_gender')
 
+spark.stop() # exit, finito.
+spark = None
+sc = None
