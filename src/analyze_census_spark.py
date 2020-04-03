@@ -1,7 +1,9 @@
 #!/usr/bin/python3
 
-from pyspark.sql import SQLContext, Row
+from pyspark.sql import SQLContext, Row, SparkSession
 from collections import Counter
+
+sc = SparkSession.builder.appName('CensusAnalysis').getOrCreate()
 
 sqlContext = SQLContext(sc)
 df_census = sc.textFile('/data/census_preprocessed.csv')
