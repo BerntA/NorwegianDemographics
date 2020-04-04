@@ -142,7 +142,7 @@
 1807,Karmøy,1	
 1807,Larvik,1	
 1807,Lyngen,1	
-1807,Meraker,1	
+1807,Meråker,1	
 1807,Oslo,1	
 1807,Saltdal,1	
 1807,Sandefjord,1	
@@ -239,7 +239,6 @@
 1810,Balestrand,1	
 1810,Bamble,1	
 1810,Bergen,2	
-1810,Bols,1	
 1810,Farsund,1	
 1810,Fet,1	
 1810,Flekkefjord,1	
@@ -255,6 +254,7 @@
 1810,Lindås,1	
 1810,Lyngen,1	
 1810,Meldal,1	
+1810,Molde,1	
 1810,Namsos,1	
 1810,Nord-Aurdal,1	
 1810,Odda,1	
@@ -297,16 +297,15 @@
 1811,Østre Toten,1	
 1812,Aure,1	
 1812,Balestrand,1	
-1812,Bols,1	
 1812,Eigersund,1	
 1812,Elverum,1	
 1812,Etne,1	
 1812,Flekkefjord,1	
+1812,Frogn,1	
 1812,Gausdal,1	
 1812,Gjevedal,1	
 1812,Gran,2	
 1812,Gulen,1	
-1812,Hegre,1	
 1812,Hegrenes,1	
 1812,Inderen,1	
 1812,Kristiansand,1	
@@ -316,6 +315,7 @@
 1812,Lyngdal,1	
 1812,Marnardal,1	
 1812,Meløy,1	
+1812,Molde,1	
 1812,Narvik,1	
 1812,Odda,1	
 1812,Rennesøy,1	
@@ -339,12 +339,12 @@
 1813,Dale I Snfj,1	
 1813,Eigersund,1	
 1813,Finland,1	
+1813,Frogn,1	
 1813,Goden,1	
 1813,Gran,1	
 1813,Grimstad,1	
 1813,Grong,1	
 1813,Harstad,1	
-1813,Hegre,1	
 1813,Hemne,1	
 1813,Hitra,1	
 1813,Ibestad,1	
@@ -507,7 +507,7 @@
 1815,Liten,1	
 1815,Masfjorden,1	
 1815,Meldal,1	
-1815,Meraker,1	
+1815,Meråker,1	
 1815,Nannestad,1	
 1815,Naustdal,1	
 1815,Nes (Akershus),2	
@@ -600,7 +600,7 @@
 1816,Flesberg,1	
 1816,Fosns,1	
 1816,Fossan,1	
-1816,Frogn,2	
+1816,Frogn,3	
 1816,Furns,1	
 1816,Gaular,1	
 1816,Gol,1	
@@ -609,12 +609,10 @@
 1816,Gulen,2	
 1816,Hå,1	
 1816,Hallingdal,1	
-1816,Halså Og Hartmark,1	
 1816,Haram,1	
 1816,Hareide,1	
 1816,Haug,1	
 1816,Haugesund,1	
-1816,Hegre,1	
 1816,Hemne,1	
 1816,Hemnes,2	
 1816,Hemsedal,3	
@@ -646,7 +644,7 @@
 1816,Lom,1	
 1816,Lunder,1	
 1816,Luster,2	
-1816,Mandal,1	
+1816,Mandal,2	
 1816,Masfjorden,1	
 1816,Meldal,1	
 1816,Melhus,3	
@@ -849,7 +847,7 @@
 1817,Masfjorden,1	
 1817,Mel,1	
 1817,Melhus,3	
-1817,Meraker,2	
+1817,Meråker,2	
 1817,Modum,2	
 1817,Molde,1	
 1817,Moss,1	
@@ -989,7 +987,6 @@
 1818,Bjugn,2	
 1818,Bodø,1	
 1818,Bohusln Sverige,1	
-1818,Bols,2	
 1818,Brønnøy,2	
 1818,Bremanger,6	
 1818,Brunkeberg,1	
@@ -1040,7 +1037,6 @@
 1818,Gulen,3	
 1818,Hadsel,2	
 1818,Halden,2	
-1818,Halså Og Hartmark,1	
 1818,Halsn,1	
 1818,Hamarøy,1	
 1818,Harstad,3	
@@ -1092,16 +1088,17 @@
 1818,Luster,4	
 1818,Lyngdal,1	
 1818,Mallangen,1	
+1818,Mandal,1	
 1818,Mark,1	
 1818,Marker,1	
 1818,Masfjorden,1	
 1818,Meløy,1	
 1818,Meldal,1	
 1818,Melhus,1	
-1818,Meraker,1	
+1818,Meråker,1	
 1818,Midtre Gauldal,4	
 1818,Modum,2	
-1818,Molde,2	
+1818,Molde,4	
 1818,N Odalen,1	
 1818,N Undal,1	
 1818,Nærøy,2	
@@ -1127,7 +1124,7 @@
 1818,Oslo,6	
 1818,Osterøy,4	
 1818,Overhalden,2	
-1818,Overhallen,1	
+1818,Overhalla,1	
 1818,Porsgrunn,3	
 1818,Røyken,2	
 1818,Radøy,2	
@@ -1284,7 +1281,7 @@
 1819,Frøya,1	
 1819,Frederikshald,1	
 1819,Fredrikstad,2	
-1819,Frogn,2	
+1819,Frogn,5	
 1819,Frosta,1	
 1819,Furns,1	
 1819,Fuse,1	
@@ -1303,13 +1300,11 @@
 1819,Gulen,5	
 1819,Hadsel,3	
 1819,Halden,1	
-1819,Halså Og Hartmark,1	
 1819,Hammery,1	
 1819,Hamn Kaupanger,1	
 1819,Haram,2	
 1819,Harstad,2	
 1819,Haugesund,1	
-1819,Hegre,3	
 1819,Hemne,3	
 1819,Hemnes,3	
 1819,Herred Sogn,2	
@@ -1367,7 +1362,7 @@
 1819,Lyngdal,3	
 1819,Lyngen,1	
 1819,Målselv,1	
-1819,Mandal,1	
+1819,Mandal,2	
 1819,Marker,2	
 1819,Masfjorden,2	
 1819,Meldal,2	
@@ -1395,7 +1390,7 @@
 1819,Os (Hordaland),1	
 1819,Oslo,7	
 1819,Osterøy,5	
-1819,Overhallen,2	
+1819,Overhalla,2	
 1819,Porsgrunn,2	
 1819,Røros,2	
 1819,Rakkestad,3	
@@ -1540,7 +1535,6 @@
 1820,Bjugn,1	
 1820,Bodø,2	
 1820,Bokn,1	
-1820,Bols,2	
 1820,Brønnøy,1	
 1820,Bremanger,6	
 1820,Brkke,1	
@@ -1596,7 +1590,7 @@
 1820,Frøya,2	
 1820,Fredrikstad,3	
 1820,Fresvik,1	
-1820,Frogn,8	
+1820,Frogn,12	
 1820,Fron Gudbrandsdalen,1	
 1820,Frosta,3	
 1820,Frosten,1	
@@ -1632,7 +1626,6 @@
 1820,Hadsel,3	
 1820,Halden,5	
 1820,Hallingdal,1	
-1820,Halså Og Hartmark,2	
 1820,Hamburg,1	
 1820,Hammerfest,2	
 1820,Haparanda Sverige,1	
@@ -1641,7 +1634,6 @@
 1820,Hasvik,1	
 1820,Haug Ringerike,1	
 1820,Haugesund,1	
-1820,Hegre,4	
 1820,Hemne,4	
 1820,Hemnes,2	
 1820,Hemsedal,1	
@@ -1719,7 +1711,7 @@
 1820,Målselvens Pr,1	
 1820,Malme Romsdal,1	
 1820,Malvik,1	
-1820,Mandal,2	
+1820,Mandal,4	
 1820,Mark,1	
 1820,Marnardal,1	
 1820,Masfjord,1	
@@ -1727,12 +1719,12 @@
 1820,Meløy,2	
 1820,Meldal,6	
 1820,Melhus,4	
-1820,Meraker,3	
+1820,Meråker,3	
 1820,Mgster,1	
 1820,Midtre Gauldal,7	
 1820,Modalen,2	
 1820,Modum,7	
-1820,Molde,2	
+1820,Molde,4	
 1820,Moss,3	
 1820,Mostery,1	
 1820,N Land,1	
@@ -1771,7 +1763,7 @@
 1820,Orkdal,3	
 1820,Oslo,13	
 1820,Osterøy,11	
-1820,Overhallen,2	
+1820,Overhalla,2	
 1820,Porsanger - Porsánjggu Gielda - Porsangin Komuuni,1	
 1820,Porsgrunn,3	
 1820,Råde,1	
@@ -1972,7 +1964,6 @@
 1821,Bjerkreim,3	
 1821,Bjugn,1	
 1821,Bodø,5	
-1821,Bols,2	
 1821,Borgsj Sverige,1	
 1821,Brønnøy,5	
 1821,Bremanger,6	
@@ -2049,7 +2040,6 @@
 1821,Hadeland,1	
 1821,Hadsel,4	
 1821,Halden,5	
-1821,Halså Og Hartmark,2	
 1821,Haram,3	
 1821,Harstad,1	
 1821,Haugesund,1	
@@ -2139,7 +2129,7 @@
 1821,Lyngdal,3	
 1821,Lyngen,4	
 1821,Malvik,1	
-1821,Mandal,4	
+1821,Mandal,6	
 1821,Mark,4	
 1821,Markarud Kronoborgs Ln Sverige,1	
 1821,Marker,3	
@@ -2147,11 +2137,11 @@
 1821,Masfjorden,3	
 1821,Meldal,3	
 1821,Melhus,3	
-1821,Meraker,1	
+1821,Meråker,1	
 1821,Midtre Gauldal,4	
 1821,Modalen,2	
 1821,Modum,4	
-1821,Molde,3	
+1821,Molde,5	
 1821,Moskens,1	
 1821,Moss,2	
 1821,Myklebost Ytre Holmedal,1	
@@ -2188,7 +2178,7 @@
 1821,Oslo,15	
 1821,Osterøy,9	
 1821,Overhalden,2	
-1821,Overhallen,2	
+1821,Overhalla,2	
 1821,Porsgrunn,3	
 1821,Råde,4	
 1821,Rødøy,1	
@@ -2386,7 +2376,6 @@
 1822,Birkrem,1	
 1822,Bjugn,1	
 1822,Bodø,8	
-1822,Bols,5	
 1822,Boren,1	
 1822,Borgun,1	
 1822,Brønnøy,2	
@@ -2460,7 +2449,7 @@
 1822,Frøya,2	
 1822,Fredrikstad,7	
 1822,Frien,1	
-1822,Frogn,11	
+1822,Frogn,16	
 1822,Froland,3	
 1822,Fron Gudbrandsdalen,1	
 1822,Frosta,4	
@@ -2506,7 +2495,6 @@
 1822,Hadsel,2	
 1822,Halden,6	
 1822,Hallingdal,4	
-1822,Halså Og Hartmark,1	
 1822,Hamarøy,5	
 1822,Hammerfest,1	
 1822,Hammeri,1	
@@ -2515,7 +2503,6 @@
 1822,Hareide,1	
 1822,Haugesund,3	
 1822,Hedemarken,4	
-1822,Hegre,5	
 1822,Helgen,1	
 1822,Helgeroen,1	
 1822,Hemne,7	
@@ -2613,7 +2600,7 @@
 1822,Målselv,3	
 1822,Måsøy,1	
 1822,Malvik,2	
-1822,Mandal,4	
+1822,Mandal,5	
 1822,Mangers Prgj,1	
 1822,Mark,2	
 1822,Masfjorden,2	
@@ -2621,12 +2608,12 @@
 1822,Meløy,2	
 1822,Meldal,3	
 1822,Melhus,4	
-1822,Meraker,3	
+1822,Meråker,3	
 1822,Midtre Gauldal,9	
 1822,Mlselven,1	
 1822,Modalen,1	
 1822,Modum,5	
-1822,Molde,5	
+1822,Molde,10	
 1822,Moskens,1	
 1822,Mosknes,1	
 1822,Moss,6	
@@ -2671,7 +2658,7 @@
 1822,Osen,2	
 1822,Oslo,20	
 1822,Osterøy,13	
-1822,Overhallen,4	
+1822,Overhalla,4	
 1822,Porsgrunn,10	
 1822,Råde,2	
 1822,Rødøy,4	
@@ -2932,7 +2919,6 @@
 1823,Bjrnr,1	
 1823,Bjugn,2	
 1823,Bodø,1	
-1823,Bols,6	
 1823,Brønnøy,2	
 1823,Bremanger,7	
 1823,Brnn,1	
@@ -2999,7 +2985,7 @@
 1823,Frøya,5	
 1823,Fred,1	
 1823,Fredrikstad,3	
-1823,Frogn,6	
+1823,Frogn,13	
 1823,Froland,3	
 1823,Fron Gudbrdal,1	
 1823,Frosta,4	
@@ -3032,7 +3018,6 @@
 1823,Hadsel,4	
 1823,Halden,10	
 1823,Hallingdal,2	
-1823,Halså Og Hartmark,2	
 1823,Hamarøy,5	
 1823,Haram,4	
 1823,Harham,1	
@@ -3041,7 +3026,6 @@
 1823,Haug,1	
 1823,Hedemarken,2	
 1823,Hedenstad,1	
-1823,Hegre,7	
 1823,Hemne,7	
 1823,Hemnes,5	
 1823,Hemsedal,2	
@@ -3139,7 +3123,7 @@
 1823,Lynnes Hadelan,1	
 1823,Målselv,2	
 1823,Malvik,2	
-1823,Mandal,5	
+1823,Mandal,7	
 1823,Maridalen,1	
 1823,Mark,3	
 1823,Marker,1	
@@ -3147,12 +3131,12 @@
 1823,Meløy,5	
 1823,Meldal,10	
 1823,Melhus,5	
-1823,Meraker,3	
+1823,Meråker,3	
 1823,Mgster,1	
 1823,Midtre Gauldal,9	
 1823,Modum,8	
 1823,Moland Sogn,1	
-1823,Molde,4	
+1823,Molde,10	
 1823,Moss,3	
 1823,N Eker,1	
 1823,N Fron,1	
@@ -3209,7 +3193,7 @@
 1823,Oslo,26	
 1823,Osterøy,11	
 1823,Overhalden,1	
-1823,Overhallen,2	
+1823,Overhalla,2	
 1823,Porsanger - Porsánjggu Gielda - Porsangin Komuuni,1	
 1823,Porsgrunn,10	
 1823,Preussen,1	
@@ -3460,7 +3444,6 @@
 1824,Blaker,1	
 1824,Bodø,5	
 1824,Bokn,4	
-1824,Bols,4	
 1824,Brønnøy,3	
 1824,Brandvald,1	
 1824,Bremanger,6	
@@ -3529,7 +3512,7 @@
 1824,Frendefors Sverige,1	
 1824,Frenen,1	
 1824,Froen,1	
-1824,Frogn,10	
+1824,Frogn,16	
 1824,Froland,1	
 1824,Fron,2	
 1824,Frosta,4	
@@ -3568,7 +3551,6 @@
 1824,Hadsel,6	
 1824,Hafvsflo,1	
 1824,Halden,14	
-1824,Halså Og Hartmark,3	
 1824,Halsklubb Raftsund,1	
 1824,Hamarøy,1	
 1824,Hamburg,1	
@@ -3583,7 +3565,6 @@
 1824,Haugland I Ladvik,1	
 1824,Hedemarken,2	
 1824,Heggebostad,1	
-1824,Hegre,6	
 1824,Heirefos Ns Sogn,1	
 1824,Hemne,12	
 1824,Hemnes,4	
@@ -3698,7 +3679,7 @@
 1824,Lyse Song,1	
 1824,Måsøy,1	
 1824,Malde Sogn,1	
-1824,Mandal,10	
+1824,Mandal,13	
 1824,Mangers Prgj,1	
 1824,Mangers,1	
 1824,Mark,4	
@@ -3709,12 +3690,12 @@
 1824,Meløy,6	
 1824,Meldal,8	
 1824,Melhus,11	
-1824,Meraker,1	
+1824,Meråker,1	
 1824,Midtre Gauldal,3	
 1824,Modalen,2	
 1824,Modum,6	
 1824,Moland,2	
-1824,Molde,2	
+1824,Molde,7	
 1824,Morgedal,1	
 1824,Moss,5	
 1824,Mot Sterdalen,1	
@@ -3766,7 +3747,7 @@
 1824,Oslo,37	
 1824,Osterøy,6	
 1824,Osteren,1	
-1824,Overhallen,3	
+1824,Overhalla,3	
 1824,Porsgrunn,15	
 1824,Råde,2	
 1824,Rødøy,1	
@@ -3873,7 +3854,6 @@
 1824,Storelvdalen,1	
 1824,Strand,4	
 1824,Stranda,4	
-1824,Strande Bols,1	
 1824,Strmstad,1	
 1824,Stryn,16	
 1824,Suldal,13	
@@ -4042,7 +4022,6 @@
 1825,Bodø,11	
 1825,Bohuslen Sverige,1	
 1825,Bokn,1	
-1825,Bols,3	
 1825,Brønnøy,6	
 1825,Brandvold Solr,1	
 1825,Brandvold,1	
@@ -4120,7 +4099,7 @@
 1825,Fredrikstad,7	
 1825,Frenen,1	
 1825,Frnens Herred,1	
-1825,Frogn,16	
+1825,Frogn,22	
 1825,Froland,7	
 1825,Fron I Gudbrandsdalen,1	
 1825,Fron,1	
@@ -4169,7 +4148,6 @@
 1825,Halden,14	
 1825,Halingdal,1	
 1825,Hallingd,1	
-1825,Halså Og Hartmark,2	
 1825,Hamar,1	
 1825,Hamarøy,7	
 1825,Hamburg,1	
@@ -4180,7 +4158,6 @@
 1825,Haugesund,1	
 1825,Hedemarken,2	
 1825,Hedenstad,1	
-1825,Hegre,6	
 1825,Helland Sogn,1	
 1825,Helle Bygstad Nb,1	
 1825,Hemne,10	
@@ -4298,7 +4275,7 @@
 1825,Lyngen,6	
 1825,Måsøy,1	
 1825,Malvik,5	
-1825,Mandal,4	
+1825,Mandal,6	
 1825,Mark,9	
 1825,Marker,6	
 1825,Marnardal,2	
@@ -4308,13 +4285,13 @@
 1825,Meløy,4	
 1825,Meldal,16	
 1825,Melhus,9	
-1825,Meraker,2	
+1825,Meråker,2	
 1825,Mgster,1	
 1825,Midtre Gauldal,8	
 1825,Mlselven,1	
 1825,Modum,12	
 1825,Moland,1	
-1825,Molde,9	
+1825,Molde,12	
 1825,Moss,7	
 1825,Mosstråndi,1	
 1825,Myren I Finås,1	
@@ -4378,7 +4355,7 @@
 1825,Oslo,37	
 1825,Osterøy,23	
 1825,Overhalden,3	
-1825,Overhallen,5	
+1825,Overhalla,5	
 1825,Porsanger - Porsánjggu Gielda - Porsangin Komuuni,3	
 1825,Porsgrunn,14	
 1825,Råde,6	
@@ -4688,7 +4665,6 @@
 1826,Bodø,6	
 1826,Bohuslen Sverige,2	
 1826,Bokn,2	
-1826,Bols,4	
 1826,Brønnøy,6	
 1826,Brandvold,1	
 1826,Branval,1	
@@ -4772,7 +4748,7 @@
 1826,Fredrikstad,10	
 1826,Frenen Herred I Romsdal,1	
 1826,Frien,1	
-1826,Frogn,16	
+1826,Frogn,25	
 1826,Froland,1	
 1826,Fron,1	
 1826,Frong,1	
@@ -4828,7 +4804,6 @@
 1826,Halden,24	
 1826,Halingdal,1	
 1826,Hallingdal,2	
-1826,Halså Og Hartmark,5	
 1826,Halså Sogn,1	
 1826,Hamarøy,1	
 1826,Hamer,1	
@@ -4845,7 +4820,6 @@
 1826,Hedal,1	
 1826,Hedemarken,2	
 1826,Hedland,1	
-1826,Hegre,9	
 1826,Hemne,12	
 1826,Hemnes,11	
 1826,Hemsedal,11	
@@ -4988,7 +4962,7 @@
 1826,Magdeburg Grosottersleben Tyskland,1	
 1826,Malnes I Sogn,1	
 1826,Malvik,6	
-1826,Mandal,10	
+1826,Mandal,15	
 1826,Maridalen,1	
 1826,Mark,8	
 1826,Marker,4	
@@ -4999,12 +4973,12 @@
 1826,Meløy,2	
 1826,Meldal,14	
 1826,Melhus,17	
-1826,Meraker,6	
+1826,Meråker,6	
 1826,Midtre Gauldal,9	
 1826,Modalen,3	
 1826,Modom,1	
 1826,Modum,11	
-1826,Molde,8	
+1826,Molde,12	
 1826,Mollestad Birkens,1	
 1826,Moss,13	
 1826,Mrd,1	
@@ -5074,7 +5048,7 @@
 1826,Oslo,51	
 1826,Osterøy,22	
 1826,Overhalden,2	
-1826,Overhallen,11	
+1826,Overhalla,12	
 1826,Porsanger - Porsánjggu Gielda - Porsangin Komuuni,3	
 1826,Porsgrunn,25	
 1826,Quillesogn Sverige,1	
@@ -5248,7 +5222,7 @@
 1826,Tromsø,9	
 1826,Tromssundet,1	
 1826,Trondens,2	
-1826,Trondheim,38	
+1826,Trondheim,37	
 1826,Trsundets H,1	
 1826,Trygstad Smålen,1	
 1826,Trygstad,1	
@@ -5400,7 +5374,6 @@
 1827,Bleken,1	
 1827,Bodø,8	
 1827,Bokn,2	
-1827,Bols,7	
 1827,Brønnøy,3	
 1827,Brandvald I Solr,1	
 1827,Brandvald,1	
@@ -5488,7 +5461,7 @@
 1827,Fredriksald,1	
 1827,Fredrikstad,13	
 1827,Fresvik,1	
-1827,Frogn,14	
+1827,Frogn,20	
 1827,Froland,2	
 1827,Fron Sndre,1	
 1827,Fron,1	
@@ -5542,7 +5515,6 @@
 1827,Hakedal,1	
 1827,Halden,18	
 1827,Hallingdal,2	
-1827,Halså Og Hartmark,2	
 1827,Halså,1	
 1827,Halset,1	
 1827,Hamar,1	
@@ -5560,7 +5532,6 @@
 1827,Haugesund,4	
 1827,Hedenstad Vre Sandsver,1	
 1827,Hedrumt,1	
-1827,Hegre,6	
 1827,Helgen,1	
 1827,Helland Sogn,1	
 1827,Hellelands Sogn,1	
@@ -5715,7 +5686,7 @@
 1827,Målselv,8	
 1827,Mallinbakken,1	
 1827,Malvik,2	
-1827,Mandal,9	
+1827,Mandal,11	
 1827,Mark,2	
 1827,Marker,3	
 1827,Marnardal,3	
@@ -5725,14 +5696,14 @@
 1827,Meland,1	
 1827,Meldal,11	
 1827,Melhus,16	
-1827,Meraker,6	
+1827,Meråker,6	
 1827,Mgster,1	
 1827,Midtre Gauldal,16	
 1827,Miraker,1	
 1827,Misvr,1	
 1827,Modalen,3	
 1827,Modum,9	
-1827,Molde,10	
+1827,Molde,17	
 1827,Molselven,1	
 1827,Moss,12	
 1827,Mostamarken,1	
@@ -5796,7 +5767,7 @@
 1827,Osterøy,23	
 1827,Otter,1	
 1827,Overhalden,1	
-1827,Overhallen,1	
+1827,Overhalla,1	
 1827,Ovren,1	
 1827,Porsanger - Porsánjggu Gielda - Porsangin Komuuni,3	
 1827,Porsgr,1	
@@ -6162,8 +6133,6 @@
 1828,Bohusln Sverige,2	
 1828,Bohusln,2	
 1828,Bokn,1	
-1828,Bols Romsdal,1	
-1828,Bols,13	
 1828,Bosland Sverge,1	
 1828,Brønnøy,11	
 1828,Bramnes,1	
@@ -6268,7 +6237,7 @@
 1828,Frenen Herred,1	
 1828,Frideberg,1	
 1828,Frien,1	
-1828,Frogn,22	
+1828,Frogn,30	
 1828,Froland,6	
 1828,Fron,1	
 1828,Frosta,9	
@@ -6328,7 +6297,6 @@
 1828,Halden,15	
 1828,Halingdal,1	
 1828,Hallingdal,3	
-1828,Halså Og Hartmark,5	
 1828,Halså,2	
 1828,Hamarøy,7	
 1828,Hammers Prgj,1	
@@ -6343,7 +6311,6 @@
 1828,Heddemarken,1	
 1828,Hedemarken,1	
 1828,Heen,1	
-1828,Hegre,8	
 1828,Helgen Ns Herred,1	
 1828,Helland Sogn,1	
 1828,Hemne,12	
@@ -6506,7 +6473,7 @@
 1828,Malchin Mecklenburg Schwerin,1	
 1828,Mallangen,1	
 1828,Malvik,4	
-1828,Mandal,12	
+1828,Mandal,17	
 1828,Mangskog Sverige,1	
 1828,Mark,2	
 1828,Marker,3	
@@ -6517,13 +6484,13 @@
 1828,Meløy,6	
 1828,Meldal,20	
 1828,Melhus,11	
-1828,Meraker,5	
+1828,Meråker,5	
 1828,Midtre Gauldal,19	
 1828,Ml Sverige,1	
 1828,Modalen,2	
 1828,Modum,16	
 1828,Moi Kvinesdal,1	
-1828,Molde,8	
+1828,Molde,22	
 1828,Moss,13	
 1828,Mostadmarkens Jernvrk,1	
 1828,Muoni,1	
@@ -6589,7 +6556,7 @@
 1828,Oslo,70	
 1828,Osterøy,25	
 1828,Ostrefjorden,1	
-1828,Overhallen,8	
+1828,Overhalla,8	
 1828,Polen Tyskland,1	
 1828,Porsgrunn,25	
 1828,Råde,6	
@@ -6970,8 +6937,6 @@
 1829,Bohuslen Sverige,1	
 1829,Bohusln Sverige,2	
 1829,Bokn,1	
-1829,Bols Romsdalen,1	
-1829,Bols,13	
 1829,Bottenf Re,1	
 1829,Brønnøy,12	
 1829,Brandvald,2	
@@ -7000,7 +6965,6 @@
 1829,Dagalid,1	
 1829,Dahle Romsdalen,1	
 1829,Dale Sndfj,1	
-1829,Dalerne Ekersund,1	
 1829,Dalsland Sverig,1	
 1829,Dalsland,1	
 1829,Darsland,1	
@@ -7024,7 +6988,7 @@
 1829,Eidsskogen,2	
 1829,Eidsvoll,22	
 1829,Eifjord,1	
-1829,Eigersund,17	
+1829,Eigersund,18	
 1829,Eiken,1	
 1829,Einastranden,1	
 1829,Eivindvik,1	
@@ -7086,7 +7050,7 @@
 1829,Fred,2	
 1829,Fredrikstad,13	
 1829,Fresvik Lekanger Prgj,1	
-1829,Frogn,28	
+1829,Frogn,37	
 1829,Froland,7	
 1829,Fron Gudbrandsdalen,1	
 1829,Frosta,14	
@@ -7154,7 +7118,6 @@
 1829,Hakedal,1	
 1829,Halden,18	
 1829,Hallingdal,1	
-1829,Halså Og Hartmark,8	
 1829,Hamarøy,5	
 1829,Hammers Sogn,1	
 1829,Haparanda Sverige,1	
@@ -7168,7 +7131,6 @@
 1829,Haug Ringerike,1	
 1829,Haugesund,2	
 1829,Hedemarken,4	
-1829,Hegre,9	
 1829,Helland,1	
 1829,Hemne,14	
 1829,Hemnes,16	
@@ -7352,7 +7314,7 @@
 1829,Mallangen,1	
 1829,Malmanger,1	
 1829,Malvik,6	
-1829,Mandal,7	
+1829,Mandal,15	
 1829,Mangers Herred,1	
 1829,Mark,4	
 1829,Marker,8	
@@ -7362,7 +7324,7 @@
 1829,Meldal,14	
 1829,Melhus,19	
 1829,Melt,1	
-1829,Meraker,4	
+1829,Meråker,4	
 1829,Midtre Gauldal,16	
 1829,Mjelde Tromssund,1	
 1829,Mland,2	
@@ -7371,7 +7333,7 @@
 1829,Modum,28	
 1829,Moland,1	
 1829,Molands Sogn,1	
-1829,Molde,8	
+1829,Molde,22	
 1829,Moss,8	
 1829,Moviken,1	
 1829,N Aurdal,1	
@@ -7431,7 +7393,7 @@
 1829,Osen,4	
 1829,Oslo,80	
 1829,Osterøy,37	
-1829,Overhallen,13	
+1829,Overhalla,14	
 1829,Porsgrunn,24	
 1829,Preussen,1	
 1829,Råde,5	
@@ -7512,7 +7474,6 @@
 1829,Sjolden,1	
 1829,Sjsongn,1	
 1829,Skage I Namdalen,2	
-1829,Skage I Overhallen,1	
 1829,Skage,1	
 1829,Skaudal,1	
 1829,Skaudalen,1	
@@ -7833,8 +7794,6 @@
 1830,Bodø,20	
 1830,Bokn,4	
 1830,Bolkesj,1	
-1830,Bols I Romsdalen,1	
-1830,Bols,10	
 1830,Bostad,1	
 1830,Bothne Aneks Hillestad,1	
 1830,Brønnøy,12	
@@ -7880,7 +7839,7 @@
 1830,Eidskog,29	
 1830,Eidsskogen,1	
 1830,Eidsvoll,34	
-1830,Eigersund,26	
+1830,Eigersund,28	
 1830,Eike Ovenfor Krsand S,1	
 1830,Eikefjord,1	
 1830,Eiken Sogn,1	
@@ -7890,7 +7849,6 @@
 1830,Eken,1	
 1830,Eker Prgj,1	
 1830,Eker,6	
-1830,Ekersund,2	
 1830,Ekker,1	
 1830,Ekne,1	
 1830,Elsborgslen Sverge,1	
@@ -7960,7 +7918,7 @@
 1830,Frien,1	
 1830,Froen Gudbrandsdalen,1	
 1830,Froen,1	
-1830,Frogn,27	
+1830,Frogn,43	
 1830,Froland,6	
 1830,Frolands Sogn,1	
 1830,Frosta,9	
@@ -8015,7 +7973,6 @@
 1830,Hallingdal,4	
 1830,Halmstad Sverige,1	
 1830,Halmstadt Sverrige,1	
-1830,Halså Og Hartmark,4	
 1830,Halså,1	
 1830,Hamarøy,9	
 1830,Hamburg,1	
@@ -8034,7 +7991,6 @@
 1830,Havsfloe Sogn,1	
 1830,Hedemarken Romdal,1	
 1830,Hedemarken,4	
-1830,Hegre,16	
 1830,Heirefos,1	
 1830,Helgeland,1	
 1830,Helgen Sogn N Telemarken,1	
@@ -8243,7 +8199,7 @@
 1830,Måsøy,4	
 1830,Malmin Jderen,1	
 1830,Malvik,4	
-1830,Mandal,18	
+1830,Mandal,22	
 1830,Mangers Herred,1	
 1830,Maridalen,1	
 1830,Mark,8	
@@ -8254,7 +8210,7 @@
 1830,Meløy,9	
 1830,Meldal,23	
 1830,Melhus,16	
-1830,Meraker,6	
+1830,Meråker,6	
 1830,Mgster,1	
 1830,Midtre Gauldal,30	
 1830,Mkster,1	
@@ -8266,7 +8222,7 @@
 1830,Modum,23	
 1830,Moi,1	
 1830,Moland,1	
-1830,Molde,16	
+1830,Molde,27	
 1830,Moss,15	
 1830,Mosslandsogn,1	
 1830,Myking,1	
@@ -8351,7 +8307,7 @@
 1830,Oslo,101	
 1830,Osterøy,38	
 1830,Overhalden,2	
-1830,Overhallen,5	
+1830,Overhalla,5	
 1830,Overholen,1	
 1830,Porsanger - Porsánjggu Gielda - Porsangin Komuuni,5	
 1830,Porsgrunn,39	
@@ -8803,7 +8759,6 @@
 1831,Bohuslen Sverige,1	
 1831,Bohusln Sverige,2	
 1831,Bokn,2	
-1831,Bols,17	
 1831,Borg,1	
 1831,Bornholm Danmark,1	
 1831,Bosekop,1	
@@ -8856,12 +8811,11 @@
 1831,Eidskog,16	
 1831,Eidsvågen,1	
 1831,Eidsvoll,31	
-1831,Eigersund,11	
+1831,Eigersund,12	
 1831,Eirisfjord Og Visdal,1	
 1831,Eivindvik,1	
 1831,Eken,2	
 1831,Eker,8	
-1831,Ekersund Landsogn,1	
 1831,Ekne,2	
 1831,Elverum,25	
 1831,Enebakk,13	
@@ -8914,7 +8868,7 @@
 1831,Frennen,1	
 1831,Fria,1	
 1831,Frien,1	
-1831,Frogn,23	
+1831,Frogn,35	
 1831,Froland,11	
 1831,Fron Gudbrdalen,1	
 1831,Fron I Gudbrandsdalen,1	
@@ -8978,7 +8932,6 @@
 1831,Halden,21	
 1831,Halland,1	
 1831,Hallingdal,3	
-1831,Halså Og Hartmark,2	
 1831,Halså,1	
 1831,Halsn,1	
 1831,Hamar,1	
@@ -9002,7 +8955,6 @@
 1831,Hedemarken Ringsager,1	
 1831,Hedemarken,2	
 1831,Heen,1	
-1831,Hegre,12	
 1831,Helgen,1	
 1831,Hemne,11	
 1831,Hemnes,14	
@@ -9174,7 +9126,7 @@
 1831,Målselv,3	
 1831,Måsøy,2	
 1831,Malvik,12	
-1831,Mandal,16	
+1831,Mandal,18	
 1831,Mark,5	
 1831,Marker,1	
 1831,Markerud Sverige,1	
@@ -9186,14 +9138,14 @@
 1831,Melhus,27	
 1831,Melum,1	
 1831,Memel,1	
-1831,Meraker,7	
+1831,Meråker,7	
 1831,Mgster,1	
 1831,Midbe I Åensire,1	
 1831,Midtre Gauldal,25	
 1831,Modalen,1	
 1831,Modum,22	
 1831,Moland,1	
-1831,Molde,10	
+1831,Molde,27	
 1831,Moss,7	
 1831,Myhre Ringebo Gudbrand,1	
 1831,Mykand Sogn,1	
@@ -9274,7 +9226,7 @@
 1831,Osterøy,34	
 1831,Ostereide,1	
 1831,Overhalden,2	
-1831,Overhallen,10	
+1831,Overhalla,10	
 1831,Polen Bremns,1	
 1831,Porsgrunn,22	
 1831,Råde,11	
@@ -9703,8 +9655,6 @@
 1832,Bohuslen Sverge,1	
 1832,Bohusln,1	
 1832,Bokn,1	
-1832,Bols I Romsdalen,1	
-1832,Bols,19	
 1832,Boren,1	
 1832,Borgvik Sverige,1	
 1832,Brønnøy,20	
@@ -9770,11 +9720,10 @@
 1832,Eidsskogen,1	
 1832,Eidsvågen,1	
 1832,Eidsvoll,29	
-1832,Eigersund,24	
+1832,Eigersund,26	
 1832,Eiken,1	
 1832,Eisperg,1	
 1832,Eker,7	
-1832,Ekersund,2	
 1832,Elfsborg,1	
 1832,Elverum,20	
 1832,Enbak,1	
@@ -9838,7 +9787,7 @@
 1832,Frien,1	
 1832,Friland I Thime S,1	
 1832,Frnens Herred,1	
-1832,Frogn,30	
+1832,Frogn,44	
 1832,Froland,9	
 1832,Fron I Gudbrandsdalen,1	
 1832,Fron,1	
@@ -9906,7 +9855,6 @@
 1832,Halden,44	
 1832,Hallindal,1	
 1832,Hallingdal,5	
-1832,Halså Og Hartmark,2	
 1832,Halså Sogn,1	
 1832,Halså,1	
 1832,Hamarøy,7	
@@ -9930,7 +9878,6 @@
 1832,Hedemarken,2	
 1832,Hederum,1	
 1832,Hegbostad,1	
-1832,Hegre,14	
 1832,Helg,1	
 1832,Helgeen Ns Hedem,1	
 1832,Helgeen,1	
@@ -10159,7 +10106,7 @@
 1832,Måsøy,2	
 1832,Malangent,1	
 1832,Malvik,6	
-1832,Mandal,25	
+1832,Mandal,27	
 1832,Maridalen,1	
 1832,Mark,3	
 1832,Marker,4	
@@ -10170,7 +10117,7 @@
 1832,Meløy,4	
 1832,Meldal,23	
 1832,Melhus,28	
-1832,Meraker,4	
+1832,Meråker,4	
 1832,Midtre Gauldal,29	
 1832,Milsvik Sverige,1	
 1832,Mland,1	
@@ -10181,7 +10128,7 @@
 1832,Moland Sogn,1	
 1832,Moland,3	
 1832,Molands Sogn,1	
-1832,Molde,12	
+1832,Molde,32	
 1832,Morkjping Sverige,1	
 1832,Mosby,1	
 1832,Moss,20	
@@ -10270,8 +10217,7 @@
 1832,Oslo,96	
 1832,Osterøy,35	
 1832,Overhalden,3	
-1832,Overhallen Herred,1	
-1832,Overhallen,9	
+1832,Overhalla,10	
 1832,Peteå Sverige,1	
 1832,Porsanger - Porsánjggu Gielda - Porsangin Komuuni,3	
 1832,Porsgrunn,40	
@@ -10737,9 +10683,6 @@
 1833,Bohusln Sverige,1	
 1833,Bohusln,1	
 1833,Bokn,2	
-1833,Bols Prgj,1	
-1833,Bols Romsdal,1	
-1833,Bols,17	
 1833,Boren,1	
 1833,Brårvig Flsteren,1	
 1833,Brønnøy,14	
@@ -10801,11 +10744,10 @@
 1833,Eidsfos,1	
 1833,Eidskog,30	
 1833,Eidsvoll,39	
-1833,Eigersund,27	
+1833,Eigersund,28	
 1833,Eiken,1	
 1833,Eivindvik,1	
 1833,Eker,5	
-1833,Ekersund,1	
 1833,Elverum,29	
 1833,Enebakk,30	
 1833,Engerdalen,1	
@@ -10869,7 +10811,7 @@
 1833,Fredrikstad,20	
 1833,Frenens Herred,1	
 1833,Friedland Prisen,1	
-1833,Frogn,32	
+1833,Frogn,44	
 1833,Froland,8	
 1833,Fron,1	
 1833,Frosta,16	
@@ -10939,7 +10881,6 @@
 1833,Hakkedal,1	
 1833,Halden,39	
 1833,Hallingdal,1	
-1833,Halså Og Hartmark,7	
 1833,Halså Sogn,1	
 1833,Halså,1	
 1833,Hamarøy,15	
@@ -10966,7 +10907,6 @@
 1833,Hedemarken,4	
 1833,Heen,1	
 1833,Hegbodstad,1	
-1833,Hegre,12	
 1833,Heirefos,1	
 1833,Helg Stjerner,1	
 1833,Helg,1	
@@ -11203,7 +11143,7 @@
 1833,Malmin Hilands Sogn,1	
 1833,Malungen Sverige,1	
 1833,Malvik,5	
-1833,Mandal,27	
+1833,Mandal,34	
 1833,Maridalen,5	
 1833,Mark,15	
 1833,Marker,7	
@@ -11217,14 +11157,14 @@
 1833,Melhus,29	
 1833,Meling Pr Tananger,1	
 1833,Melland,1	
-1833,Meraker,6	
+1833,Meråker,6	
 1833,Mgster,1	
 1833,Midtre Gauldal,19	
 1833,Ml Sverige,1	
 1833,Modalen,1	
 1833,Modum,37	
 1833,Moland,3	
-1833,Molde,14	
+1833,Molde,33	
 1833,Moss,24	
 1833,Myklebust,1	
 1833,N Eker,1	
@@ -11330,7 +11270,7 @@
 1833,Osterøy,48	
 1833,Otteren,1	
 1833,Overhalden,5	
-1833,Overhallen,11	
+1833,Overhalla,11	
 1833,Porsanger - Porsánjggu Gielda - Porsangin Komuuni,1	
 1833,Porsgrnd,1	
 1833,Porsgrunn,45	
@@ -11847,8 +11787,6 @@
 1834,Bohuslen Sverige,1	
 1834,Bokken,1	
 1834,Bokn,5	
-1834,Bols Romsdalen,1	
-1834,Bols,19	
 1834,Brønnøy,12	
 1834,Brandvold Solr,1	
 1834,Brandvold,1	
@@ -11979,7 +11917,7 @@
 1834,Frenen Prgj Romsdalen,1	
 1834,Frenen,1	
 1834,Frndefors Sverige,1	
-1834,Frogn,35	
+1834,Frogn,54	
 1834,Froland,9	
 1834,Fron Gudbrd,1	
 1834,Frosta,8	
@@ -12049,7 +11987,6 @@
 1834,Hallen,1	
 1834,Hallingdal,3	
 1834,Halmstad,1	
-1834,Halså Og Hartmark,12	
 1834,Halså,2	
 1834,Hamarøy,8	
 1834,Hamburg,2	
@@ -12076,7 +12013,6 @@
 1834,Hedenstad Sandsv,1	
 1834,Hedmarken,1	
 1834,Heggebostad,1	
-1834,Hegre,19	
 1834,Helåj,1	
 1834,Helg,1	
 1834,Helgen,2	
@@ -12278,7 +12214,7 @@
 1834,Målselv,7	
 1834,Månslven,1	
 1834,Malvik,8	
-1834,Mandal,19	
+1834,Mandal,31	
 1834,Mangskog Sverige,1	
 1834,Mark,8	
 1834,Marker,11	
@@ -12291,7 +12227,7 @@
 1834,Mellingen,1	
 1834,Melum Anex,1	
 1834,Melum,1	
-1834,Meraker,3	
+1834,Meråker,3	
 1834,Mgster,1	
 1834,Midtre Gauldal,28	
 1834,Mland Sogn Holsenen,1	
@@ -12300,7 +12236,7 @@
 1834,Modum,45	
 1834,Moland Sogn,1	
 1834,Moland,1	
-1834,Molde,15	
+1834,Molde,35	
 1834,Monselven,1	
 1834,Moskenes,1	
 1834,Moss,19	
@@ -12401,7 +12337,7 @@
 1834,Osteren,1	
 1834,Overhalden Namdalen,1	
 1834,Overhalden,1	
-1834,Overhallen,12	
+1834,Overhalla,12	
 1834,Paris,1	
 1834,Porsanger - Porsánjggu Gielda - Porsangin Komuuni,1	
 1834,Porsgrnd,1	
@@ -12904,8 +12840,6 @@
 1835,Bohuslen,1	
 1835,Bohusln,2	
 1835,Bokn,4	
-1835,Bols Prgj,2	
-1835,Bols,21	
 1835,Bolse Fanestrand,1	
 1835,Borg Smålenene,1	
 1835,Borgun Sogn,1	
@@ -13074,7 +13008,7 @@
 1835,Frien,1	
 1835,Froen Gulbrandsdalen,1	
 1835,Froen,1	
-1835,Frogn,34	
+1835,Frogn,52	
 1835,Froland,16	
 1835,Fron I Gdbr,1	
 1835,Fron,2	
@@ -13150,7 +13084,6 @@
 1835,Halden,53	
 1835,Hallen,1	
 1835,Hallingdal,4	
-1835,Halså Og Hartmark,14	
 1835,Halså Sogn,1	
 1835,Halså,3	
 1835,Hamarøy,8	
@@ -13177,7 +13110,6 @@
 1835,Hayer Schleswig,1	
 1835,Hedemarken,5	
 1835,Heggebostad,1	
-1835,Hegre,18	
 1835,Heiso,1	
 1835,Helgeland,1	
 1835,Helgen,1	
@@ -13308,7 +13240,6 @@
 1835,Kjt,1	
 1835,Kjtt Sogn,1	
 1835,Klbu,4	
-1835,Kleive Pr Bols,1	
 1835,Kleive,1	
 1835,Klep,5	
 1835,Klepp,5	
@@ -13426,7 +13357,7 @@
 1835,Målselv,7	
 1835,Måsøy,1	
 1835,Malvik,9	
-1835,Mandal,28	
+1835,Mandal,42	
 1835,Maridalen Pr Chra,1	
 1835,Maridalen,1	
 1835,Mark,4	
@@ -13441,7 +13372,7 @@
 1835,Meldal,21	
 1835,Melhus,31	
 1835,Melum,1	
-1835,Meraker,10	
+1835,Meråker,10	
 1835,Mgster Pr,1	
 1835,Midtre Gauldal,22	
 1835,Mland,1	
@@ -13453,7 +13384,7 @@
 1835,Moland P A,1	
 1835,Moland,3	
 1835,Molands Sogn,1	
-1835,Molde,20	
+1835,Molde,44	
 1835,Moskens,1	
 1835,Mosns,1	
 1835,Moss,31	
@@ -13554,7 +13485,7 @@
 1835,Osterøy,62	
 1835,Osteren,1	
 1835,Overhalden,5	
-1835,Overhallen,13	
+1835,Overhalla,13	
 1835,Porsanger - Porsánjggu Gielda - Porsangin Komuuni,2	
 1835,Porsgrunn,50	
 1835,Råde,16	
@@ -14103,9 +14034,6 @@
 1836,Bohus Ln Sverrige,1	
 1836,Bohusln,1	
 1836,Bokn,4	
-1836,Bols Romsdalen,1	
-1836,Bols,19	
-1836,Bolsen,1	
 1836,Borgen Sndmr,1	
 1836,Brønnøy,20	
 1836,Brandvald Solr,1	
@@ -14179,14 +14107,13 @@
 1836,Eidskog,24	
 1836,Eidskoven,1	
 1836,Eidsvoll,48	
-1836,Eigersund,31	
+1836,Eigersund,32	
 1836,Eiken Sogn,1	
 1836,Eiken,2	
 1836,Eisberg,1	
 1836,Ek Slagen,1	
 1836,Eker Sogn,1	
 1836,Eker,18	
-1836,Ekersund,1	
 1836,Ekne,1	
 1836,Eksingdalen,1	
 1836,Elfsborgsln,1	
@@ -14270,7 +14197,7 @@
 1836,Fredrikstad,26	
 1836,Frendefos Sverige,1	
 1836,Frenen,1	
-1836,Frogn,35	
+1836,Frogn,51	
 1836,Froland,13	
 1836,Frolands Sogn,1	
 1836,Fron,1	
@@ -14352,7 +14279,6 @@
 1836,Hakadalen,1	
 1836,Hakedalen,2	
 1836,Halden,58	
-1836,Halså Og Hartmark,13	
 1836,Hamar,1	
 1836,Hamarøy,12	
 1836,Hamburg,2	
@@ -14386,7 +14312,6 @@
 1836,Hedemarken,9	
 1836,Hedenstad Sandsvr,1	
 1836,Heen,3	
-1836,Hegre,16	
 1836,Helg,1	
 1836,Helgebo Sverige,1	
 1836,Helgeen Ns Hedem,1	
@@ -14498,7 +14423,6 @@
 1836,Kleive Sogn,1	
 1836,Klep,3	
 1836,Klepp,11	
-1836,Kleve Bols,1	
 1836,Kleve I R,1	
 1836,Kleve,1	
 1836,Kloster,1	
@@ -14614,7 +14538,7 @@
 1836,Mager Herlv,1	
 1836,Malvig,1	
 1836,Malvik,8	
-1836,Mandal,16	
+1836,Mandal,29	
 1836,Manden Skotsk,1	
 1836,Mangers Herred,1	
 1836,Mangers Prgj,1	
@@ -14631,7 +14555,7 @@
 1836,Meldal,24	
 1836,Melhus,33	
 1836,Melum,1	
-1836,Meraker,9	
+1836,Meråker,9	
 1836,Messelt,1	
 1836,Midtre Gauldal,37	
 1836,Misvr,1	
@@ -14642,7 +14566,7 @@
 1836,Modum,41	
 1836,Moe Telemarken,1	
 1836,Moi Kvinesdal,1	
-1836,Molde,23	
+1836,Molde,45	
 1836,Moss,22	
 1836,Mrd,1	
 1836,Mudum,1	
@@ -14742,8 +14666,7 @@
 1836,Osterøy,63	
 1836,Otter Sogn,1	
 1836,Overhalden,1	
-1836,Overhallen Namdalen,1	
-1836,Overhallen,7	
+1836,Overhalla,8	
 1836,Poone India,1	
 1836,Porsanger - Porsánjggu Gielda - Porsangin Komuuni,2	
 1836,Porsgrunn,45	
@@ -15315,8 +15238,6 @@
 1837,Bohuslen,1	
 1837,Bohusln Sverige,1	
 1837,Bokn,4	
-1837,Bols Herred,1	
-1837,Bols,26	
 1837,Bolse,1	
 1837,Borås Sverige,1	
 1837,Bore,1	
@@ -15382,13 +15303,12 @@
 1837,Eidskog,21	
 1837,Eidsvåg,3	
 1837,Eidsvoll,39	
-1837,Eigersund,38	
+1837,Eigersund,39	
 1837,Eisberg,1	
 1837,Eivindvik,2	
 1837,Eker Sogn,1	
 1837,Eker Vre,1	
 1837,Eker,15	
-1837,Ekersund,1	
 1837,Ekne,3	
 1837,Elfsborgs Ln Sverige,1	
 1837,Elgå Verml,1	
@@ -15473,7 +15393,7 @@
 1837,Frien,2	
 1837,Frkingstad,1	
 1837,Frnens Herred,1	
-1837,Frogn,41	
+1837,Frogn,54	
 1837,Froland,16	
 1837,Fron,2	
 1837,Frosta,17	
@@ -15539,7 +15459,6 @@
 1837,Halden,45	
 1837,Halland Sverige,1	
 1837,Hallingdal,3	
-1837,Halså Og Hartmark,6	
 1837,Halså,2	
 1837,Hamarøy,13	
 1837,Hamburg,1	
@@ -15568,7 +15487,6 @@
 1837,Heen,3	
 1837,Heggebostad,1	
 1837,Heggem I Re,1	
-1837,Hegre,13	
 1837,Helg,1	
 1837,Helgeen,1	
 1837,Helgelan,1	
@@ -15697,7 +15615,6 @@
 1837,Kleive I Romsdalen,1	
 1837,Klep,2	
 1837,Klepp,8	
-1837,Kleve I Bols,1	
 1837,Kobervik,1	
 1837,Kongsberg,33	
 1837,Kongsvinger,39	
@@ -15810,7 +15727,7 @@
 1837,Lyngent,1	
 1837,Målselv,13	
 1837,Malvik,10	
-1837,Mandal,22	
+1837,Mandal,28	
 1837,Mangskogen Wermland,1	
 1837,Maridalen,1	
 1837,Mark,5	
@@ -15825,7 +15742,7 @@
 1837,Meldal,25	
 1837,Melhus,39	
 1837,Mell,1	
-1837,Meraker,9	
+1837,Meråker,9	
 1837,Midtre Gauldal,39	
 1837,Mjlhus,1	
 1837,Mland,1	
@@ -15834,7 +15751,7 @@
 1837,Modalen,5	
 1837,Modum,43	
 1837,Moland,2	
-1837,Molde,16	
+1837,Molde,44	
 1837,Mosby Odderns Sogn,1	
 1837,Moss,33	
 1837,Mosvika,1	
@@ -15947,7 +15864,7 @@
 1837,Oslo,150	
 1837,Osterøy,38	
 1837,Overhalden,4	
-1837,Overhallen,15	
+1837,Overhalla,15	
 1837,Porsanger - Porsánjggu Gielda - Porsangin Komuuni,4	
 1837,Porsgrunn,40	
 1837,Prst I Danmark,1	
@@ -16525,7 +16442,6 @@
 1838,Bodø,26	
 1838,Bohusln Sverige,1	
 1838,Bokn,4	
-1838,Bols,17	
 1838,Borås Sverige,1	
 1838,Borgå Sverige,1	
 1838,Brønnøy,18	
@@ -16686,7 +16602,7 @@
 1838,Fren,1	
 1838,Fresvik,1	
 1838,Frkhaug Mland,1	
-1838,Frogn,37	
+1838,Frogn,51	
 1838,Frogner,1	
 1838,Froland,14	
 1838,Frolands Jernverk,1	
@@ -16763,7 +16679,6 @@
 1838,Hakedalen,1	
 1838,Halden,60	
 1838,Hallingdal,1	
-1838,Halså Og Hartmark,10	
 1838,Halså,3	
 1838,Hamar,2	
 1838,Hamarøy,11	
@@ -16790,8 +16705,6 @@
 1838,Heen,1	
 1838,Hegeland,1	
 1838,Heggebostad,1	
-1838,Hegre Herred,1	
-1838,Hegre,13	
 1838,Helg Sognets,1	
 1838,Helgeland,3	
 1838,Hellelands Sogn,1	
@@ -17043,7 +16956,7 @@
 1838,Malm,1	
 1838,Malvigs Sogn,1	
 1838,Malvik,15	
-1838,Mandal,25	
+1838,Mandal,35	
 1838,Mangers Prgj,1	
 1838,Mangskog Sverige,1	
 1838,Maridalen,2	
@@ -17059,7 +16972,7 @@
 1838,Melhus,39	
 1838,Mellun,1	
 1838,Melum,1	
-1838,Meraker,5	
+1838,Meråker,6	
 1838,Midtre Gauldal,30	
 1838,Mlum,1	
 1838,Modalen,6	
@@ -17067,7 +16980,7 @@
 1838,Moland Sogn,1	
 1838,Moland Stre,1	
 1838,Moland,1	
-1838,Molde,7	
+1838,Molde,24	
 1838,Moss,24	
 1838,Mot,1	
 1838,Mstrand,1	
@@ -17169,7 +17082,7 @@
 1838,Oslo,170	
 1838,Osterøy,67	
 1838,Overhalden,3	
-1838,Overhallen,15	
+1838,Overhalla,15	
 1838,Porsanger - Porsánjggu Gielda - Porsangin Komuuni,7	
 1838,Porsgrunn,50	
 1838,Prestebakke,1	
@@ -17362,7 +17275,7 @@
 1838,Steinkjer,91	
 1838,Stens Hardanger,1	
 1838,Sterdalen,2	
-1838,Stjørdal,46	
+1838,Stjørdal,45	
 1838,Stjerner,1	
 1838,Stjernery,1	
 1838,Stockholm,2	
@@ -17735,7 +17648,6 @@
 1839,Bohuslen,1	
 1839,Bokn,3	
 1839,Bolkesj,1	
-1839,Bols,16	
 1839,Bolstad Sverige,1	
 1839,Borås S,1	
 1839,Borås Sverrige,1	
@@ -17886,7 +17798,7 @@
 1839,Fredrikstad,29	
 1839,Frien,2	
 1839,Frog,1	
-1839,Frogn,30	
+1839,Frogn,40	
 1839,Froland,15	
 1839,Frolands Vrk,1	
 1839,Fron Gudbranddalen,1	
@@ -17964,7 +17876,6 @@
 1839,Halden,44	
 1839,Hallingdahl,1	
 1839,Hallingdal,5	
-1839,Halså Og Hartmark,9	
 1839,Halså Sogn,1	
 1839,Halså,1	
 1839,Hamar,1	
@@ -17987,7 +17898,6 @@
 1839,Hedenstad,1	
 1839,Heen,1	
 1839,Hegebostad,1	
-1839,Hegre,10	
 1839,Helg I Ryfylke,1	
 1839,Helgeen,1	
 1839,Helgen,1	
@@ -18233,7 +18143,7 @@
 1839,Mallangen,1	
 1839,Malm,1	
 1839,Malvik,8	
-1839,Mandal,21	
+1839,Mandal,30	
 1839,Mangers,1	
 1839,Maridalen,1	
 1839,Mariestad I Sverige,1	
@@ -18248,7 +18158,7 @@
 1839,Meldal,12	
 1839,Melhus,42	
 1839,Melum,1	
-1839,Meraker,9	
+1839,Meråker,9	
 1839,Midtre Gauldal,19	
 1839,Mkster,1	
 1839,Mland,1	
@@ -18257,7 +18167,7 @@
 1839,Modom,1	
 1839,Modum,52	
 1839,Moland,3	
-1839,Molde,21	
+1839,Molde,37	
 1839,Mondal Romsdal,1	
 1839,Moss,30	
 1839,Mosskenes Pr,1	
@@ -18363,7 +18273,7 @@
 1839,Osterøy,68	
 1839,Otteren,1	
 1839,Overhalden,5	
-1839,Overhallen,9	
+1839,Overhalla,9	
 1839,Paris,1	
 1839,Pollen Bremns,1	
 1839,Porsanger - Porsánjggu Gielda - Porsangin Komuuni,3	
@@ -18932,9 +18842,6 @@
 1840,Bohusln Sverrig,1	
 1840,Bohusln,1	
 1840,Bokn,8	
-1840,Bols I Romsdalen,1	
-1840,Bols Prgj,1	
-1840,Bols,33	
 1840,Brønnøy,26	
 1840,Brandvål,1	
 1840,Brandvald,1	
@@ -19019,14 +18926,13 @@
 1840,Eidsvg,1	
 1840,Eidsvoll,43	
 1840,Eifjord I Hardanger,1	
-1840,Eigersund,42	
+1840,Eigersund,44	
 1840,Einastranden,1	
 1840,Eisberg,1	
 1840,Eiskogen,1	
 1840,Eivindvik,1	
 1840,Eker V Drmen,1	
 1840,Eker,20	
-1840,Ekersund,2	
 1840,Ekne,2	
 1840,Elgåen,1	
 1840,Elverum,56	
@@ -19126,7 +19032,7 @@
 1840,Fria,2	
 1840,Frien,4	
 1840,Friestad Jderen,1	
-1840,Frogn,43	
+1840,Frogn,63	
 1840,Froland,12	
 1840,Frolands Sogn,1	
 1840,Frolands Verk,1	
@@ -19219,7 +19125,6 @@
 1840,Halden,78	
 1840,Halland,1	
 1840,Hallingdal,4	
-1840,Halså Og Hartmark,14	
 1840,Halså Sogn,2	
 1840,Halså,5	
 1840,Hamarøy,18	
@@ -19251,7 +19156,6 @@
 1840,Heen,1	
 1840,Heggebosta,1	
 1840,Heggebostad,1	
-1840,Hegre,19	
 1840,Heirefos,1	
 1840,Hel,1	
 1840,Helg Sogn,1	
@@ -19556,7 +19460,7 @@
 1840,Malmlens Ln Sverige,1	
 1840,Malvig,1	
 1840,Malvik,8	
-1840,Mandal,33	
+1840,Mandal,47	
 1840,Mangers Herred,1	
 1840,Mangers Prgj,1	
 1840,Mark,10	
@@ -19575,7 +19479,7 @@
 1840,Melhus,40	
 1840,Melum Song,1	
 1840,Melum,1	
-1840,Meraker,8	
+1840,Meråker,8	
 1840,Merklenburg Tyskland,1	
 1840,Middelfart,1	
 1840,Midtre Gauldal,38	
@@ -19589,7 +19493,7 @@
 1840,Modum,62	
 1840,Modums Prgj,1	
 1840,Moland,1	
-1840,Molde,17	
+1840,Molde,52	
 1840,Moos,1	
 1840,Moskens,1	
 1840,Moss,45	
@@ -19704,7 +19608,7 @@
 1840,Ottemo Tran Hered,1	
 1840,Ous Rakkesad,1	
 1840,Overhalden,3	
-1840,Overhallen,6	
+1840,Overhalla,6	
 1840,Porsanger - Porsánjggu Gielda - Porsangin Komuuni,10	
 1840,Porsgrunn,67	
 1840,Råde,19	
@@ -19934,7 +19838,7 @@
 1840,Sterdalen,2	
 1840,Stersdal,1	
 1840,Stersdalen,1	
-1840,Stjørdal,32	
+1840,Stjørdal,31	
 1840,Stjerner,1	
 1840,Stjetvet,1	
 1840,Sto,1	
@@ -20349,7 +20253,6 @@
 1841,Bohuslen,4	
 1841,Bohusln Sverige,1	
 1841,Bolanda Dalsland,1	
-1841,Bols,23	
 1841,Borregård Thune,1	
 1841,Bouslen Sverige,1	
 1841,Brønnøy,35	
@@ -20419,7 +20322,7 @@
 1841,Eidsskogen,2	
 1841,Eidsvågen,1	
 1841,Eidsvoll,47	
-1841,Eigersund,21	
+1841,Eigersund,22	
 1841,Eikebygd,1	
 1841,Eiken,1	
 1841,Eikersund Landd,1	
@@ -20430,7 +20333,6 @@
 1841,Ekefjord,1	
 1841,Eken,1	
 1841,Eker,18	
-1841,Ekersund,1	
 1841,Ekne,2	
 1841,Eksingedalen,1	
 1841,Elfborgs Ln Sverige,1	
@@ -20526,7 +20428,7 @@
 1841,Frenen,2	
 1841,Frien,3	
 1841,Froen Gudbranddalen,1	
-1841,Frogn,33	
+1841,Frogn,50	
 1841,Froland,22	
 1841,Frolands Sogn,1	
 1841,Frosta,22	
@@ -20610,7 +20512,6 @@
 1841,Halland,1	
 1841,Hallingdal,2	
 1841,Hallsberg,1	
-1841,Halså Og Hartmark,13	
 1841,Halså Sogn,1	
 1841,Halså,4	
 1841,Hamar,1	
@@ -20642,7 +20543,6 @@
 1841,Hedenstad Sogn,1	
 1841,Hedenstad,1	
 1841,Hegebostad,2	
-1841,Hegre,17	
 1841,Helands Prgj,1	
 1841,Helgeen Ns H,1	
 1841,Helgen Annex Til Holden,1	
@@ -20917,7 +20817,7 @@
 1841,Malnes,1	
 1841,Malvik,10	
 1841,Mandahl,1	
-1841,Mandal,33	
+1841,Mandal,46	
 1841,Maridalen,2	
 1841,Mark,15	
 1841,Markaryd,1	
@@ -20934,14 +20834,14 @@
 1841,Mell,1	
 1841,Melleby I Tun,1	
 1841,Melum Sogn,1	
-1841,Meraker,11	
+1841,Meråker,11	
 1841,Mhren,1	
 1841,Midelfart,1	
 1841,Midtre Gauldal,37	
 1841,Modalen,7	
 1841,Modum,57	
 1841,Moland,3	
-1841,Molde,25	
+1841,Molde,48	
 1841,Moneå I Finland,1	
 1841,Mosby,1	
 1841,Moskenes,1	
@@ -21060,7 +20960,7 @@
 1841,Osterøy,79	
 1841,Oter Sogn,1	
 1841,Overhalden,8	
-1841,Overhallen,18	
+1841,Overhalla,18	
 1841,Paris,1	
 1841,Porsanger - Porsánjggu Gielda - Porsangin Komuuni,1	
 1841,Porsgrunn,53	
@@ -21684,8 +21584,6 @@
 1842,Bokken,1	
 1842,Bokn,10	
 1842,Bollestad,1	
-1842,Bols Romsd,1	
-1842,Bols,30	
 1842,Bore,1	
 1842,Boren,1	
 1842,Borgestad,1	
@@ -21885,7 +21783,7 @@
 1842,Friland Riska,1	
 1842,Frnens Herred,1	
 1842,Froen Gudbrandsdalen,1	
-1842,Frogn,60	
+1842,Frogn,84	
 1842,Frolan,1	
 1842,Froland,20	
 1842,Fron Gudbrandsdl,1	
@@ -21984,7 +21882,6 @@
 1842,Halden,65	
 1842,Halland,1	
 1842,Hallingdal,4	
-1842,Halså Og Hartmark,18	
 1842,Halså Sogn,1	
 1842,Halså,3	
 1842,Hamar,2	
@@ -22021,9 +21918,6 @@
 1842,Hedmarken,1	
 1842,Heen,2	
 1842,Hegebostad,1	
-1842,Hegre Sjrdal,1	
-1842,Hegre Strdalen,1	
-1842,Hegre,22	
 1842,Helg,2	
 1842,Helgeland,4	
 1842,Helgen,3	
@@ -22335,7 +22229,7 @@
 1842,Måsøy,2	
 1842,Malvig,1	
 1842,Malvik,22	
-1842,Mandal,38	
+1842,Mandal,56	
 1842,Mangers Sogn,1	
 1842,Maribo,1	
 1842,Maridalen,1	
@@ -22351,7 +22245,7 @@
 1842,Melhus,42	
 1842,Melum,2	
 1842,Mengerskirchen Tyskland,1	
-1842,Meraker,8	
+1842,Meråker,8	
 1842,Mgster,1	
 1842,Midtre Gauldal,46	
 1842,Mland Sogn,1	
@@ -22361,7 +22255,7 @@
 1842,Modum,78	
 1842,Moe,1	
 1842,Moland,5	
-1842,Molde,14	
+1842,Molde,45	
 1842,Monselven,1	
 1842,Moss,46	
 1842,Mosvigen,1	
@@ -22501,7 +22395,7 @@
 1842,Oter,1	
 1842,Ottery,1	
 1842,Overhalden,2	
-1842,Overhallen,16	
+1842,Overhalla,16	
 1842,Porsanger - Porsánjggu Gielda - Porsangin Komuuni,1	
 1842,Porsgrunn,67	
 1842,Råde,22	
@@ -23174,8 +23068,6 @@
 1843,Bohusln S,1	
 1843,Bohusln Sverige,1	
 1843,Bokn,6	
-1843,Bols Prgj,1	
-1843,Bols,20	
 1843,Brålanda Sverige,1	
 1843,Brønnøy,15	
 1843,Brandvald,2	
@@ -23270,7 +23162,7 @@
 1843,Eidsskog,2	
 1843,Eidsskogen,1	
 1843,Eidsvoll,53	
-1843,Eigersund,59	
+1843,Eigersund,60	
 1843,Eiken,4	
 1843,Eikenes Kjose,1	
 1843,Eiker,1	
@@ -23279,7 +23171,6 @@
 1843,Eiskog,1	
 1843,Eivindvik,1	
 1843,Eker,25	
-1843,Ekersund,1	
 1843,Ekne,1	
 1843,Eksingedalen,1	
 1843,Elfsborg Sverige,1	
@@ -23373,7 +23264,7 @@
 1843,Fredriksvr,1	
 1843,Frenens Prgj Romsdalen,1	
 1843,Frien,2	
-1843,Frogn,49	
+1843,Frogn,62	
 1843,Frohn,1	
 1843,Froland,10	
 1843,Frolands Sogn,1	
@@ -23472,7 +23363,6 @@
 1843,Halden,76	
 1843,Halindal,1	
 1843,Hallingdal,3	
-1843,Halså Og Hartmark,13	
 1843,Halså,3	
 1843,Halsen,1	
 1843,Halsnen,1	
@@ -23503,8 +23393,6 @@
 1843,Hedemarken,5	
 1843,Heen,1	
 1843,Hegge Slidre,1	
-1843,Hegre Sogn Vre Strdalen,1	
-1843,Hegre,12	
 1843,Helg H,1	
 1843,Helg Karls Sogn,1	
 1843,Helg Sogn,1	
@@ -23802,7 +23690,7 @@
 1843,Madsfjord,1	
 1843,Malm Swerige,1	
 1843,Malvik,10	
-1843,Mandal,41	
+1843,Mandal,54	
 1843,Mangers Herred,1	
 1843,Mariestad Sverige,1	
 1843,Marifjren,1	
@@ -23818,7 +23706,7 @@
 1843,Meldal,31	
 1843,Melhus,45	
 1843,Melum,1	
-1843,Meraker,17	
+1843,Meråker,17	
 1843,Midtre Gauldal,36	
 1843,Minde Pr Hadelan,1	
 1843,Mjlktorp Sogn Elfsborg Len Sverig,1	
@@ -23831,7 +23719,7 @@
 1843,Modom,1	
 1843,Modum,65	
 1843,Moland,2	
-1843,Molde,21	
+1843,Molde,42	
 1843,Morgedal,1	
 1843,Mosby,1	
 1843,Moss,32	
@@ -23952,7 +23840,7 @@
 1843,Osterøy,76	
 1843,Ottersberg,1	
 1843,Overhalden,1	
-1843,Overhallen,13	
+1843,Overhalla,13	
 1843,Porsanger - Porsánjggu Gielda - Porsangin Komuuni,5	
 1843,Porsanger,1	
 1843,Porsgrunn,80	
@@ -24640,7 +24528,6 @@
 1844,Bohusln Sverige,4	
 1844,Bokn,15	
 1844,Bollren,1	
-1844,Bols,24	
 1844,Borgun,1	
 1844,Borresogn,1	
 1844,Bouslen,1	
@@ -24758,7 +24645,7 @@
 1844,Eidsvol,1	
 1844,Eidsvoll,58	
 1844,Eigen,1	
-1844,Eigersund,53	
+1844,Eigersund,54	
 1844,Eikefjord,2	
 1844,Eiken,3	
 1844,Eisberg Smålene,1	
@@ -24770,7 +24657,6 @@
 1844,Eker Vre,1	
 1844,Eker,23	
 1844,Ekers Prgj,1	
-1844,Ekersund,1	
 1844,Ekne,1	
 1844,Elfsbogln Sverige,1	
 1844,Elfsborgs Len Sverige,1	
@@ -24873,7 +24759,7 @@
 1844,Fria,1	
 1844,Frien,2	
 1844,Frnens Prgj,1	
-1844,Frogn,67	
+1844,Frogn,93	
 1844,Frogner Sogn,1	
 1844,Froland,33	
 1844,Fron I Gudbrandsdalen,1	
@@ -24978,7 +24864,6 @@
 1844,Hallingdahl,1	
 1844,Hallingdal,4	
 1844,Hals Sogn,1	
-1844,Halså Og Hartmark,20	
 1844,Halså Sogn,4	
 1844,Halså,6	
 1844,Halsa,1	
@@ -25013,9 +24898,6 @@
 1844,Heen I Romsdahl,1	
 1844,Heen Romsdal,1	
 1844,Hegbusta Song,1	
-1844,Hegre I Strdal,1	
-1844,Hegre Strdalen,1	
-1844,Hegre,24	
 1844,Helg Sogn,1	
 1844,Helgeen Hed,1	
 1844,Helgeen Pr Hedemarken,1	
@@ -25360,7 +25242,7 @@
 1844,Malm,1	
 1844,Malvig Sogn,1	
 1844,Malvik,11	
-1844,Mandal,28	
+1844,Mandal,48	
 1844,Mangers Prgj,1	
 1844,Mark,12	
 1844,Marker,9	
@@ -25376,8 +25258,8 @@
 1844,Melum,1	
 1844,Memel,1	
 1844,Memer Tyskland,1	
+1844,Meråker,9	
 1844,Merager,1	
-1844,Meraker,9	
 1844,Mgster,1	
 1844,Midtre Gauldal,43	
 1844,Mkkelbostad Re,1	
@@ -25389,7 +25271,7 @@
 1844,Modum,83	
 1844,Moe Nrd Odalen,1	
 1844,Moland,7	
-1844,Molde,29	
+1844,Molde,53	
 1844,Monselven,1	
 1844,Moseviken,1	
 1844,Moskenes,2	
@@ -25538,7 +25420,7 @@
 1844,Otteren,1	
 1844,Ougdalen,1	
 1844,Overhalden,8	
-1844,Overhallen,18	
+1844,Overhalla,18	
 1844,På Atlanterhavet Af Norske Foreldre,1	
 1844,Penzance Cornwall,1	
 1844,Porsanger - Porsánjggu Gielda - Porsangin Komuuni,7	
@@ -26322,8 +26204,6 @@
 1845,Bohusln,2	
 1845,Bokn,8	
 1845,Bollebygd I Ufsborg Ln Sverige,1	
-1845,Bols Prgj,1	
-1845,Bols,19	
 1845,Bolstad Sogn,1	
 1845,Borås Sverige,1	
 1845,Borås Sverik,1	
@@ -26423,7 +26303,7 @@
 1845,Eidsskogen,2	
 1845,Eidsvoll,65	
 1845,Eier Gulbrandsdal,1	
-1845,Eigersund,41	
+1845,Eigersund,43	
 1845,Eigsberg K,1	
 1845,Eiken,1	
 1845,Eiskogen,1	
@@ -26434,7 +26314,6 @@
 1845,Ekeland Fuse,1	
 1845,Eken Sogn,1	
 1845,Eker,26	
-1845,Ekersund,2	
 1845,Ekersunds Lands,1	
 1845,Ekne,1	
 1845,Eksingedalen,2	
@@ -26530,7 +26409,7 @@
 1845,Frien,3	
 1845,Fritsla Sverige,1	
 1845,Frnens Herred,1	
-1845,Frogn,50	
+1845,Frogn,74	
 1845,Froland,17	
 1845,Frolands Sogn,1	
 1845,Fron Gudbrandsdalen,1	
@@ -26623,7 +26502,6 @@
 1845,Hakedalen,2	
 1845,Halden,74	
 1845,Hallingdal,4	
-1845,Halså Og Hartmark,17	
 1845,Halså,7	
 1845,Hamar,1	
 1845,Hamarøy,18	
@@ -26662,7 +26540,6 @@
 1845,Hegebostad,2	
 1845,Heggebostad,2	
 1845,Heggebusta Lister Og Mandals Amt,1	
-1845,Hegre,23	
 1845,Heieren Ringerike,1	
 1845,Heim,1	
 1845,Helgeen Hedemarken,1	
@@ -26843,7 +26720,6 @@
 1845,Kjylling,1	
 1845,Klbo,2	
 1845,Klbu,8	
-1845,Kleive Bols,1	
 1845,Kleive Sogn,1	
 1845,Kleive,1	
 1845,Klep Sogn,1	
@@ -27003,7 +26879,7 @@
 1845,Malm Sverige,1	
 1845,Malvig,1	
 1845,Malvik,16	
-1845,Mandal,32	
+1845,Mandal,49	
 1845,Mangers Prgj,1	
 1845,Maridalen,3	
 1845,Mark,12	
@@ -27017,7 +26893,7 @@
 1845,Meløy,15	
 1845,Meldal,24	
 1845,Melhus,33	
-1845,Meraker,13	
+1845,Meråker,13	
 1845,Midtre Gauldal,45	
 1845,Midtskogen I Sverige,1	
 1845,Ml Sverige,2	
@@ -27029,7 +26905,7 @@
 1845,Modalen,4	
 1845,Modum,69	
 1845,Moland,8	
-1845,Molde,27	
+1845,Molde,48	
 1845,Molvig,1	
 1845,Mon Tftedal Sverige,1	
 1845,Mosby,1	
@@ -27163,8 +27039,7 @@
 1845,Osterøy,83	
 1845,Otter Sogn,1	
 1845,Overhalden,4	
-1845,Overhallen Namdalen,1	
-1845,Overhallen,22	
+1845,Overhalla,23	
 1845,Pajala Sverrig,1	
 1845,Porsanger - Porsánjggu Gielda - Porsangin Komuuni,8	
 1845,Porsanger,1	
@@ -27428,7 +27303,7 @@
 1845,Steinkjer,118	
 1845,Stersdal,2	
 1845,Stersdalen,1	
-1845,Stjørdal,46	
+1845,Stjørdal,45	
 1845,Stjerner I Ryfylke,1	
 1845,Stjerner Ryfylke,1	
 1845,Stjerner,2	
@@ -27932,8 +27807,6 @@
 1846,Bohusln,1	
 1846,Bokn,11	
 1846,Boksnes,1	
-1846,Bols Sogn Romsdalen,1	
-1846,Bols,23	
 1846,Brønnøy,24	
 1846,Brakstad,1	
 1846,Brandlan Ns Folvig,1	
@@ -28030,14 +27903,13 @@
 1846,Eidskog,41	
 1846,Eidsskogen,2	
 1846,Eidsvoll,66	
-1846,Eigersund,45	
+1846,Eigersund,46	
 1846,Eikevold I Kinns Prgj,1	
 1846,Eikisdalen,1	
 1846,Eisberg,1	
 1846,Eiskogen,1	
 1846,Eker E,1	
 1846,Eker,25	
-1846,Ekersund,1	
 1846,Elfervig,1	
 1846,Elfsborg Sverige,1	
 1846,Elfsborgs Len,1	
@@ -28151,7 +28023,7 @@
 1846,Frnens Herred,1	
 1846,Froan,1	
 1846,Froens Prgj Gudbrandsdalen,1	
-1846,Frogn,59	
+1846,Frogn,77	
 1846,Froland,17	
 1846,Fron Gudbransdalen,1	
 1846,Fron I Gulbrandsdal,1	
@@ -28262,7 +28134,6 @@
 1846,Hallingdalen,1	
 1846,Halmstad,1	
 1846,Hals Danmark,1	
-1846,Halså Og Hartmark,11	
 1846,Halså Sogn,3	
 1846,Halså,5	
 1846,Hamarøy,11	
@@ -28301,7 +28172,6 @@
 1846,Heen,1	
 1846,Hegeland,1	
 1846,Hegland,1	
-1846,Hegre,17	
 1846,Helg,1	
 1846,Helgeen,1	
 1846,Helgeland,1	
@@ -28648,7 +28518,7 @@
 1846,Måsøy,4	
 1846,Malm,1	
 1846,Malvik,12	
-1846,Mandal,34	
+1846,Mandal,45	
 1846,Maridalen,1	
 1846,Marifjren,1	
 1846,Mark,10	
@@ -28664,7 +28534,7 @@
 1846,Meldal,26	
 1846,Melhus,42	
 1846,Meling,1	
-1846,Meraker,8	
+1846,Meråker,8	
 1846,Midtre Gauldal,56	
 1846,Mland I Alvrsund,2	
 1846,Mland,1	
@@ -28674,7 +28544,7 @@
 1846,Modum,63	
 1846,Moi,1	
 1846,Moland,4	
-1846,Molde,24	
+1846,Molde,48	
 1846,Monselven,1	
 1846,Moskenes,1	
 1846,Moss,51	
@@ -28805,8 +28675,7 @@
 1846,Ostevale Sverige,1	
 1846,Otteren,1	
 1846,Overhalden,3	
-1846,Overhallen N Throndhj Amt,1	
-1846,Overhallen,21	
+1846,Overhalla,22	
 1846,Porsanger - Porsánjggu Gielda - Porsangin Komuuni,3	
 1846,Porsgrunn,92	
 1846,Qvickjock Norbotten,1	
@@ -29066,7 +28935,7 @@
 1846,Sthammer,1	
 1846,Stiklestad Sogn,1	
 1846,Stiklestad,1	
-1846,Stjørdal,44	
+1846,Stjørdal,43	
 1846,Stjern Ryfylke,1	
 1846,Stjerner Ryfylke,1	
 1846,Stjerner,2	
@@ -29549,7 +29418,6 @@
 1847,Bohusln,2	
 1847,Boken,1	
 1847,Bokn,8	
-1847,Bols,26	
 1847,Bore,2	
 1847,Bors Sverrige,1	
 1847,Botngård I Bjong,1	
@@ -29659,7 +29527,7 @@
 1847,Eidsvoll,59	
 1847,Eigen,1	
 1847,Eiger,1	
-1847,Eigersund,45	
+1847,Eigersund,46	
 1847,Eikebygd,1	
 1847,Eiken,2	
 1847,Eisberg,3	
@@ -29669,7 +29537,6 @@
 1847,Eivindvik,2	
 1847,Eker,29	
 1847,Ekers Prgj,1	
-1847,Ekersund,1	
 1847,Ekker,1	
 1847,Ekne,1	
 1847,Eksingedalen,1	
@@ -29759,7 +29626,7 @@
 1847,Frirak,1	
 1847,Frnens Herred,1	
 1847,Frnns,1	
-1847,Frogn,60	
+1847,Frogn,83	
 1847,Frogner V A,1	
 1847,Froland,17	
 1847,Fron Gudbrandsd,1	
@@ -29874,7 +29741,6 @@
 1847,Hakkedal,1	
 1847,Halden,88	
 1847,Hallingdal,5	
-1847,Halså Og Hartmark,19	
 1847,Halså,5	
 1847,Halsn I Sndhordland,1	
 1847,Haltvik,1	
@@ -29917,9 +29783,6 @@
 1847,Heen,1	
 1847,Heens Sogn,1	
 1847,Hegge Slidre,1	
-1847,Hegre I Strdalen,2	
-1847,Hegre Sogn Vre Strdalen,1	
-1847,Hegre,20	
 1847,Heirefos,1	
 1847,Heistad Sogn Sandsvr,1	
 1847,Helgeen Hed,1	
@@ -30266,7 +30129,6 @@
 1847,Liten,50	
 1847,Ljse Herrad Vermland Sverige,1	
 1847,Lk,1	
-1847,Lnset I Bols,1	
 1847,Lnvik,1	
 1847,Loeng,1	
 1847,Lofoten Vgans Prgj,1	
@@ -30299,7 +30161,7 @@
 1847,Mallangen,1	
 1847,Malvig,2	
 1847,Malvik,12	
-1847,Mandal,48	
+1847,Mandal,67	
 1847,Mangskog I Vermland,1	
 1847,Mangskog Werml Sverige,1	
 1847,Marefjeren I Sogn,1	
@@ -30319,7 +30181,7 @@
 1847,Melhus,50	
 1847,Melum,1	
 1847,Melvig,1	
-1847,Meraker,12	
+1847,Meråker,12	
 1847,Mgster Sunds Herred,1	
 1847,Midtre Gauldal,50	
 1847,Mland,3	
@@ -30331,7 +30193,7 @@
 1847,Modum,83	
 1847,Moe Ranen,1	
 1847,Moland,4	
-1847,Molde,30	
+1847,Molde,57	
 1847,Monselven,1	
 1847,Morgedal,1	
 1847,Moss,44	
@@ -30466,7 +30328,7 @@
 1847,Osterøy,112	
 1847,Oustad Stersdal,1	
 1847,Overhalden,5	
-1847,Overhallen,10	
+1847,Overhalla,10	
 1847,Pajala Sverige,1	
 1847,Porsanger - Porsánjggu Gielda - Porsangin Komuuni,8	
 1847,Porsgrunn,77	
@@ -31240,9 +31102,6 @@
 1848,Bohusln,3	
 1848,Bokken,1	
 1848,Bokn,13	
-1848,Bols Prgj I Romsdalen,1	
-1848,Bols Sogn,1	
-1848,Bols,16	
 1848,Borås Sverige,1	
 1848,Borås,1	
 1848,Bore På Jederen,1	
@@ -31463,7 +31322,7 @@
 1848,Frien,1	
 1848,Frisdal Telemark,1	
 1848,Froen Gudbranddalen,1	
-1848,Frogn,67	
+1848,Frogn,82	
 1848,Froland,24	
 1848,Fron,1	
 1848,Frosta,36	
@@ -31570,7 +31429,6 @@
 1848,Halland,2	
 1848,Hallindal,1	
 1848,Hallingdal,5	
-1848,Halså Og Hartmark,12	
 1848,Halså Sogn,2	
 1848,Halså,1	
 1848,Hamar,2	
@@ -31610,8 +31468,6 @@
 1848,Heen,4	
 1848,Heggebostad,1	
 1848,Hegland Gjyland,1	
-1848,Hegre Vre Stjrdal,1	
-1848,Hegre,14	
 1848,Heirefos Prgj Christianssand Stift,1	
 1848,Heirefos,2	
 1848,Helg,1	
@@ -31809,7 +31665,6 @@
 1848,Klb,1	
 1848,Klbo,2	
 1848,Klbu,6	
-1848,Kleive Bols,1	
 1848,Kleive,2	
 1848,Klep Sogn,1	
 1848,Klep,6	
@@ -31970,7 +31825,7 @@
 1848,Malnes,1	
 1848,Malvik,20	
 1848,Manchester England,1	
-1848,Mandal,38	
+1848,Mandal,50	
 1848,Mangskog Vermland,1	
 1848,Marcellaz Frankrige,1	
 1848,Maridalen,5	
@@ -31990,7 +31845,7 @@
 1848,Melhus,39	
 1848,Melum Gård Bergan,1	
 1848,Memel Preussen,1	
-1848,Meraker,15	
+1848,Meråker,15	
 1848,Midtgulen,1	
 1848,Midtre Gauldal,45	
 1848,Mjålann Ivelands Sogn,1	
@@ -32002,7 +31857,7 @@
 1848,Modum,67	
 1848,Moe I Helgeland,1	
 1848,Moland,5	
-1848,Molde,29	
+1848,Molde,49	
 1848,Mong,1	
 1848,Morgan County Ohio Usa,1	
 1848,Morland,1	
@@ -32147,7 +32002,7 @@
 1848,Osteren,1	
 1848,Otnes,1	
 1848,Overhalden,7	
-1848,Overhallen,25	
+1848,Overhalla,25	
 1848,Pajalla Nord Sverige,1	
 1848,Pavola Finland,1	
 1848,Polmakt,1	
@@ -32772,7 +32627,6 @@
 1848,Åmodt Sterd,2	
 1848,Åmot,26	
 1848,Åmots Pr Sterdalen,1	
-1848,År I Bols,1	
 1848,Årdal,26	
 1848,Århus Danmark,1	
 1848,Århus,1	
@@ -32923,10 +32777,6 @@
 1849,Bohusln Sverige,6	
 1849,Bohusln,4	
 1849,Bokn,8	
-1849,Bols Herred,1	
-1849,Bols Romsdalen,1	
-1849,Bols Sogn,1	
-1849,Bols,27	
 1849,Borås Sv,1	
 1849,Borås Sverige,1	
 1849,Boren,1	
@@ -33042,13 +32892,12 @@
 1849,Eidsskog,1	
 1849,Eidsskogen,1	
 1849,Eidsvoll,82	
-1849,Eigersund,43	
+1849,Eigersund,45	
 1849,Eisberg,1	
 1849,Eiskogen,1	
 1849,Eisvold,2	
 1849,Eivindvik,1	
 1849,Eker,24	
-1849,Ekersund,2	
 1849,Ekne Sogn,1	
 1849,Elfsborgs Len,1	
 1849,Elfsborgs Ln Sverige,1	
@@ -33159,7 +33008,7 @@
 1849,Friland,1	
 1849,Froan,1	
 1849,Froen,1	
-1849,Frogn,58	
+1849,Frogn,85	
 1849,Froland,18	
 1849,Frolands Prstejld,1	
 1849,Froldholms,1	
@@ -33260,7 +33109,6 @@
 1849,Hallindal,1	
 1849,Hallingdahl,2	
 1849,Hallingdal,3	
-1849,Halså Og Hartmark,12	
 1849,Halså,1	
 1849,Hamar,2	
 1849,Hamarøy,16	
@@ -33294,7 +33142,6 @@
 1849,Hedmarken,1	
 1849,Hedrums Sogn,1	
 1849,Heen,1	
-1849,Hegre,27	
 1849,Hegvikens S,1	
 1849,Heirefos Sogn,1	
 1849,Heirefos,1	
@@ -33658,7 +33505,7 @@
 1849,Malvig,1	
 1849,Malvik,6	
 1849,Mandahl,1	
-1849,Mandal,35	
+1849,Mandal,47	
 1849,Mangers Prgj,1	
 1849,Mark,12	
 1849,Marker,18	
@@ -33676,7 +33523,7 @@
 1849,Melleby I Tun,1	
 1849,Melsomvig,1	
 1849,Melum,1	
-1849,Meraker,12	
+1849,Meråker,12	
 1849,Messelt,1	
 1849,Midtre Gauldal,41	
 1849,Mjeldalen,1	
@@ -33688,7 +33535,7 @@
 1849,Mnsterås I Sverige,1	
 1849,Modalen,8	
 1849,Modum,85	
-1849,Molde,28	
+1849,Molde,58	
 1849,Moss,50	
 1849,Mossherred,1	
 1849,Mosterhavn,1	
@@ -33829,7 +33676,7 @@
 1849,Osterøy,107	
 1849,Ottery,1	
 1849,Overhalden,7	
-1849,Overhallen,16	
+1849,Overhalla,16	
 1849,Påtuna Tyskland,1	
 1849,Paris,1	
 1849,Porsanger - Porsánjggu Gielda - Porsangin Komuuni,5	
@@ -34631,9 +34478,6 @@
 1850,Boken,1	
 1850,Bokken,1	
 1850,Bokn,6	
-1850,Bols Herred,1	
-1850,Bols Prgj,1	
-1850,Bols,15	
 1850,Bornholm,1	
 1850,Borrås,1	
 1850,Borresogn,1	
@@ -34743,7 +34587,7 @@
 1850,Eidsskog,1	
 1850,Eidsskoven,1	
 1850,Eidsvoll,75	
-1850,Eigersund,40	
+1850,Eigersund,43	
 1850,Eiken,1	
 1850,Eiredsfjord,1	
 1850,Eisberg,1	
@@ -34758,7 +34602,6 @@
 1850,Eker,29	
 1850,Ekerhovd Ytre Holmedal Sndfjord,1	
 1850,Ekers Prgj,1	
-1850,Ekersund,3	
 1850,Ekne,2	
 1850,Eksingdalen,1	
 1850,Elfsborg Len Sverige,2	
@@ -34894,7 +34737,7 @@
 1850,Frien,2	
 1850,Frland Tysver,1	
 1850,Frnens Herred,2	
-1850,Frogn,72	
+1850,Frogn,94	
 1850,Froland,27	
 1850,Frosta,17	
 1850,Frostad,1	
@@ -35011,7 +34854,6 @@
 1850,Hallindal,1	
 1850,Hallingdal,6	
 1850,Halså I Mandals Prgj,1	
-1850,Halså Og Hartmark,19	
 1850,Halså Sogn,3	
 1850,Halså,4	
 1850,Hamar,8	
@@ -35049,7 +34891,6 @@
 1850,Hedenstad Vre Sandsver,2	
 1850,Heen,2	
 1850,Heens Hered Romsdalen,1	
-1850,Hegre,21	
 1850,Heiland,1	
 1850,Heistad Sandsvr,1	
 1850,Hel Sogn,1	
@@ -35448,7 +35289,7 @@
 1850,Malnes Vesterål,1	
 1850,Malnes,1	
 1850,Malvik,9	
-1850,Mandal,51	
+1850,Mandal,70	
 1850,Mangers Herred,1	
 1850,Mangers Prgj,1	
 1850,Mark,12	
@@ -35467,7 +35308,7 @@
 1850,Melum Soleim,1	
 1850,Melvig I Landvig,1	
 1850,Memeld Preusen,1	
-1850,Meraker,6	
+1850,Meråker,6	
 1850,Merd,1	
 1850,Midtre Gauldal,43	
 1850,Mjelva Romsdalen,1	
@@ -35482,7 +35323,7 @@
 1850,Modom,1	
 1850,Modum,85	
 1850,Moland,5	
-1850,Molde,26	
+1850,Molde,43	
 1850,Monestero Italien,1	
 1850,Monijo Finland Htta,1	
 1850,Moskenes L,1	
@@ -35643,7 +35484,7 @@
 1850,Oteid Demark,1	
 1850,Overhalden Namdalen,1	
 1850,Overhalden,1	
-1850,Overhallen,19	
+1850,Overhalla,19	
 1850,På Kjlen Ved Altevandet,1	
 1850,Piteå,1	
 1850,Polen,3	
@@ -35944,7 +35785,7 @@
 1850,Stersund,1	
 1850,Stervalskog,1	
 1850,Stervold,1	
-1850,Stjørdal,62	
+1850,Stjørdal,61	
 1850,Stjerner,3	
 1850,Stmark,2	
 1850,Stnga,1	
@@ -36461,9 +36302,6 @@
 1851,Boksnes,1	
 1851,Bollestad,1	
 1851,Bolren,1	
-1851,Bols Romsdalen,1	
-1851,Bols Sogn,1	
-1851,Bols,26	
 1851,Borbu Varendal,1	
 1851,Bosta,1	
 1851,Bothne,1	
@@ -36570,13 +36408,12 @@
 1851,Eidsskog,3	
 1851,Eidsskogen,1	
 1851,Eidsvoll,87	
-1851,Eigersund,52	
+1851,Eigersund,56	
 1851,Eiken Sogn,2	
 1851,Einastranden,1	
 1851,Eirisfjord,1	
 1851,Eker Vre,1	
 1851,Eker,31	
-1851,Ekersund,4	
 1851,Ekersunds Landsogn,1	
 1851,Ekils Bremsns,1	
 1851,Eldsborg Sverige,1	
@@ -36686,7 +36523,7 @@
 1851,Fridriksstad,1	
 1851,Friedland Bhmen,1	
 1851,Froen,1	
-1851,Frogn,70	
+1851,Frogn,95	
 1851,Frogns Prs,1	
 1851,Froland,18	
 1851,Fron Gudbrandsd,1	
@@ -36788,7 +36625,6 @@
 1851,Hakkedalen,3	
 1851,Halden,100	
 1851,Hallingdal,4	
-1851,Halså Og Hartmark,16	
 1851,Halså Sogn,3	
 1851,Halså,6	
 1851,Halsnen,1	
@@ -36831,7 +36667,6 @@
 1851,Hedrums Sogn,1	
 1851,Heen,2	
 1851,Hegebostad Sogn,1	
-1851,Hegre,25	
 1851,Heinola Finl,1	
 1851,Heirefos Sogn,1	
 1851,Heirefos,2	
@@ -37171,7 +37006,7 @@
 1851,Malnes I B,1	
 1851,Malvig,1	
 1851,Malvik,24	
-1851,Mandal,42	
+1851,Mandal,58	
 1851,Mandals Prgj,1	
 1851,Mangers Sogn,1	
 1851,Maridalen,1	
@@ -37185,7 +37020,7 @@
 1851,Meldal,28	
 1851,Melhus,40	
 1851,Melhuus,1	
-1851,Meraker,15	
+1851,Meråker,15	
 1851,Merakers Pr,1	
 1851,Mgster,2	
 1851,Midtb Evindvik,1	
@@ -37200,7 +37035,7 @@
 1851,Modalen,6	
 1851,Modum,73	
 1851,Moland,3	
-1851,Molde,23	
+1851,Molde,51	
 1851,Molselven,1	
 1851,Monselven,1	
 1851,Morlanda Sogn Sverige,1	
@@ -37358,7 +37193,7 @@
 1851,Osterøy,78	
 1851,Ous Til Rakkest,1	
 1851,Overhalden,3	
-1851,Overhallen,15	
+1851,Overhalla,16	
 1851,Porsanger - Porsánjggu Gielda - Porsangin Komuuni,10	
 1851,Porsgrunn,91	
 1851,Posgrund,1	
@@ -37511,7 +37346,6 @@
 1851,Sjold Ryfylke,1	
 1851,Sjold,2	
 1851,Sjrdalen,1	
-1851,Skage Overhallen,1	
 1851,Skagen,1	
 1851,Skaraborg Sverge,1	
 1851,Skauer,1	
@@ -38168,10 +38002,6 @@
 1852,Bohusln Sverige,2	
 1852,Bohusln,3	
 1852,Bokn,14	
-1852,Bols Kleijve,1	
-1852,Bols Romsd,1	
-1852,Bols Romsdal,1	
-1852,Bols,21	
 1852,Bolssogn,1	
 1852,Bonakas,1	
 1852,Bordeaux,1	
@@ -38288,7 +38118,7 @@
 1852,Eidsvågen,1	
 1852,Eidsvoll,81	
 1852,Eies Amp Volds Sogn Romsdale,1	
-1852,Eigersund,54	
+1852,Eigersund,60	
 1852,Eikefjord,2	
 1852,Eiken,1	
 1852,Eiskog,1	
@@ -38299,7 +38129,6 @@
 1852,Eker Prgj,1	
 1852,Eker Vre,1	
 1852,Eker,33	
-1852,Ekersund,6	
 1852,Ekker,1	
 1852,Ekne,2	
 1852,Eksingedalen,3	
@@ -38409,7 +38238,7 @@
 1852,Frendefors Sogn Sverige,1	
 1852,Frenen,2	
 1852,Fresvik I Sogn,1	
-1852,Frogn,80	
+1852,Frogn,105	
 1852,Froland,19	
 1852,Frolands Sogn,1	
 1852,Fron Gudbrandsdalen,1	
@@ -38514,7 +38343,6 @@
 1852,Halden,96	
 1852,Halland Sverige,1	
 1852,Hallingdal,3	
-1852,Halså Og Hartmark,17	
 1852,Halså Sogn,3	
 1852,Halså,5	
 1852,Halsen,1	
@@ -38557,8 +38385,6 @@
 1852,Heen,1	
 1852,Heg I Sndfj,1	
 1852,Hegbustad,1	
-1852,Hegre Strdalen,1	
-1852,Hegre,24	
 1852,Helgeland,1	
 1852,Helgen,1	
 1852,Helsingland,1	
@@ -38949,7 +38775,7 @@
 1852,Malm,3	
 1852,Malmo I Beistaden,1	
 1852,Malvik,17	
-1852,Mandal,53	
+1852,Mandal,70	
 1852,Mandrabselv,1	
 1852,Mangers,1	
 1852,Mariager Jylland,1	
@@ -38971,11 +38797,10 @@
 1852,Meldal,42	
 1852,Melhus,35	
 1852,Melum,2	
-1852,Meraker,6	
+1852,Meråker,6	
 1852,Messelt,1	
 1852,Midtre Gauldal,31	
 1852,Minne,1	
-1852,Mjelva Bols Prgj Romsdalen,1	
 1852,Mjndalen,1	
 1852,Ml Helgeland,1	
 1852,Mland I Finås,1	
@@ -38990,7 +38815,7 @@
 1852,Moe Ranen,1	
 1852,Moland Sogn,1	
 1852,Moland,4	
-1852,Molde,27	
+1852,Molde,52	
 1852,Monselven,1	
 1852,Moskenes,1	
 1852,Moskens,1	
@@ -39168,7 +38993,7 @@
 1852,Otteren,1	
 1852,Ougndalen,1	
 1852,Overhalden,6	
-1852,Overhallen,16	
+1852,Overhalla,16	
 1852,Overhalvden,1	
 1852,Porsanger - Porsánjggu Gielda - Porsangin Komuuni,10	
 1852,Porsgr,1	
@@ -39996,9 +39821,6 @@
 1853,Bohusln Sverige,4	
 1853,Bohusln,3	
 1853,Bokn,5	
-1853,Bols Herred,2	
-1853,Bols Prestegjeld,1	
-1853,Bols,20	
 1853,Bore Sogn,1	
 1853,Bore,1	
 1853,Borg I Lofoten,1	
@@ -40110,7 +39932,7 @@
 1853,Eidsskogen,4	
 1853,Eidsvoll,88	
 1853,Eidvold,1	
-1853,Eigersund,47	
+1853,Eigersund,52	
 1853,Eikebygd,1	
 1853,Eikefjord,1	
 1853,Eiken,4	
@@ -40123,7 +39945,6 @@
 1853,Eker Vestfossen,1	
 1853,Eker Vre,1	
 1853,Eker,35	
-1853,Ekersund,5	
 1853,Ekne,1	
 1853,Elfsborg Ln Sverige,1	
 1853,Elsborg Ln Sv,1	
@@ -40254,7 +40075,7 @@
 1853,Fria,3	
 1853,Frien,5	
 1853,Frnnens Herred,1	
-1853,Frogn,65	
+1853,Frogn,77	
 1853,Froland,24	
 1853,Fron Gudbrandsdalen,2	
 1853,Fron I Gudbrandsd,1	
@@ -40368,7 +40189,6 @@
 1853,Halden,126	
 1853,Halland,1	
 1853,Hallingdal,3	
-1853,Halså Og Hartmark,31	
 1853,Halså Sogn,1	
 1853,Halså,5	
 1853,Halsnen,2	
@@ -40415,7 +40235,6 @@
 1853,Heen Hrd,1	
 1853,Heen Romsdalen,1	
 1853,Heggeland,1	
-1853,Hegre,11	
 1853,Heiningen,1	
 1853,Helg,4	
 1853,Helgeen Hedemarken,1	
@@ -40790,7 +40609,7 @@
 1853,Malmo,1	
 1853,Malnes I B,1	
 1853,Malvik,12	
-1853,Mandal,44	
+1853,Mandal,75	
 1853,Mangers Herred,2	
 1853,Mangers Prgj,1	
 1853,Maridalen,3	
@@ -40807,7 +40626,7 @@
 1853,Meli,1	
 1853,Melt,1	
 1853,Melum Soleim,1	
-1853,Meraker,18	
+1853,Meråker,18	
 1853,Mgster Sunds Herred,1	
 1853,Midtre Gauldal,27	
 1853,Ml Sverige,1	
@@ -40820,7 +40639,7 @@
 1853,Moe Sogn Nordre Odalen,1	
 1853,Moland Sogn,2	
 1853,Moland,4	
-1853,Molde,35	
+1853,Molde,58	
 1853,Molden Nordfj,1	
 1853,Molhj Slum,1	
 1853,Mollestad I Birkens,1	
@@ -40980,7 +40799,7 @@
 1853,Oss,1	
 1853,Osterøy,100	
 1853,Overhalden,9	
-1853,Overhallen,21	
+1853,Overhalla,21	
 1853,Piteå,1	
 1853,Polen,2	
 1853,Porgrund,1	
@@ -41290,7 +41109,7 @@
 1853,Stersdalen,3	
 1853,Stersund Sverge,1	
 1853,Stesdalen,1	
-1853,Stjørdal,45	
+1853,Stjørdal,44	
 1853,Stjernen,1	
 1853,Stjerner,1	
 1853,Stjrdal,1	
@@ -41847,10 +41666,6 @@
 1854,Bohusln,2	
 1854,Bokn,5	
 1854,Bolgen,1	
-1854,Bols I Romsdal,1	
-1854,Bols Romsdal,1	
-1854,Bols Sogn,2	
-1854,Bols,31	
 1854,Borresogn,1	
 1854,Bothne Jarlsberg,1	
 1854,Botilster Sverige,1	
@@ -41973,7 +41788,7 @@
 1854,Eidsvågen,1	
 1854,Eidsvoll,136	
 1854,Eidvold,1	
-1854,Eigersund,68	
+1854,Eigersund,71	
 1854,Eike Avaldsns,1	
 1854,Eikefjord,1	
 1854,Eiken,3	
@@ -41990,7 +41805,6 @@
 1854,Eker Skotfoss,1	
 1854,Eker Vre,1	
 1854,Eker,50	
-1854,Ekersund,3	
 1854,Ekne,3	
 1854,Eksingedalen,1	
 1854,Elfsborgln Sverige,1	
@@ -42121,7 +41935,7 @@
 1854,Frgiland Sverige,1	
 1854,Frien,3	
 1854,Frisdal Tellemarken,1	
-1854,Frogn,74	
+1854,Frogn,106	
 1854,Froland,21	
 1854,Frolands Sogn,1	
 1854,Fron Gudbr,1	
@@ -42250,7 +42064,6 @@
 1854,Hakkedal,1	
 1854,Halden,137	
 1854,Hallingdal,4	
-1854,Halså Og Hartmark,23	
 1854,Halså Sogn,2	
 1854,Halså,3	
 1854,Hamar,15	
@@ -42289,7 +42102,6 @@
 1854,Hedemarken,13	
 1854,Hedenstad Vre Sandsver,1	
 1854,Hegland I Holdt,1	
-1854,Hegre,32	
 1854,Heiderhole,1	
 1854,Helg Hered,1	
 1854,Helg,1	
@@ -42662,7 +42474,7 @@
 1854,Mallangen,1	
 1854,Malm,2	
 1854,Malvik,12	
-1854,Mandal,51	
+1854,Mandal,74	
 1854,Mangers Prgj,1	
 1854,Marifjren,1	
 1854,Mark,16	
@@ -42682,7 +42494,7 @@
 1854,Melum Sogn,1	
 1854,Melum,2	
 1854,Memel Tyskland,1	
-1854,Meraker,12	
+1854,Meråker,12	
 1854,Meregers Prgj Kvalheim,1	
 1854,Merke Sverig,1	
 1854,Mesnalien,1	
@@ -42698,7 +42510,7 @@
 1854,Modun,1	
 1854,Moe Ranen,1	
 1854,Moland,3	
-1854,Molde,40	
+1854,Molde,75	
 1854,Monselven,1	
 1854,Moskens Lofoten,1	
 1854,Moss,66	
@@ -42851,8 +42663,7 @@
 1854,Osterøy,118	
 1854,Otteren,1	
 1854,Overhalden,4	
-1854,Overhallen Namdalen,1	
-1854,Overhallen,15	
+1854,Overhalla,16	
 1854,Pajala Sogn Sverige,1	
 1854,Polen,2	
 1854,Pommern,1	
@@ -43787,7 +43598,6 @@
 1855,Bohusln,4	
 1855,Bokn,8	
 1855,Bolnes Sverige,1	
-1855,Bols,34	
 1855,Borgunds Prgj,2	
 1855,Borgunds Sogn S,1	
 1855,Bors Sverige,1	
@@ -43927,7 +43737,7 @@
 1855,Eidsvolds Pr,1	
 1855,Eidsvoll,123	
 1855,Eie Pr Flfjord,1	
-1855,Eigersund,63	
+1855,Eigersund,71	
 1855,Eikebygd,1	
 1855,Einastranden,1	
 1855,Eisberg,2	
@@ -43938,7 +43748,6 @@
 1855,Eker Sogn,1	
 1855,Eker Vre,1	
 1855,Eker,49	
-1855,Ekersund,8	
 1855,Ekne,2	
 1855,Ekset Bjugen,1	
 1855,Eksherad Sverige,1	
@@ -44072,7 +43881,7 @@
 1855,Frisdal,1	
 1855,Frnens Sogn,1	
 1855,Frnn,1	
-1855,Frogn,90	
+1855,Frogn,109	
 1855,Frogner,1	
 1855,Froland,19	
 1855,Fron,5	
@@ -44204,7 +44013,6 @@
 1855,Hallingdal,4	
 1855,Hals Sogn,1	
 1855,Halså Og Hartm,1	
-1855,Halså Og Hartmark,13	
 1855,Halså Sogn,6	
 1855,Halså,6	
 1855,Hamar,16	
@@ -44256,7 +44064,6 @@
 1855,Hegge Sogn Stre Slidre Valders,1	
 1855,Heggebosta,1	
 1855,Hegland Gjyland,1	
-1855,Hegre,19	
 1855,Hegrenes,1	
 1855,Heirefos Sogn,2	
 1855,Heirefos,1	
@@ -44681,7 +44488,7 @@
 1855,Malde,2	
 1855,Malm,4	
 1855,Malvik,16	
-1855,Mandal,58	
+1855,Mandal,71	
 1855,Mangers Herred,2	
 1855,Mangers Pr,1	
 1855,Mangers Prgj,1	
@@ -44704,7 +44511,7 @@
 1855,Melkild,1	
 1855,Melum Sogn,1	
 1855,Melum,3	
-1855,Meraker,11	
+1855,Meråker,11	
 1855,Meselt,1	
 1855,Midtre Gauldal,43	
 1855,Minne,1	
@@ -44720,7 +44527,7 @@
 1855,Moland,8	
 1855,Molands Sogn,1	
 1855,Mold,1	
-1855,Molde,25	
+1855,Molde,60	
 1855,Molden Nordfjord,1	
 1855,Monen Holme Sogn,1	
 1855,Morgedal,1	
@@ -44896,9 +44703,7 @@
 1855,Otter Sogn,1	
 1855,Otteren,1	
 1855,Overhalden,12	
-1855,Overhallen I Namdalen,1	
-1855,Overhallen Namdalen,1	
-1855,Overhallen,23	
+1855,Overhalla,25	
 1855,Pajola Sverige,1	
 1855,Polen,1	
 1855,Porsanger - Porsánjggu Gielda - Porsangin Komuuni,13	
@@ -45252,7 +45057,6 @@
 1855,Stran Sogen,1	
 1855,Strand,47	
 1855,Stranda,16	
-1855,Strande Bols Song,1	
 1855,Stranvik,1	
 1855,Strdalen Nedre,1	
 1855,Strdalen Thjem,1	
@@ -45813,10 +45617,6 @@
 1856,Bohusln Sverige,6	
 1856,Bohusln Sverjge,1	
 1856,Bokn,15	
-1856,Bols Herred Rvik Sogn,1	
-1856,Bols Herred,1	
-1856,Bols Prgj,1	
-1856,Bols,35	
 1856,Bomelen,1	
 1856,Bordesholm Holsten,1	
 1856,Bore Sogn,1	
@@ -45944,7 +45744,7 @@
 1856,Eidsskogen,5	
 1856,Eidsvol,1	
 1856,Eidsvoll,103	
-1856,Eigersund,68	
+1856,Eigersund,70	
 1856,Eikefjord,1	
 1856,Eiken L Og M,1	
 1856,Eiken,4	
@@ -45964,7 +45764,6 @@
 1856,Eker Vre,2	
 1856,Eker,40	
 1856,Ekers Prgj,1	
-1856,Ekersund,2	
 1856,Ekersunds Landsogn,1	
 1856,Ekne,5	
 1856,Elfsborgs Ln,1	
@@ -46103,7 +45902,7 @@
 1856,Frn,1	
 1856,Frnens Herred,1	
 1856,Froan,1	
-1856,Frogn,76	
+1856,Frogn,107	
 1856,Froland,17	
 1856,Frolands Sogn,1	
 1856,Fron,4	
@@ -46225,7 +46024,6 @@
 1856,Halland,1	
 1856,Hallen,1	
 1856,Hallingdal,5	
-1856,Halså Og Hartmark,15	
 1856,Halså,8	
 1856,Hamar,20	
 1856,Hamarøy,20	
@@ -46265,7 +46063,6 @@
 1856,Hedmark,1	
 1856,Hedrums Pr,1	
 1856,Heen,2	
-1856,Hegre,31	
 1856,Heim,1	
 1856,Heirefos,2	
 1856,Hel,1	
@@ -46656,7 +46453,7 @@
 1856,Malm,2	
 1856,Malnes Vestrålen,1	
 1856,Malvik,14	
-1856,Mandal,44	
+1856,Mandal,59	
 1856,Mandalen I Romsd,1	
 1856,Mandalsdalen,1	
 1856,Mandalt,1	
@@ -46677,7 +46474,7 @@
 1856,Meløy,20	
 1856,Meldal,42	
 1856,Melhus,48	
-1856,Meraker,10	
+1856,Meråker,11	
 1856,Mgster,1	
 1856,Midtgulen Sogn,1	
 1856,Midtre Gauldal,49	
@@ -46693,7 +46490,7 @@
 1856,Moland Sogn,1	
 1856,Moland Stre,1	
 1856,Moland,3	
-1856,Molde,32	
+1856,Molde,70	
 1856,Molvik Trondhj,1	
 1856,Monselven,1	
 1856,Morgedal,3	
@@ -46856,7 +46653,7 @@
 1856,Ottemo Tran Hered,1	
 1856,Otter Sogn,1	
 1856,Overhalden,4	
-1856,Overhallen,26	
+1856,Overhalla,26	
 1856,Overkvam,1	
 1856,Pigberget,1	
 1856,Porsanger - Porsánjggu Gielda - Porsangin Komuuni,12	
@@ -47517,7 +47314,6 @@
 1856,Vold Romsdal,1	
 1856,Vold,1	
 1856,Volda,54	
-1856,Vollan Meraker,1	
 1856,Voss,117	
 1856,Vossevangen,1	
 1856,Vr,2	
@@ -47780,9 +47576,6 @@
 1857,Bohusln,2	
 1857,Bokn,7	
 1857,Bolla,1	
-1857,Bols Herred,1	
-1857,Bols Romsdalen,1	
-1857,Bols,31	
 1857,Bolsy,1	
 1857,Bore,3	
 1857,Bossum Ons,1	
@@ -47928,7 +47721,7 @@
 1857,Eidsvogen,1	
 1857,Eidsvoll,127	
 1857,Eier Gubrandalen,1	
-1857,Eigersund,58	
+1857,Eigersund,59	
 1857,Eikeland,1	
 1857,Eiken,1	
 1857,Eisvol,1	
@@ -47937,7 +47730,6 @@
 1857,Ejdsberg,1	
 1857,Eker Nedre,1	
 1857,Eker,47	
-1857,Ekersund,1	
 1857,Ekersunds Landsogn,1	
 1857,Ekne,4	
 1857,Elfsborgs Len Sverige,2	
@@ -48061,7 +47853,7 @@
 1857,Fretvik,1	
 1857,Frien,3	
 1857,Frnens Herred,1	
-1857,Frogn,74	
+1857,Frogn,102	
 1857,Froland,19	
 1857,Fron Gudbrandsdalen,1	
 1857,Fron,3	
@@ -48197,7 +47989,6 @@
 1857,Hallen,2	
 1857,Hallingdal,6	
 1857,Halmstad Sverige,1	
-1857,Halså Og Hartmark,18	
 1857,Halså Sogn,2	
 1857,Halså,7	
 1857,Halsenen,1	
@@ -48239,8 +48030,6 @@
 1857,Hegbosta Vigmosta,1	
 1857,Hegebostad,1	
 1857,Heggedal,1	
-1857,Hegre Sogn Vrestrdalen,1	
-1857,Hegre,27	
 1857,Helgeen,2	
 1857,Helgen,4	
 1857,Helgeråen,1	
@@ -48678,7 +48467,7 @@
 1857,Malm,1	
 1857,Malvik,9	
 1857,Mandahl,1	
-1857,Mandal,65	
+1857,Mandal,83	
 1857,Mangers Prgj,1	
 1857,Maribu Danmark,1	
 1857,Maridalen,1	
@@ -48699,7 +48488,7 @@
 1857,Melsomvig,1	
 1857,Melus Sndre Trodh Amt,1	
 1857,Men,1	
-1857,Meraker,13	
+1857,Meråker,13	
 1857,Midtre Gauldal,41	
 1857,Milde,1	
 1857,Mjndalen,1	
@@ -48716,7 +48505,7 @@
 1857,Moland Sogn,1	
 1857,Moland,3	
 1857,Molands Sogn,1	
-1857,Molde,41	
+1857,Molde,74	
 1857,Molden,1	
 1857,Morland,1	
 1857,Morstl I Grytns Prgj,1	
@@ -48876,7 +48665,7 @@
 1857,Osterøy,139	
 1857,Overhalden Herred,1	
 1857,Overhalden,5	
-1857,Overhallen,15	
+1857,Overhalla,16	
 1857,Palaiya Sokn Sverige,1	
 1857,Piteå I Sverige,1	
 1857,Polen,1	
@@ -49336,7 +49125,7 @@
 1857,Tromssund,7	
 1857,Tromssundet,3	
 1857,Trondens,7	
-1857,Trondheim,222	
+1857,Trondheim,221	
 1857,Trondjem,1	
 1857,Trsundet H,1	
 1857,Trygstad I Smålene,1	
@@ -49746,7 +49535,6 @@
 1858,Bohusln Sverige,7	
 1858,Bohusln,5	
 1858,Bokn,4	
-1858,Bols,37	
 1858,Bolse,1	
 1858,Bolsy,1	
 1858,Bore Jd,1	
@@ -49896,7 +49684,7 @@
 1858,Eidsvol,1	
 1858,Eidsvoll,108	
 1858,Eidvold,1	
-1858,Eigersund,65	
+1858,Eigersund,69	
 1858,Eike,1	
 1858,Eikefjord I Kins Prgj,1	
 1858,Eiken Sogn,1	
@@ -49911,7 +49699,6 @@
 1858,Ekefjord,1	
 1858,Eker Vre,1	
 1858,Eker,41	
-1858,Ekersund,4	
 1858,Ekersunds Landsogn,1	
 1858,Ekker,1	
 1858,Ekne,1	
@@ -50045,7 +49832,7 @@
 1858,Frnens Herred,2	
 1858,Froen Gudbransdalen,1	
 1858,Froen,1	
-1858,Frogn,91	
+1858,Frogn,123	
 1858,Froland,22	
 1858,Fron S,1	
 1858,Fron,3	
@@ -50161,7 +49948,6 @@
 1858,Hakkedalen,3	
 1858,Halden,149	
 1858,Hallingdal,3	
-1858,Halså Og Hartmark,17	
 1858,Halså Sogn,2	
 1858,Halså,5	
 1858,Halsen Tjylding Sogn,1	
@@ -50209,7 +49995,6 @@
 1858,Hederum,1	
 1858,Hegebostad Sogn,1	
 1858,Heggebostad,1	
-1858,Hegre,32	
 1858,Heierfos,1	
 1858,Helg,1	
 1858,Helgeen Hedemark,1	
@@ -50426,7 +50211,6 @@
 1858,Kla Vermland,1	
 1858,Klbo,3	
 1858,Klbu,5	
-1858,Kleive Bols,1	
 1858,Kleive,1	
 1858,Klep Jderen,1	
 1858,Klep,6	
@@ -50620,7 +50404,7 @@
 1858,Malm,1	
 1858,Malnes,1	
 1858,Malvik,20	
-1858,Mandal,63	
+1858,Mandal,80	
 1858,Mangers Herred,1	
 1858,Mangers Prgj,1	
 1858,Maridalen,1	
@@ -50638,7 +50422,7 @@
 1858,Melerud,1	
 1858,Melhus,38	
 1858,Melum,1	
-1858,Meraker,10	
+1858,Meråker,10	
 1858,Mgster,1	
 1858,Midtbrudvik,1	
 1858,Midtre Gauldal,41	
@@ -50653,7 +50437,7 @@
 1858,Modalen,4	
 1858,Modum,88	
 1858,Moland,10	
-1858,Molde,38	
+1858,Molde,77	
 1858,Molselven,2	
 1858,Moskenes,1	
 1858,Moss,83	
@@ -50823,7 +50607,7 @@
 1858,Otteren,1	
 1858,Overhalden Namdalen,1	
 1858,Overhalden,1	
-1858,Overhallen,20	
+1858,Overhalla,20	
 1858,Peru,1	
 1858,Philadelphia,1	
 1858,Polen,2	
@@ -51167,7 +50951,6 @@
 1858,Stoveland Herrefos Sogn,1	
 1858,Strand,47	
 1858,Stranda,22	
-1858,Strande Bols,1	
 1858,Strandvig Fuse,1	
 1858,Strdalen,6	
 1858,Stre Gausdal Gudbrandsdalen,1	
@@ -51719,10 +51502,6 @@
 1859,Bohusln,2	
 1859,Bokn,6	
 1859,Boksnes,1	
-1859,Bols Prgj,2	
-1859,Bols Romsdal,1	
-1859,Bols Romsdalen,1	
-1859,Bols,51	
 1859,Bolset Sogn,1	
 1859,Bordeaux,1	
 1859,Bording Sogn Danmark,1	
@@ -51871,7 +51650,7 @@
 1859,Eidsvågen,1	
 1859,Eidsvol,1	
 1859,Eidsvoll,125	
-1859,Eigersund,52	
+1859,Eigersund,55	
 1859,Eiken,3	
 1859,Eisberg Smålene,1	
 1859,Eisberg,2	
@@ -51884,7 +51663,6 @@
 1859,Ekebygde Hegebostad,1	
 1859,Ekefjord,1	
 1859,Eker,56	
-1859,Ekersund,2	
 1859,Ekersunds Landsogn Dyrsand,1	
 1859,Ekne Skong,1	
 1859,Ekne,2	
@@ -52017,7 +51795,7 @@
 1859,Frnens Romsdalen,1	
 1859,Frnnefors Sverige,1	
 1859,Froen Sogn,1	
-1859,Frogn,102	
+1859,Frogn,124	
 1859,Froland,12	
 1859,Fron,1	
 1859,Frossta,1	
@@ -52140,7 +51918,6 @@
 1859,Halden,153	
 1859,Hallingdal,5	
 1859,Halmstad Sverige,2	
-1859,Halså Og Hartmark,17	
 1859,Halså Sogn,4	
 1859,Halså,5	
 1859,Halsn I Fjlberg,1	
@@ -52193,14 +51970,12 @@
 1859,Heen,2	
 1859,Hegebostad,1	
 1859,Heggeland,2	
-1859,Hegre,22	
 1859,Helg S,1	
 1859,Helgås Snfjord,1	
 1859,Helgen Hedemarken,1	
 1859,Helgen,11	
 1859,Helgheim Gjlster,1	
 1859,Helland Bjugen,1	
-1859,Helland Pr Ekersund,1	
 1859,Hellelands Sogn,1	
 1859,Hemne,63	
 1859,Hemnes,31	
@@ -52632,7 +52407,7 @@
 1859,Malm Sverige,1	
 1859,Malm,1	
 1859,Malvik,15	
-1859,Mandal,55	
+1859,Mandal,72	
 1859,Mangers Prgj,1	
 1859,Maridalen,1	
 1859,Marienstad,1	
@@ -52651,7 +52426,7 @@
 1859,Melhus,42	
 1859,Melum,2	
 1859,Melvr Bjarki,1	
-1859,Meraker,5	
+1859,Meråker,5	
 1859,Mgster Sunds Herred,1	
 1859,Mgster,1	
 1859,Midtre Gauldal,42	
@@ -52672,7 +52447,7 @@
 1859,Modalen,8	
 1859,Modum,82	
 1859,Moland,4	
-1859,Molde,38	
+1859,Molde,93	
 1859,Mong Egersunds Sogn,1	
 1859,Mosogn Nordre Odalen,1	
 1859,Moss,78	
@@ -52838,8 +52613,7 @@
 1859,Overhal,1	
 1859,Overhalden Namdalen,1	
 1859,Overhalden,7	
-1859,Overhalla,1	
-1859,Overhallen,18	
+1859,Overhalla,19	
 1859,Polen,2	
 1859,Porsanger - Porsánjggu Gielda - Porsangin Komuuni,9	
 1859,Porsanger,1	
@@ -53799,9 +53573,6 @@
 1860,Bohusln,2	
 1860,Bokn,10	
 1860,Bollns Sverige,1	
-1860,Bols Herred,1	
-1860,Bols Sogn,1	
-1860,Bols,50	
 1860,Borås Sverige,1	
 1860,Bordeaux Frankrig,1	
 1860,Bore Sogn,1	
@@ -53947,7 +53718,7 @@
 1860,Eidsvoll,138	
 1860,Eie I Hitter,1	
 1860,Eigen,1	
-1860,Eigersund,64	
+1860,Eigersund,70	
 1860,Eisberg Smålenne,1	
 1860,Eiskogen,2	
 1860,Eiskoven,1	
@@ -53961,7 +53732,6 @@
 1860,Ekefjord,1	
 1860,Ekens,1	
 1860,Eker,45	
-1860,Ekersund,6	
 1860,Ekesj,1	
 1860,Ekne,4	
 1860,Elberfeldt Tyskland,1	
@@ -54110,7 +53880,7 @@
 1860,Frien,3	
 1860,Frisland,1	
 1860,Frnens Herred,2	
-1860,Frogn,77	
+1860,Frogn,97	
 1860,Froland,31	
 1860,Fron,2	
 1860,Frong,1	
@@ -54228,7 +53998,6 @@
 1860,Halden,179	
 1860,Halingdal,1	
 1860,Hallingdal,5	
-1860,Halså Og Hartmark,22	
 1860,Halså Sogn,1	
 1860,Halså,8	
 1860,Halsn,1	
@@ -54283,7 +54052,6 @@
 1860,Hedesokken Sverige,1	
 1860,Heen Herred,2	
 1860,Heen,1	
-1860,Hegre,20	
 1860,Heirefos,2	
 1860,Helgeland,3	
 1860,Helgen,2	
@@ -54341,7 +54109,6 @@
 1860,Hjelm,1	
 1860,Hjelmeland,34	
 1860,Hjelmen,2	
-1860,Hjelseth Bols,1	
 1860,Hjerpen,2	
 1860,Hjertdal Thelemarken,1	
 1860,Hjrendfjord,2	
@@ -54569,7 +54336,6 @@
 1860,Kransand,1	
 1860,Krdshered,1	
 1860,Kria,1	
-1860,Kringstad Bols Prgj,1	
 1860,Kristiands,1	
 1860,Kristiani,2	
 1860,Kristiansand,122	
@@ -54739,7 +54505,7 @@
 1860,Malmhus Ln,1	
 1860,Malnes Vesterlen,1	
 1860,Malvik,18	
-1860,Mandal,70	
+1860,Mandal,92	
 1860,Mangers Pr,1	
 1860,Mangor Pr,1	
 1860,Mark,11	
@@ -54754,7 +54520,7 @@
 1860,Meldal,43	
 1860,Melhus,54	
 1860,Meling Hgsfjord,1	
-1860,Meraker,7	
+1860,Meråker,7	
 1860,Mgster,2	
 1860,Midtre Gauldal,38	
 1860,Mittet I Ve Prgj,1	
@@ -54771,7 +54537,7 @@
 1860,Moe Prgj Nordland,1	
 1860,Moland Sogn,1	
 1860,Moland,5	
-1860,Molde,42	
+1860,Molde,96	
 1860,Molden,1	
 1860,Mors Danmark,1	
 1860,Moskenes Lofoten,1	
@@ -54936,7 +54702,7 @@
 1860,Otteren,1	
 1860,Ous Rstad,1	
 1860,Overhalden,11	
-1860,Overhallen,23	
+1860,Overhalla,23	
 1860,Overkvam,1	
 1860,Pajala Sogn Sverige,1	
 1860,Porgrund,1	
@@ -55935,13 +55701,6 @@
 1861,Bokn,2	
 1861,Boksns Prgj,1	
 1861,Bolgen,1	
-1861,Bols Herred,1	
-1861,Bols I Romsdalen,1	
-1861,Bols Prgj,1	
-1861,Bols Romsdal,1	
-1861,Bols Romsdalen,3	
-1861,Bols Sågn,1	
-1861,Bols,34	
 1861,Bolse,1	
 1861,Bolsy,1	
 1861,Bondal,1	
@@ -56198,7 +55957,7 @@
 1861,Frgeland,1	
 1861,Fria,2	
 1861,Frien,7	
-1861,Frogn,65	
+1861,Frogn,92	
 1861,Froland,23	
 1861,Fron Gudbrandsdalen,1	
 1861,Fron Sndre,1	
@@ -56312,7 +56071,6 @@
 1861,Hallingdalen,1	
 1861,Hals,1	
 1861,Halså Herd,1	
-1861,Halså Og Hartmark,16	
 1861,Halså Sogn,2	
 1861,Halså,6	
 1861,Halsnen,1	
@@ -56354,9 +56112,6 @@
 1861,Heddeland I Isleb,1	
 1861,Hedemarken,11	
 1861,Heggenes Sndfj,1	
-1861,Hegre Sogn,1	
-1861,Hegre Vrestrdalen,1	
-1861,Hegre,25	
 1861,Heirefos,1	
 1861,Helg H,1	
 1861,Helgeland,2	
@@ -56776,7 +56531,7 @@
 1861,Malm Sverige,1	
 1861,Malm,2	
 1861,Malvik,13	
-1861,Mandal,48	
+1861,Mandal,64	
 1861,Maridalen,4	
 1861,Mark Smålene,1	
 1861,Mark,30	
@@ -56792,7 +56547,7 @@
 1861,Melhus,28	
 1861,Melum,2	
 1861,Melund,1	
-1861,Meraker,8	
+1861,Meråker,8	
 1861,Midtre Gauldal,36	
 1861,Mjndalen Eker,1	
 1861,Mjndalen I N Eker,1	
@@ -56804,7 +56559,7 @@
 1861,Moland Sogn,2	
 1861,Moland V,1	
 1861,Moland,6	
-1861,Molde,38	
+1861,Molde,80	
 1861,Monselven,1	
 1861,Morsjen,1	
 1861,Moskenes Lofoten,1	
@@ -56957,7 +56712,7 @@
 1861,Osterøy,120	
 1861,Otteren,1	
 1861,Overhalden,6	
-1861,Overhallen,26	
+1861,Overhalla,26	
 1861,Ox V Krsand S,1	
 1861,Porsanger - Porsánjggu Gielda - Porsangin Komuuni,7	
 1861,Porsgr,2	
@@ -57857,11 +57612,6 @@
 1862,Bokken,1	
 1862,Bokn,7	
 1862,Bolanda Dalsland,1	
-1862,Bols Eids Herhed,1	
-1862,Bols Herred,2	
-1862,Bols Prgj,1	
-1862,Bols Sogn,1	
-1862,Bols,49	
 1862,Bolsj Sverige,1	
 1862,Bolstad Lofoten,1	
 1862,Borgunds Herred,1	
@@ -58006,7 +57756,7 @@
 1862,Eidsvågen Nsset,1	
 1862,Eidsvoll,127	
 1862,Eidvold,1	
-1862,Eigersund,78	
+1862,Eigersund,83	
 1862,Eik I Bjerkrem,1	
 1862,Eike Augvaldsnes,1	
 1862,Eikefjord,1	
@@ -58019,8 +57769,6 @@
 1862,Eivindvik,2	
 1862,Eker Buskerud,1	
 1862,Eker,41	
-1862,Ekersund Landsogn,1	
-1862,Ekersund,4	
 1862,Ekne,4	
 1862,Elfsborg Len,1	
 1862,Elfsborgslen,1	
@@ -58152,7 +57900,7 @@
 1862,Frnens,1	
 1862,Frnnen,1	
 1862,Frogen,1	
-1862,Frogn,84	
+1862,Frogn,110	
 1862,Froland,25	
 1862,Fron S,1	
 1862,Fron,1	
@@ -58270,7 +58018,6 @@
 1862,Halden,160	
 1862,Hallingdal,9	
 1862,Hals,1	
-1862,Halså Og Hartmark,25	
 1862,Halså Sogn,3	
 1862,Halså,7	
 1862,Halsen,1	
@@ -58323,7 +58070,6 @@
 1862,Heen I Romsdalen,1	
 1862,Heen,1	
 1862,Hegland Gjyland,1	
-1862,Hegre,26	
 1862,Helammi Sverige,1	
 1862,Helgeland,4	
 1862,Helgen Hedemarken,2	
@@ -58757,7 +58503,7 @@
 1862,Malm Sverige,1	
 1862,Malmedal,1	
 1862,Malvik,25	
-1862,Mandal,78	
+1862,Mandal,103	
 1862,Mangskog Sverige,1	
 1862,Manum I Skaraborg Sverige,1	
 1862,Mardalen,1	
@@ -58774,7 +58520,7 @@
 1862,Melhus,67	
 1862,Melling,1	
 1862,Melum,2	
-1862,Meraker,11	
+1862,Meråker,11	
 1862,Mglestu Vestre Moland,1	
 1862,Mgster,1	
 1862,Mhren Sterrik,1	
@@ -58792,7 +58538,7 @@
 1862,Moland Sogn,1	
 1862,Moland,4	
 1862,Molanda,1	
-1862,Molde,39	
+1862,Molde,93	
 1862,Molden,1	
 1862,Monselven,1	
 1862,Monsta,1	
@@ -58981,7 +58727,7 @@
 1862,Osteren,1	
 1862,Overhalden,13	
 1862,Overhaldsfjeldet,1	
-1862,Overhallen,18	
+1862,Overhalla,18	
 1862,Pajalla Sverge,1	
 1862,Philippowo,1	
 1862,Polen Rusland,1	
@@ -59944,11 +59690,6 @@
 1863,Bokken,2	
 1863,Bokn,7	
 1863,Boksnes,1	
-1863,Bols Hered,1	
-1863,Bols I Romsdalen,1	
-1863,Bols Prestejel,1	
-1863,Bols Prgj,1	
-1863,Bols,51	
 1863,Bondal,1	
 1863,Borås,1	
 1863,Bore Jderen,1	
@@ -59961,7 +59702,6 @@
 1863,Bors Sverige,1	
 1863,Bors,1	
 1863,Borund Sndm,1	
-1863,Borvik Bols,1	
 1863,Bosekop,1	
 1863,Bosly,1	
 1863,Brålanda Sågen Dalsland Sverige,1	
@@ -60109,7 +59849,7 @@
 1863,Eidsvåg Nsset,1	
 1863,Eidsvol,1	
 1863,Eidsvoll,123	
-1863,Eigersund,72	
+1863,Eigersund,75	
 1863,Eikefjord,1	
 1863,Eiken,3	
 1863,Einastranden,1	
@@ -60125,7 +59865,6 @@
 1863,Eken,1	
 1863,Eker Vre,2	
 1863,Eker,45	
-1863,Ekersund,3	
 1863,Ekersunds Landso,1	
 1863,Ekersunds Ls,1	
 1863,Ekeskog,1	
@@ -60264,7 +60003,7 @@
 1863,Frien,6	
 1863,Friland,1	
 1863,Frnens Herred,2	
-1863,Frogn,98	
+1863,Frogn,123	
 1863,Froland,27	
 1863,Fron,2	
 1863,Froon,1	
@@ -60370,7 +60109,6 @@
 1863,Hallingdal,6	
 1863,Hallingdalen,1	
 1863,Halmstad Sverige,1	
-1863,Halså Og Hartmark,20	
 1863,Halså Sogn,4	
 1863,Halså,5	
 1863,Hamar,28	
@@ -60419,7 +60157,6 @@
 1863,Hederum,1	
 1863,Hedmark,1	
 1863,Heen Romsdalen,1	
-1863,Hegre,25	
 1863,Helg H,1	
 1863,Helg,2	
 1863,Helgeen,2	
@@ -60908,7 +60645,7 @@
 1863,Malvig,1	
 1863,Malvik,12	
 1863,Malviks Sogn,1	
-1863,Mandal,61	
+1863,Mandal,81	
 1863,Mangers Prgj,2	
 1863,Manndal,1	
 1863,Maridalen,1	
@@ -60929,7 +60666,7 @@
 1863,Melhus,50	
 1863,Melsther,1	
 1863,Melum,2	
-1863,Meraker,14	
+1863,Meråker,14	
 1863,Mesnalien Brttum,1	
 1863,Midtre Gauldal,40	
 1863,Mjndalen Nedre Eker,1	
@@ -60946,7 +60683,7 @@
 1863,Modum,76	
 1863,Moe I Ranen,1	
 1863,Moland,4	
-1863,Molde,31	
+1863,Molde,88	
 1863,Molden,2	
 1863,Moos,1	
 1863,Mosby,1	
@@ -61101,7 +60838,7 @@
 1863,Osterøy,143	
 1863,Otter Sogn,1	
 1863,Overhalden,11	
-1863,Overhallen,31	
+1863,Overhalla,31	
 1863,Pajala Sogn Sverige,1	
 1863,Pajala Sverig,1	
 1863,Paris,1	
@@ -61204,7 +60941,6 @@
 1863,Rrås,3	
 1863,Rra,5	
 1863,Rren,3	
-1863,Rsberg I Bols,1	
 1863,Rskaug,1	
 1863,Rubbestad Trani Hered,1	
 1863,Rusland,5	
@@ -62091,9 +61827,6 @@
 1864,Bokn,9	
 1864,Bolerne Nter,1	
 1864,Bolfoss,1	
-1864,Bols Romsdalen,1	
-1864,Bols Sogn,2	
-1864,Bols,47	
 1864,Bolse,1	
 1864,Bommely,1	
 1864,Borgun Sndmr,1	
@@ -62247,7 +61980,7 @@
 1864,Eidsvågen,1	
 1864,Eidsvol,2	
 1864,Eidsvoll,136	
-1864,Eigersund,72	
+1864,Eigersund,76	
 1864,Eiken,4	
 1864,Eikisdalen,1	
 1864,Eisberg,1	
@@ -62255,8 +61988,6 @@
 1864,Eitnedalen Valdres,1	
 1864,Ejdsberg,1	
 1864,Eker,61	
-1864,Ekersund Landsogn,1	
-1864,Ekersund,3	
 1864,Ekne,1	
 1864,Eleskog Svrige,1	
 1864,Elfsborgln Sverige,1	
@@ -62402,7 +62133,7 @@
 1864,Frien,5	
 1864,Frisa I Sunelven,1	
 1864,Frnens Herred,2	
-1864,Frogn,86	
+1864,Frogn,108	
 1864,Frogner,1	
 1864,Froland,32	
 1864,Fron,2	
@@ -62527,7 +62258,6 @@
 1864,Hadland Thime,1	
 1864,Hadsel,92	
 1864,Hafslund,1	
-1864,Hagen I Bols,1	
 1864,Hakedal,2	
 1864,Hakedalen,5	
 1864,Hakkedalen,1	
@@ -62539,7 +62269,6 @@
 1864,Halmstad,2	
 1864,Halprejeld Lofoten,1	
 1864,Halprestejeld,1	
-1864,Halså Og Hartmark,21	
 1864,Halså Sogn,2	
 1864,Halså,6	
 1864,Haltsny,1	
@@ -62588,7 +62317,6 @@
 1864,Hegebostad,1	
 1864,Hegen Herl,1	
 1864,Heggebostad,1	
-1864,Hegre,22	
 1864,Hegstyl Jevedal,1	
 1864,Heirefos Sogn,1	
 1864,Helg,2	
@@ -63040,7 +62768,7 @@
 1864,Malns Sogn I Vesterålen,1	
 1864,Malung I Sverige,1	
 1864,Malvik,13	
-1864,Mandal,63	
+1864,Mandal,84	
 1864,Mandflå,1	
 1864,Mangers Herred,4	
 1864,Mangers Prgj,1	
@@ -63060,7 +62788,7 @@
 1864,Mellerud Sveriege,1	
 1864,Melvik,1	
 1864,Melvr Barki,1	
-1864,Meraker,15	
+1864,Meråker,15	
 1864,Mgster,2	
 1864,Midtre Gauldal,46	
 1864,Minnesota Nordamerika,1	
@@ -63077,7 +62805,7 @@
 1864,Moland Sogn,1	
 1864,Moland Valberg,1	
 1864,Moland,9	
-1864,Molde,44	
+1864,Molde,95	
 1864,Molden,1	
 1864,Molselven,1	
 1864,Moskenes Herred Lofoten,1	
@@ -63251,7 +62979,7 @@
 1864,Otter,1	
 1864,Otterstad,1	
 1864,Overhalden,7	
-1864,Overhallen,22	
+1864,Overhalla,22	
 1864,Paradis,1	
 1864,Paris,1	
 1864,Pite Sverge,1	
@@ -64229,13 +63957,6 @@
 1865,Bohusln Sverige,5	
 1865,Bohusln,5	
 1865,Bokn,3	
-1865,Bols Herred,1	
-1865,Bols I Romsdalen,1	
-1865,Bols Prgj Romsdal,1	
-1865,Bols Prgj Romsdalen,1	
-1865,Bols Prgj,1	
-1865,Bols Sogn,1	
-1865,Bols,43	
 1865,Bons,1	
 1865,Borås Sverige,1	
 1865,Borg Lofoten,1	
@@ -64383,7 +64104,7 @@
 1865,Eidsskoven,1	
 1865,Eidsvål,1	
 1865,Eidsvoll,156	
-1865,Eigersund,81	
+1865,Eigersund,85	
 1865,Eiken L Og M Amt,1	
 1865,Eiken Sogn,1	
 1865,Eiken,1	
@@ -64402,7 +64123,6 @@
 1865,Eker Vre,1	
 1865,Eker,45	
 1865,Ekers Prgj,1	
-1865,Ekersund,4	
 1865,Ekker,1	
 1865,Ekne Skong,1	
 1865,Ekne,1	
@@ -64541,7 +64261,7 @@
 1865,Frillestad I Hivåg Sogn,1	
 1865,Frnens Herred,1	
 1865,Frodland Fedde Sogn,1	
-1865,Frogn,91	
+1865,Frogn,121	
 1865,Froland,34	
 1865,Fron Sogn,1	
 1865,Fron,2	
@@ -64675,7 +64395,6 @@
 1865,Halden,168	
 1865,Halingdal,3	
 1865,Hallingdal,2	
-1865,Halså Og Hartmark,27	
 1865,Halså Sogn,4	
 1865,Halså,1	
 1865,Hamar,30	
@@ -64729,7 +64448,6 @@
 1865,Hedland Sogn,1	
 1865,Hedmarken,1	
 1865,Heggen,1	
-1865,Hegre,29	
 1865,Helg,1	
 1865,Helgeen,1	
 1865,Helgeland N,1	
@@ -64909,7 +64627,6 @@
 1865,Isfjorden,1	
 1865,Island,1	
 1865,Isleb,9	
-1865,Istad I Bols,1	
 1865,Istad Sogn,3	
 1865,Istad,1	
 1865,Italien,1	
@@ -64982,7 +64699,6 @@
 1865,Kland I Finås,1	
 1865,Klbo,3	
 1865,Klbu,10	
-1865,Kleive I Bols,1	
 1865,Kleive,2	
 1865,Klep Jderen,1	
 1865,Klep Årre,1	
@@ -65183,7 +64899,7 @@
 1865,Malm,1	
 1865,Malnes I Vesterålen,1	
 1865,Malvik,14	
-1865,Mandal,80	
+1865,Mandal,107	
 1865,Mangers Prgj,1	
 1865,Manselven,1	
 1865,Maridal,1	
@@ -65202,7 +64918,7 @@
 1865,Melhus,51	
 1865,Mellerud,1	
 1865,Melum,1	
-1865,Meraker,11	
+1865,Meråker,11	
 1865,Mhren Sterrik,1	
 1865,Midtre Gauldal,48	
 1865,Mlselven,4	
@@ -65213,7 +64929,7 @@
 1865,Modums Sogn,1	
 1865,Moenio Finland,1	
 1865,Moland V,1	
-1865,Molde,32	
+1865,Molde,84	
 1865,Molden,3	
 1865,Molselven,2	
 1865,Moskenes,1	
@@ -65378,7 +65094,7 @@
 1865,Oteren Vnamsos,1	
 1865,Otteren,2	
 1865,Overhalden,4	
-1865,Overhallen,19	
+1865,Overhalla,20	
 1865,Ox,1	
 1865,Paris,1	
 1865,Pentzig Tyskland,1	
@@ -65452,7 +65168,6 @@
 1865,Rkedalen,11	
 1865,Rmskogen,3	
 1865,Rnne Danmark,1	
-1865,Roalseth Bols,1	
 1865,Roan,17	
 1865,Rokke,1	
 1865,Rollag,9	
@@ -65587,7 +65302,6 @@
 1865,Skåte,1	
 1865,Skafså,1	
 1865,Skaga,1	
-1865,Skage I Overhallen,1	
 1865,Skage Namdal,1	
 1865,Skara Sverige,1	
 1865,Skaraborgs Ln Sverige,1	
@@ -65732,7 +65446,7 @@
 1865,Stersdalen,2	
 1865,Stervaldskog Sverige,1	
 1865,Stiklestad,1	
-1865,Stjørdal,62	
+1865,Stjørdal,61	
 1865,Stjerner,2	
 1865,Stjrdalshalsen,1	
 1865,Stmark Sverige,1	
@@ -66360,11 +66074,6 @@
 1866,Bohusln,3	
 1866,Bokken,1	
 1866,Bokn,12	
-1866,Bols Herred,1	
-1866,Bols Prgj Romsdalen,1	
-1866,Bols Prgj,1	
-1866,Bols Romsdal,1	
-1866,Bols,42	
 1866,Bolton Abbey England,1	
 1866,Boree Danmark,1	
 1866,Borgunds Herred,1	
@@ -66527,7 +66236,7 @@
 1866,Eidsvåg,1	
 1866,Eidsvol,1	
 1866,Eidsvoll,122	
-1866,Eigersund,71	
+1866,Eigersund,73	
 1866,Eikefjord Kinns Sogn,1	
 1866,Eiken,2	
 1866,Eikisdal,1	
@@ -66542,7 +66251,6 @@
 1866,Eker Prgj,1	
 1866,Eker Vre,2	
 1866,Eker,50	
-1866,Ekersund,2	
 1866,Ekker,1	
 1866,Ekne,1	
 1866,Elberfeld,1	
@@ -66669,7 +66377,7 @@
 1866,Friland,1	
 1866,Frnnen,1	
 1866,Froen,1	
-1866,Frogn,97	
+1866,Frogn,123	
 1866,Froland,30	
 1866,Frolands Sogn,1	
 1866,Fron Gudbrandsdalen,1	
@@ -66806,7 +66514,6 @@
 1866,Hallingdal,4	
 1866,Halmstad Sverige,1	
 1866,Halså Og Hartm,1	
-1866,Halså Og Hartmark,22	
 1866,Halså Sogn,1	
 1866,Halså,9	
 1866,Halsenen Fjelbjerg,1	
@@ -66851,7 +66558,6 @@
 1866,Hegge Slidre,1	
 1866,Heggebostad,3	
 1866,Heggen Sogn,1	
-1866,Hegre,26	
 1866,Helg H,1	
 1866,Helg,4	
 1866,Helgeen,1	
@@ -67082,7 +66788,6 @@
 1866,Kla Vermland,1	
 1866,Klbo,1	
 1866,Klbu,10	
-1866,Kleive Bols,1	
 1866,Kleive Romsdalen,1	
 1866,Kleive Sogn,2	
 1866,Kleive,1	
@@ -67285,7 +66990,7 @@
 1866,Malns,1	
 1866,Malvik,19	
 1866,Mamdalen,1	
-1866,Mandal,63	
+1866,Mandal,85	
 1866,Mandals Prgj,1	
 1866,Mangers Herred,1	
 1866,Mangers Prgj,1	
@@ -67304,7 +67009,7 @@
 1866,Melhus,33	
 1866,Melum,1	
 1866,Memel Preussen,1	
-1866,Meraker,8	
+1866,Meråker,8	
 1866,Mgster,1	
 1866,Midtre Gauldal,36	
 1866,Minne,1	
@@ -67319,7 +67024,7 @@
 1866,Moland Sogn,1	
 1866,Moland,6	
 1866,Molanda Sogn Sverige,1	
-1866,Molde,38	
+1866,Molde,85	
 1866,Mora Sverig,1	
 1866,Mosjent,1	
 1866,Moskenes I Lofoten,1	
@@ -67476,7 +67181,7 @@
 1866,Otter Sogn,1	
 1866,Otteren,1	
 1866,Overhalden,9	
-1866,Overhallen,29	
+1866,Overhalla,29	
 1866,Ovverhalden,1	
 1866,Paulsrud V Gausdal,1	
 1866,Persfjord,1	
@@ -68451,11 +68156,6 @@
 1867,Bokn,4	
 1867,Boksnes,1	
 1867,Bolanga Finland,1	
-1867,Bols Herred,1	
-1867,Bols I Romsdalen,1	
-1867,Bols Prestegjeld,1	
-1867,Bols R,1	
-1867,Bols,44	
 1867,Bore,2	
 1867,Boren,1	
 1867,Borgesong,1	
@@ -68586,7 +68286,7 @@
 1867,Eidsskogen,3	
 1867,Eidsvåg,1	
 1867,Eidsvoll,128	
-1867,Eigersund,68	
+1867,Eigersund,70	
 1867,Eiken Sogn L Og M,1	
 1867,Eiken,2	
 1867,Eisberg,4	
@@ -68598,8 +68298,6 @@
 1867,Eken,1	
 1867,Eker Vre,1	
 1867,Eker,45	
-1867,Ekersund Jederen,1	
-1867,Ekersund,1	
 1867,Ekersunds Landsogn,1	
 1867,Ekne,4	
 1867,Elfborgslen Sverige,1	
@@ -68747,7 +68445,7 @@
 1867,Frien Prgj,1	
 1867,Frien,7	
 1867,Frnens Herred,3	
-1867,Frogn,90	
+1867,Frogn,111	
 1867,Froland,24	
 1867,Fron Gudbrandsdalen,1	
 1867,Fron,2	
@@ -68768,7 +68466,6 @@
 1867,Fyresdal,20	
 1867,Fyrisdal,6	
 1867,Gå Lindenes,1	
-1867,Gården År I Bols Sogn,1	
 1867,Gamvik,1	
 1867,Gamvikt,1	
 1867,Garder,1	
@@ -68866,7 +68563,6 @@
 1867,Halingdal,2	
 1867,Hallingdal,3	
 1867,Hals I Danmark,1	
-1867,Halså Og Hartmark,17	
 1867,Halså,11	
 1867,Halsenen,1	
 1867,Hamar,30	
@@ -68915,7 +68611,6 @@
 1867,Hedrumt,1	
 1867,Heen Sogn Visdal,1	
 1867,Heen,5	
-1867,Hegre,21	
 1867,Hegreberg,1	
 1867,Heimdal Heirefos,1	
 1867,Helgeland Lerfj,1	
@@ -69155,7 +68850,6 @@
 1867,Klep,10	
 1867,Klepelv,1	
 1867,Klepp,16	
-1867,Kleve Bols Romsdalen,1	
 1867,Kleve,1	
 1867,Kluge,1	
 1867,Kodal,2	
@@ -69358,7 +69052,7 @@
 1867,Malvig,1	
 1867,Malvik,18	
 1867,Mandahl,1	
-1867,Mandal,70	
+1867,Mandal,87	
 1867,Mangers Prgj,1	
 1867,Marharyd Sverige,1	
 1867,Maridalen,1	
@@ -69378,7 +69072,7 @@
 1867,Mella Finland,1	
 1867,Melvik Tromssundet,1	
 1867,Melvik,1	
-1867,Meraker,18	
+1867,Meråker,18	
 1867,Mgster,1	
 1867,Mhren Sterrik,1	
 1867,Midtre Gauldal,42	
@@ -69395,7 +69089,7 @@
 1867,Modum,90	
 1867,Moland,6	
 1867,Molands Sogn,1	
-1867,Molde,46	
+1867,Molde,96	
 1867,Molden,1	
 1867,Montevideo Sud Amerika,1	
 1867,Moskenes,1	
@@ -69569,7 +69263,7 @@
 1867,Osterøy,141	
 1867,Otterns S,1	
 1867,Overhalden,5	
-1867,Overhallen,30	
+1867,Overhalla,31	
 1867,Oviken Jemtland,1	
 1867,Ox Pr Xsand S,1	
 1867,Porsanger - Porsánjggu Gielda - Porsangin Komuuni,20	
@@ -69938,7 +69632,6 @@
 1867,Stockholm,9	
 1867,Stokholm,3	
 1867,Stokken,2	
-1867,Stor Overhallen,1	
 1867,Stor-Elvdal,30	
 1867,Stord,24	
 1867,Stordal,15	
@@ -70519,9 +70212,6 @@
 1868,Bokn,4	
 1868,Boksnes,1	
 1868,Bollns Sverige,1	
-1868,Bols Hered,1	
-1868,Bols Prgj,1	
-1868,Bols,59	
 1868,Bore,1	
 1868,Borgunds Herred,1	
 1868,Bors,1	
@@ -70669,7 +70359,7 @@
 1868,Eidsvågen,1	
 1868,Eidsvol,1	
 1868,Eidsvoll,117	
-1868,Eigersund,87	
+1868,Eigersund,90	
 1868,Eikebygd,2	
 1868,Eikefjord,1	
 1868,Eiken Sogn I Lister,1	
@@ -70682,7 +70372,6 @@
 1868,Ejdsberg,1	
 1868,Eker T,1	
 1868,Eker,45	
-1868,Ekersund,3	
 1868,Ekersunds Landsogn,1	
 1868,Ekne Skong,1	
 1868,Ekne,3	
@@ -70814,7 +70503,7 @@
 1868,Fritsla Sverige,1	
 1868,Frnens Herred,2	
 1868,Frnes,1	
-1868,Frogn,81	
+1868,Frogn,107	
 1868,Froland,24	
 1868,Fron,2	
 1868,Frosta,35	
@@ -70920,7 +70609,6 @@
 1868,Haller Smlen,1	
 1868,Hallingdal,2	
 1868,Hals Herred,1	
-1868,Halså Og Hartmark,22	
 1868,Halså,5	
 1868,Halsne Snhordaland,1	
 1868,Halsvik,1	
@@ -70965,7 +70653,6 @@
 1868,Havnsund Bo,1	
 1868,Hedemarken,14	
 1868,Heen,1	
-1868,Hegre,26	
 1868,Heirefos,1	
 1868,Helg,3	
 1868,Helgeland Nordland,1	
@@ -71213,7 +70900,6 @@
 1868,Krds Herred,1	
 1868,Krestiansund,1	
 1868,Kria,3	
-1868,Kringstad Bols,1	
 1868,Kristanssand S,1	
 1868,Kristiana,1	
 1868,Kristiansand,155	
@@ -71380,7 +71066,7 @@
 1868,Malm Sverige,1	
 1868,Malmhus,1	
 1868,Malvik,18	
-1868,Mandal,67	
+1868,Mandal,89	
 1868,Mangers Herred,2	
 1868,Marihavn Finland,1	
 1868,Mark,21	
@@ -71402,7 +71088,7 @@
 1868,Mellerud,1	
 1868,Melsonvig,1	
 1868,Melum,1	
-1868,Meraker,13	
+1868,Meråker,13	
 1868,Mgster Sogn,1	
 1868,Midthordland,1	
 1868,Midtre Gauldal,45	
@@ -71416,7 +71102,7 @@
 1868,Modum,104	
 1868,Moland,7	
 1868,Molands Sogn,1	
-1868,Molde,37	
+1868,Molde,99	
 1868,Molden,1	
 1868,Monselven,1	
 1868,Morgedal,1	
@@ -71595,7 +71281,7 @@
 1868,Oslo,1015	
 1868,Osterøy,120	
 1868,Overhalden,7	
-1868,Overhallen,26	
+1868,Overhalla,27	
 1868,Oxford,1	
 1868,Pikaln Rusland,1	
 1868,Pisek,1	
@@ -71788,7 +71474,6 @@
 1868,Skåne,1	
 1868,Skåneviki,1	
 1868,Skåneviks Prgj Sndhordland,1	
-1868,Skage Overhallen,1	
 1868,Skagen,1	
 1868,Skalberg Sandherred,1	
 1868,Skatvald,1	
@@ -72538,9 +72223,6 @@
 1869,Bolgen Meli,1	
 1869,Bolivia,1	
 1869,Bollebygd Sverige,1	
-1869,Bols Romsdal,1	
-1869,Bols,41	
-1869,Bolsen,1	
 1869,Bombay,1	
 1869,Boren,1	
 1869,Borgunds Herred,1	
@@ -72689,7 +72371,7 @@
 1869,Eidsskogen,8	
 1869,Eidsvågen,1	
 1869,Eidsvoll,143	
-1869,Eigersund,66	
+1869,Eigersund,71	
 1869,Eikemo,1	
 1869,Eisberg,1	
 1869,Eisbrg,1	
@@ -72698,7 +72380,6 @@
 1869,Eivindvik,8	
 1869,Ejdsvold,1	
 1869,Eker,31	
-1869,Ekersund,5	
 1869,Ekersunds Lsogn,1	
 1869,Ekne,2	
 1869,Eleverum,1	
@@ -72826,7 +72507,7 @@
 1869,Fridlifstad Sverige,1	
 1869,Frien,6	
 1869,Frnens Herred,3	
-1869,Frogn,85	
+1869,Frogn,104	
 1869,Froland,27	
 1869,Frosta,55	
 1869,Frostad,2	
@@ -72944,7 +72625,6 @@
 1869,Hallen,1	
 1869,Hallingdal,4	
 1869,Hals I Dyr,1	
-1869,Halså Og Hartmark,21	
 1869,Halså Sogn,3	
 1869,Halså,3	
 1869,Halsen Pr Tjdling Laurvik,1	
@@ -72995,7 +72675,6 @@
 1869,Heen,2	
 1869,Heens Herred,1	
 1869,Hegeland,1	
-1869,Hegre,18	
 1869,Helg,2	
 1869,Helgeen Ns Hedem,2	
 1869,Helgelan,1	
@@ -73450,7 +73129,7 @@
 1869,Malmen Sverige,1	
 1869,Malvik,15	
 1869,Mammheim,1	
-1869,Mandal,73	
+1869,Mandal,94	
 1869,Maridalen Va,1	
 1869,Maridalen,2	
 1869,Mark,25	
@@ -73465,7 +73144,7 @@
 1869,Meldal,42	
 1869,Melhus,45	
 1869,Melum N Thelemarken,1	
-1869,Meraker,22	
+1869,Meråker,22	
 1869,Mhlhausen I Thringen Tyskland,1	
 1869,Michigan,1	
 1869,Midtb I Evenvik,1	
@@ -73489,7 +73168,7 @@
 1869,Moland V,1	
 1869,Moland,7	
 1869,Mold,1	
-1869,Molde,33	
+1869,Molde,76	
 1869,Molden,1	
 1869,Montreal Canada,1	
 1869,Mosjn,1	
@@ -73669,7 +73348,7 @@
 1869,Osterøy,116	
 1869,Otter,1	
 1869,Overhalden,8	
-1869,Overhallen,23	
+1869,Overhalla,24	
 1869,Ox,1	
 1869,På Havet Ved Irland,1	
 1869,Peru,1	
@@ -73701,7 +73380,6 @@
 1869,Ranheim,1	
 1869,Ranneberg,1	
 1869,Ranum,1	
-1869,Ranums Sogn Overhallen,1	
 1869,Rauma,32	
 1869,Rd I Re,1	
 1869,Rd,3	
@@ -73810,7 +73488,7 @@
 1869,Sandeid,1	
 1869,Sandherred,4	
 1869,Sandkedal,4	
-1869,Sandnes,124	
+1869,Sandnes,123	
 1869,Sandsver,2	
 1869,Sandsvik Senjen,1	
 1869,Sandsvr,28	
@@ -74662,11 +74340,6 @@
 1870,Bohusln,3	
 1870,Bokens Sverige,1	
 1870,Bokn,5	
-1870,Bols I Romsdalen,1	
-1870,Bols Pr,1	
-1870,Bols Prgj,1	
-1870,Bols Romsdalen,3	
-1870,Bols,50	
 1870,Bolstads S Sverige,1	
 1870,Borås Sverge,1	
 1870,Bore,1	
@@ -74995,7 +74668,7 @@
 1870,Frien,12	
 1870,Frivik Kirkeb,1	
 1870,Frivog,1	
-1870,Frogn,98	
+1870,Frogn,116	
 1870,Froland,38	
 1870,Fron I Gudbransdalen,1	
 1870,Fron Sndre Gudbrd,1	
@@ -75122,7 +74795,6 @@
 1870,Hakkedal,1	
 1870,Halden,162	
 1870,Hallingdal,1	
-1870,Halså Og Hartmark,27	
 1870,Halså Sogn,2	
 1870,Halså,6	
 1870,Hamar,25	
@@ -75175,7 +74847,6 @@
 1870,Heggebosta,1	
 1870,Heggeland,1	
 1870,Hegland,1	
-1870,Hegre,18	
 1870,Heirefoss,1	
 1870,Helg,1	
 1870,Helgboda Sverige,1	
@@ -75438,7 +75109,6 @@
 1870,Kland Bremns,1	
 1870,Klbo,4	
 1870,Klbu,12	
-1870,Kleive Bols,1	
 1870,Klep Jderen,2	
 1870,Klep,2	
 1870,Klepp,18	
@@ -75675,7 +75345,7 @@
 1870,Malns,1	
 1870,Malvik,14	
 1870,Mandahl,1	
-1870,Mandal,70	
+1870,Mandal,97	
 1870,Mandalsdalen,1	
 1870,Mandalt,1	
 1870,Mangers Herred,2	
@@ -75697,7 +75367,7 @@
 1870,Melbo,1	
 1870,Meldal,31	
 1870,Melhus,46	
-1870,Meraker,14	
+1870,Meråker,14	
 1870,Middelfart Danmark,1	
 1870,Midelfart,1	
 1870,Midtgulen Sogn,1	
@@ -75719,7 +75389,7 @@
 1870,Mol Sverige,1	
 1870,Moland Stre,1	
 1870,Moland,3	
-1870,Molde,40	
+1870,Molde,98	
 1870,Molden,1	
 1870,Molselven,1	
 1870,Molsns,1	
@@ -75918,7 +75588,7 @@
 1870,Osterøy,168	
 1870,Otteren,1	
 1870,Overhalden,5	
-1870,Overhallen,20	
+1870,Overhalla,20	
 1870,Pajala Sogn Sverige,1	
 1870,Paris,1	
 1870,Patschkau,1	
@@ -76801,7 +76471,6 @@
 1870,Åmodt Pr,1	
 1870,Åmodt Sterdalen,2	
 1870,Åmot,47	
-1870,År Bols,1	
 1870,Årdal,22	
 1870,Århus Danmark,2	
 1870,Årre Sogn Jderen,1	
@@ -77008,10 +76677,6 @@
 1871,Bohusln Sverige,6	
 1871,Bohusln Sverje,1	
 1871,Bohusln,2	
-1871,Bols Herred,1	
-1871,Bols I Romsdalen,1	
-1871,Bols Sogn,2	
-1871,Bols,44	
 1871,Bommelen,1	
 1871,Boren,1	
 1871,Bosekop,1	
@@ -77163,7 +76828,7 @@
 1871,Eidsvol,2	
 1871,Eidsvoll,138	
 1871,Eidsvolt,1	
-1871,Eigersund,68	
+1871,Eigersund,73	
 1871,Eikebygd,1	
 1871,Eisvold,1	
 1871,Eitanger,1	
@@ -77173,7 +76838,6 @@
 1871,Ejdsvold,1	
 1871,Eker Vdrammen,1	
 1871,Eker,30	
-1871,Ekersund,4	
 1871,Eklandsverk,1	
 1871,Ekne,3	
 1871,Eksingdalen,1	
@@ -77302,7 +76966,7 @@
 1871,Frien,5	
 1871,Frndefors Sverige,1	
 1871,Frnens Hered,1	
-1871,Frogn,83	
+1871,Frogn,110	
 1871,Froland,23	
 1871,Frolands Sogn,1	
 1871,Fron,2	
@@ -77442,7 +77106,6 @@
 1871,Halden,163	
 1871,Halland,1	
 1871,Hallingdal,6	
-1871,Halså Og Hartmark,28	
 1871,Halså Sogn,1	
 1871,Halså,8	
 1871,Hamar,23	
@@ -77477,7 +77140,6 @@
 1871,Haugesund,71	
 1871,Haugsbygden,1	
 1871,Haugsund,1	
-1871,Havnevik I Bols Prgj,1	
 1871,Havslo,1	
 1871,Hede Sverige,1	
 1871,Hedemarken,11	
@@ -77485,7 +77147,6 @@
 1871,Hedm,1	
 1871,Hedmarken,1	
 1871,Heen,3	
-1871,Hegre,26	
 1871,Heim,1	
 1871,Heimdal,1	
 1871,Heistad,1	
@@ -77937,7 +77598,7 @@
 1871,Malmo,1	
 1871,Malnes Vesterålen,1	
 1871,Malvik,17	
-1871,Mandal,54	
+1871,Mandal,82	
 1871,Maridalen,3	
 1871,Mark,23	
 1871,Marker,12	
@@ -77956,12 +77617,11 @@
 1871,Melsvik Sverige,1	
 1871,Melum,3	
 1871,Mendalen Trndelagen,1	
-1871,Meraker,18	
+1871,Meråker,18	
 1871,Mgster S,1	
 1871,Mgster,1	
 1871,Midelhavet,1	
 1871,Midtre Gauldal,56	
-1871,Milleland Ved Ekersund,1	
 1871,Mjndalen,2	
 1871,Ml Prgj Nordl,1	
 1871,Mland,1	
@@ -77976,7 +77636,7 @@
 1871,Modum,89	
 1871,Moe Vikr,1	
 1871,Moland,6	
-1871,Molde,39	
+1871,Molde,88	
 1871,Molselven,1	
 1871,Monselven,1	
 1871,Monst,1	
@@ -78142,7 +77802,7 @@
 1871,Ottestad,1	
 1871,Overhalden Herred,1	
 1871,Overhalden,4	
-1871,Overhallen,20	
+1871,Overhalla,20	
 1871,Porsanger - Porsánjggu Gielda - Porsangin Komuuni,22	
 1871,Porsanger,2	
 1871,Porsgr,1	
@@ -78504,7 +78164,7 @@
 1871,Stergtland,1	
 1871,Stettin Tyskland,1	
 1871,Stettin,1	
-1871,Stjørdal,64	
+1871,Stjørdal,63	
 1871,Stjerner,2	
 1871,Stjrdal,1	
 1871,Stjrn,1	
@@ -79144,10 +78804,6 @@
 1872,Bohusln,3	
 1872,Bokn,10	
 1872,Boksnes,1	
-1872,Bols Herred,1	
-1872,Bols Kleive,1	
-1872,Bols Prgj,2	
-1872,Bols,43	
 1872,Bolse,2	
 1872,Bombanifj,1	
 1872,Boodstad,1	
@@ -79323,7 +78979,7 @@
 1872,Eidsvåg,1	
 1872,Eidsvågen,2	
 1872,Eidsvoll,156	
-1872,Eigersund,75	
+1872,Eigersund,79	
 1872,Eikefjord,1	
 1872,Eiker,2	
 1872,Eikevold I Kinns Prgj,1	
@@ -79342,7 +78998,6 @@
 1872,Eken,1	
 1872,Eker Vre,1	
 1872,Eker,35	
-1872,Ekersund,4	
 1872,Ekne,2	
 1872,Eksingedalen,2	
 1872,Elberfeld Deutshland,1	
@@ -79494,7 +79149,7 @@
 1872,Friland Thime,1	
 1872,Frland I Kvinnesdal,1	
 1872,Frnens Herred,1	
-1872,Frogn,91	
+1872,Frogn,125	
 1872,Froland,43	
 1872,Fron,2	
 1872,Frosta,43	
@@ -79629,7 +79284,6 @@
 1872,Hallindal,1	
 1872,Hallingdal,7	
 1872,Halmestad,1	
-1872,Halså Og Hartmark,30	
 1872,Halså Sogn,4	
 1872,Halså,5	
 1872,Hamar,40	
@@ -79678,7 +79332,6 @@
 1872,Hegen Herl,1	
 1872,Hegge Sogn Slidre Valders,1	
 1872,Heggedahl,1	
-1872,Hegre,33	
 1872,Helg,3	
 1872,Helgeen Hedemarken,1	
 1872,Helgeland,3	
@@ -79968,8 +79621,6 @@
 1872,Klep,10	
 1872,Klepp,22	
 1872,Kleps Herred,1	
-1872,Kleve Bols,1	
-1872,Kleve I Bols,1	
 1872,Kloster,1	
 1872,Klve,1	
 1872,Kobbeltvedt Fjelds Prgj Sb,1	
@@ -80199,7 +79850,7 @@
 1872,Mallangen,3	
 1872,Malm,3	
 1872,Malvik,18	
-1872,Mandal,84	
+1872,Mandal,114	
 1872,Mandals Pr,1	
 1872,Maridalen,2	
 1872,Mark,19	
@@ -80219,7 +79870,7 @@
 1872,Mellerud,1	
 1872,Memel Stprisen,1	
 1872,Memel,1	
-1872,Meraker,13	
+1872,Meråker,13	
 1872,Middlesbro,1	
 1872,Midtre Gauldal,57	
 1872,Mjndalen,1	
@@ -80236,7 +79887,7 @@
 1872,Modum,116	
 1872,Moland,6	
 1872,Molands Sogn,1	
-1872,Molde,42	
+1872,Molde,91	
 1872,Moldforvik Skjrvy,1	
 1872,Molselven,1	
 1872,Monselven,1	
@@ -80433,7 +80084,7 @@
 1872,Otnes,1	
 1872,Oustad Sogn,1	
 1872,Overhalden,6	
-1872,Overhallen,27	
+1872,Overhalla,27	
 1872,Pajala Sogn Sverige,1	
 1872,Pensylvanien Amerika,1	
 1872,Polen,1	
@@ -80823,7 +80474,7 @@
 1872,Stes,1	
 1872,Stettin,1	
 1872,Stigen Lofoten Kabelvåg,1	
-1872,Stjørdal,73	
+1872,Stjørdal,72	
 1872,Stjerner,2	
 1872,Stmark Sverige,3	
 1872,Stmarken,3	
@@ -81513,9 +81164,6 @@
 1873,Bokn,5	
 1873,Bolgen Helgeland,1	
 1873,Bolgen,1	
-1873,Bols Herred Rvik Sogn,1	
-1873,Bols Prstegjld,1	
-1873,Bols,52	
 1873,Bolse,1	
 1873,Bore Sogn,1	
 1873,Borg Smålenene,1	
@@ -81675,7 +81323,7 @@
 1873,Eidsvog Svens Prgj,1	
 1873,Eidsvoll,129	
 1873,Eidvold,1	
-1873,Eigersund,67	
+1873,Eigersund,71	
 1873,Eigsskoven,1	
 1873,Eiken,2	
 1873,Eiker,1	
@@ -81686,7 +81334,6 @@
 1873,Ejsperg,1	
 1873,Eken,1	
 1873,Eker,40	
-1873,Ekersund,4	
 1873,Ekeskog,1	
 1873,Ekker,1	
 1873,Eksj Sverge,1	
@@ -81831,7 +81478,7 @@
 1873,Frnens Herred,3	
 1873,Frnes Herred,1	
 1873,Froan,1	
-1873,Frogn,88	
+1873,Frogn,118	
 1873,Froland,35	
 1873,Frolands Sogn,1	
 1873,Fron,1	
@@ -81956,7 +81603,6 @@
 1873,Hallindal,1	
 1873,Hallingdal,8	
 1873,Halmstad,1	
-1873,Halså Og Hartmark,22	
 1873,Halså Sogn,4	
 1873,Halså,7	
 1873,Halsen,1	
@@ -82006,7 +81652,6 @@
 1873,Heen,2	
 1873,Heens Herred,1	
 1873,Heggedal,2	
-1873,Hegre,30	
 1873,Helg S,1	
 1873,Helgeen Hedemarken,1	
 1873,Helgeland Nordl,1	
@@ -82273,7 +81918,6 @@
 1873,Kleive,1	
 1873,Klep,9	
 1873,Klepp,16	
-1873,Kleve Bols,1	
 1873,Kleve Romsdalen,1	
 1873,Klyk,1	
 1873,Knapskaug,1	
@@ -82484,7 +82128,7 @@
 1873,Malmo Sogn,1	
 1873,Malvik,27	
 1873,Manchester,1	
-1873,Mandal,58	
+1873,Mandal,80	
 1873,Marestille Nordreisen,1	
 1873,Maridalen,2	
 1873,Marienskog,1	
@@ -82507,7 +82151,7 @@
 1873,Meldal,41	
 1873,Melhus,49	
 1873,Melum,2	
-1873,Meraker,18	
+1873,Meråker,18	
 1873,Mgster I Snhordland,1	
 1873,Mgster Sogn,1	
 1873,Midtgulen Sogn,1	
@@ -82524,7 +82168,7 @@
 1873,Moi,1	
 1873,Moland Thelemarken,1	
 1873,Moland,3	
-1873,Molde,46	
+1873,Molde,101	
 1873,Molden Sell,1	
 1873,Molden,1	
 1873,Molselven,2	
@@ -82711,7 +82355,7 @@
 1873,Osterøy,148	
 1873,Otternes,1	
 1873,Overhalden,4	
-1873,Overhallen,24	
+1873,Overhalla,24	
 1873,Penkuhl Tyskland,1	
 1873,Pite,1	
 1873,Pola,1	
@@ -83721,11 +83365,6 @@
 1874,Bokkens Herred,1	
 1874,Bokn,7	
 1874,Boksnes,1	
-1874,Bols I Romsdalen,1	
-1874,Bols Prgj,1	
-1874,Bols Romsd,1	
-1874,Bols Sogn,1	
-1874,Bols,50	
 1874,Bones Guldalen,1	
 1874,Bore S,1	
 1874,Borgvik,1	
@@ -83884,7 +83523,7 @@
 1874,Eidsvol,3	
 1874,Eidsvoll,157	
 1874,Eidsvols Prgj,1	
-1874,Eigersund,56	
+1874,Eigersund,61	
 1874,Eikefjord,3	
 1874,Eiken Sogn,1	
 1874,Eiken,2	
@@ -83903,7 +83542,6 @@
 1874,Eken,1	
 1874,Eker Vre,1	
 1874,Eker,58	
-1874,Ekersund,5	
 1874,Ekker Konsberg,1	
 1874,Ekne Herred,1	
 1874,Ekne,2	
@@ -84065,7 +83703,7 @@
 1874,Frjen,1	
 1874,Frmsta Sverge,1	
 1874,Frnens Herred,1	
-1874,Frogn,112	
+1874,Frogn,140	
 1874,Froland,51	
 1874,Fron Norde,1	
 1874,Fron,1	
@@ -84192,7 +83830,6 @@
 1874,Halland,2	
 1874,Hallingdal,7	
 1874,Halmstad Sverge,1	
-1874,Halså Og Hartmark,15	
 1874,Halså Sogn,2	
 1874,Halså,8	
 1874,Halsenen Sndhdld,1	
@@ -84252,7 +83889,6 @@
 1874,Hegebostad,1	
 1874,Hegge Slidre,1	
 1874,Hegland,1	
-1874,Hegre,28	
 1874,Heidalen I Valders,1	
 1874,Heidelberg Tyskl,1	
 1874,Heirefos,1	
@@ -84759,7 +84395,7 @@
 1874,Malmkping,1	
 1874,Malnes Vesterålen,1	
 1874,Malvik,21	
-1874,Mandal,62	
+1874,Mandal,77	
 1874,Mangers Herred,3	
 1874,Mangers Sogn,1	
 1874,Mangers,1	
@@ -84781,7 +84417,7 @@
 1874,Melum Sogn,1	
 1874,Melum,3	
 1874,Melvik Tromssundet,1	
-1874,Meraker,16	
+1874,Meråker,16	
 1874,Mich Usa,1	
 1874,Midtli Liten,1	
 1874,Midtre Gauldal,63	
@@ -84801,7 +84437,7 @@
 1874,Modum,114	
 1874,Moland,7	
 1874,Molands Prgj,1	
-1874,Molde,35	
+1874,Molde,89	
 1874,Molselven,2	
 1874,Monselven,1	
 1874,Morgedal,1	
@@ -84996,7 +84632,7 @@
 1874,Ottestad,2	
 1874,Oustad,1	
 1874,Overhalden,9	
-1874,Overhallen,23	
+1874,Overhalla,23	
 1874,På Atlanterhavet,1	
 1874,På Fjeldet Fr Ln,1	
 1874,Paris,2	
@@ -86061,9 +85697,6 @@
 1875,Bokken,1	
 1875,Bokn,9	
 1875,Boksnes,1	
-1875,Bols Prgj,1	
-1875,Bols Song,1	
-1875,Bols,50	
 1875,Bolsy,1	
 1875,Bordeaux Frankrig,1	
 1875,Bore I Klep,1	
@@ -86259,7 +85892,7 @@
 1875,Eidsvol,1	
 1875,Eidsvoll,130	
 1875,Eier,1	
-1875,Eigersund,83	
+1875,Eigersund,92	
 1875,Eiken,2	
 1875,Eivendvik,1	
 1875,Eivindvik,4	
@@ -86269,7 +85902,6 @@
 1875,Eker Vre,1	
 1875,Eker,36	
 1875,Ekers Herred,1	
-1875,Ekersund,9	
 1875,Ekholmen,1	
 1875,Ekne,1	
 1875,Eksingdalen,1	
@@ -86420,7 +86052,7 @@
 1875,Fridrikstadt,1	
 1875,Frien,10	
 1875,Frnens Herred,2	
-1875,Frogn,124	
+1875,Frogn,159	
 1875,Froland,41	
 1875,Frolands Sogn,1	
 1875,Fron Gudbrandsdalen,1	
@@ -86565,7 +86197,6 @@
 1875,Hallen,1	
 1875,Hallingdal,2	
 1875,Halmstad Sverige,1	
-1875,Halså Og Hartmark,18	
 1875,Halså Sogn,1	
 1875,Halså,13	
 1875,Halseide,1	
@@ -86602,7 +86233,6 @@
 1875,Hatfjelddal,1	
 1875,Hatfjelddalen,3	
 1875,Hatfjelldalen,14	
-1875,Hatlen Bols,1	
 1875,Hatlestrand,1	
 1875,Haug Eker,1	
 1875,Haug Ringerike,1	
@@ -86622,7 +86252,6 @@
 1875,Hedenstad Vre Sandsver,1	
 1875,Heen,1	
 1875,Heggeland,1	
-1875,Hegre,35	
 1875,Heirefos,1	
 1875,Heirefoss,1	
 1875,Heldal,1	
@@ -86904,7 +86533,6 @@
 1875,Klbo,2	
 1875,Klbu,12	
 1875,Klebu,1	
-1875,Kleive I Bols,1	
 1875,Kleive Romsdalen,1	
 1875,Kleive,3	
 1875,Klep Jderen,2	
@@ -86950,7 +86578,6 @@
 1875,Krdshered,2	
 1875,Krestiansund,1	
 1875,Kria,3	
-1875,Kringstad Bols Herred,1	
 1875,Krissand S,1	
 1875,Kristania,1	
 1875,Kristian,1	
@@ -87150,7 +86777,7 @@
 1875,Malm,2	
 1875,Malmin,1	
 1875,Malvik,24	
-1875,Mandal,76	
+1875,Mandal,94	
 1875,Mangers Prgj,2	
 1875,Maridalen,1	
 1875,Mark,22	
@@ -87170,7 +86797,7 @@
 1875,Melhus,67	
 1875,Mellerd,1	
 1875,Melsomvik,2	
-1875,Meraker,17	
+1875,Meråker,17	
 1875,Mgster,1	
 1875,Midtre Gauldal,69	
 1875,Min,1	
@@ -87190,7 +86817,7 @@
 1875,Modalens Hered,1	
 1875,Modum,126	
 1875,Moland,1	
-1875,Molde,42	
+1875,Molde,97	
 1875,Molland Masfjord,1	
 1875,Molselven,1	
 1875,Mong Egersunds Sogn,1	
@@ -87392,7 +87019,7 @@
 1875,Otter,1	
 1875,Overhalden Herred,1	
 1875,Overhalden,4	
-1875,Overhallen,37	
+1875,Overhalla,37	
 1875,Paris,1	
 1875,Peru,1	
 1875,Pinneberg Schlesvigholstein,1	
@@ -88484,10 +88111,6 @@
 1876,Bokn,7	
 1876,Boksnes,1	
 1876,Bolanda Dalsland,1	
-1876,Bols Herred,1	
-1876,Bols Romsdalen,1	
-1876,Bols,41	
-1876,Bolsen,1	
 1876,Bolstad Sverige,1	
 1876,Borås,1	
 1876,Boren,1	
@@ -88669,7 +88292,7 @@
 1876,Eidsvoll,143	
 1876,Eidvold,2	
 1876,Eie Hitter,1	
-1876,Eigersund,96	
+1876,Eigersund,102	
 1876,Eikefjord Sndfjord,1	
 1876,Eiken,3	
 1876,Eisberg,4	
@@ -88686,7 +88309,6 @@
 1876,Eker Sogn N,1	
 1876,Eker Vre,2	
 1876,Eker,37	
-1876,Ekersund,6	
 1876,Ekne,5	
 1876,El Paso Usa,1	
 1876,Elbing Tyskland,1	
@@ -88858,7 +88480,7 @@
 1876,Frijen,1	
 1876,Fristad I Hr,1	
 1876,Frndefors Sverige,1	
-1876,Frogn,114	
+1876,Frogn,145	
 1876,Froland,44	
 1876,Frolands Herred Nedenes Amt,1	
 1876,Frolandssogn,1	
@@ -88996,7 +88618,6 @@
 1876,Hallingdal,9	
 1876,Hals Nordmr,1	
 1876,Hals,1	
-1876,Halså Og Hartmark,27	
 1876,Halså Sogn,1	
 1876,Halså,5	
 1876,Halsen,1	
@@ -89054,8 +88675,6 @@
 1876,Heggedal,1	
 1876,Hegland,1	
 1876,Heglie Stjsdalen,1	
-1876,Hegre Herred,1	
-1876,Hegre,30	
 1876,Helg,4	
 1876,Helgeen Hed,1	
 1876,Helgeen,1	
@@ -89565,7 +89184,7 @@
 1876,Malmberg Sverge,1	
 1876,Malvik,29	
 1876,Manchester,1	
-1876,Mandal,96	
+1876,Mandal,123	
 1876,Mangers Prgj,2	
 1876,Mangers,1	
 1876,Maridalen,2	
@@ -89587,8 +89206,8 @@
 1876,Melum,2	
 1876,Melvik,1	
 1876,Memel Tyskland,2	
+1876,Meråker,14	
 1876,Merager,1	
-1876,Meraker,14	
 1876,Messelt,1	
 1876,Mgster Sogn,1	
 1876,Mgster,1	
@@ -89608,7 +89227,7 @@
 1876,Modum,130	
 1876,Moland Fyrisdal,1	
 1876,Moland,2	
-1876,Molde,54	
+1876,Molde,98	
 1876,Molden,1	
 1876,Molselven,2	
 1876,Montala Sverige,1	
@@ -89801,7 +89420,7 @@
 1876,Otter,1	
 1876,Otteren Namdalen,1	
 1876,Overhalden,7	
-1876,Overhallen,20	
+1876,Overhalla,20	
 1876,På Hovland I Hellelans Sogn,1	
 1876,På Norsk Barkskib Hvide Rn På Reise Mellem Batina Og Melbourne,1	
 1876,Petchinka,1	
@@ -90839,10 +90458,6 @@
 1877,Bohusln,1	
 1877,Bokken,2	
 1877,Bokn,10	
-1877,Bols Herred,2	
-1877,Bols Romsdal,1	
-1877,Bols Romsdalen,1	
-1877,Bols,57	
 1877,Bonn,1	
 1877,Boren,2	
 1877,Borg,1	
@@ -91017,7 +90632,7 @@
 1877,Eidsvåg,1	
 1877,Eidsvoll,134	
 1877,Eigen,1	
-1877,Eigersund,92	
+1877,Eigersund,100	
 1877,Eikefjord Sogn,1	
 1877,Eikefjord,2	
 1877,Eiken,3	
@@ -91031,7 +90646,6 @@
 1877,Eivindvik,5	
 1877,Eker Nedre,1	
 1877,Eker,35	
-1877,Ekersund,8	
 1877,Ekersunds Lands,1	
 1877,Ekne,5	
 1877,Elfdalen Sverige,1	
@@ -91189,7 +90803,7 @@
 1877,Frien,12	
 1877,Frnens Herred,5	
 1877,Froan,1	
-1877,Frogn,121	
+1877,Frogn,157	
 1877,Frogndrbak,1	
 1877,Froland,42	
 1877,Fron,2	
@@ -91328,7 +90942,6 @@
 1877,Halland,1	
 1877,Hallingdal,8	
 1877,Halmstad,1	
-1877,Halså Og Hartmark,29	
 1877,Halså Sogn,1	
 1877,Halså,9	
 1877,Halsenen,1	
@@ -91384,8 +90997,6 @@
 1877,Hegge S Slidre,1	
 1877,Hegge Sogn Slidre,1	
 1877,Heggeland,1	
-1877,Hegre Sogn,1	
-1877,Hegre,35	
 1877,Heirefos Sogn,1	
 1877,Heirefos,1	
 1877,Helgeen,1	
@@ -91464,7 +91075,6 @@
 1877,Hjelmeland,35	
 1877,Hjelmen,2	
 1877,Hjelmland,1	
-1877,Hjelset Bols,1	
 1877,Hjerpen,1	
 1877,Hjertdal,1	
 1877,Hjord,1	
@@ -91673,7 +91283,6 @@
 1877,Klagenfurt Sterrige,1	
 1877,Klbo,1	
 1877,Klbu,13	
-1877,Kleive Bols,1	
 1877,Kleive,3	
 1877,Klep,6	
 1877,Klepp,27	
@@ -91913,7 +91522,7 @@
 1877,Malns Vesterålen,1	
 1877,Malta,1	
 1877,Malvik,32	
-1877,Mandal,65	
+1877,Mandal,94	
 1877,Mangers Herred,2	
 1877,Mangers Prgj,1	
 1877,Maridalen,2	
@@ -91937,7 +91546,7 @@
 1877,Melly,1	
 1877,Melum,1	
 1877,Melvr,1	
-1877,Meraker,29	
+1877,Meråker,29	
 1877,Messelt,1	
 1877,Mgster,2	
 1877,Midtre Gauldal,61	
@@ -91959,7 +91568,7 @@
 1877,Modum,108	
 1877,Moland Sogn,1	
 1877,Moland,5	
-1877,Molde,35	
+1877,Molde,98	
 1877,Monselven,1	
 1877,Mooss,1	
 1877,Mora Sverige,2	
@@ -92159,7 +91768,7 @@
 1877,Otestad Pr Hedemarken,1	
 1877,Otteren,1	
 1877,Overhalden,5	
-1877,Overhallen,30	
+1877,Overhalla,30	
 1877,Paris,1	
 1877,Pegnitz Bayern,1	
 1877,Pelligstad Sverige,1	
@@ -93246,9 +92855,6 @@
 1878,Bohusln Sverige,1	
 1878,Bohusln,1	
 1878,Bokn,10	
-1878,Bols Herred,2	
-1878,Bols Sogn,1	
-1878,Bols,45	
 1878,Borås,1	
 1878,Bore,1	
 1878,Boren,3	
@@ -93412,7 +93018,7 @@
 1878,Eidskog,89	
 1878,Eidsskogen,2	
 1878,Eidsvoll,159	
-1878,Eigersund,97	
+1878,Eigersund,99	
 1878,Eikefjord,1	
 1878,Eiken,1	
 1878,Einastranden,1	
@@ -93425,8 +93031,6 @@
 1878,Eker Nedre,1	
 1878,Eker Vre,2	
 1878,Eker,34	
-1878,Ekersund Landsogn,1	
-1878,Ekersund,1	
 1878,Ekne,2	
 1878,Elfsborgs Ln Sverige,1	
 1878,Ellingsen I Sndmr,1	
@@ -93586,7 +93190,7 @@
 1878,Frien,12	
 1878,Friene,1	
 1878,Frnens Herred,3	
-1878,Frogn,106	
+1878,Frogn,142	
 1878,Frojen,1	
 1878,Froland,40	
 1878,Frolands Sogn,1	
@@ -93724,7 +93328,6 @@
 1878,Hallen,1	
 1878,Hallingdal,13	
 1878,Halmstad Sverige,1	
-1878,Halså Og Hartmark,11	
 1878,Halså Sogn,1	
 1878,Halså,8	
 1878,Halsen,1	
@@ -93794,8 +93397,6 @@
 1878,Hegebosta S,1	
 1878,Hegebostad,1	
 1878,Heggerns Herl,1	
-1878,Hegre Sogn,1	
-1878,Hegre,35	
 1878,Heim,1	
 1878,Heirefos Sogn,1	
 1878,Helg,3	
@@ -94337,7 +93938,7 @@
 1878,Malme,1	
 1878,Malvik,22	
 1878,Mandahl,1	
-1878,Mandal,83	
+1878,Mandal,94	
 1878,Mangskogen Sverige,1	
 1878,Mannheim,1	
 1878,Maridalen,2	
@@ -94363,7 +93964,7 @@
 1878,Mellerud,1	
 1878,Melum,2	
 1878,Melyt,1	
-1878,Meraker,26	
+1878,Meråker,26	
 1878,Meran,1	
 1878,Meroker,1	
 1878,Mesnalien,1	
@@ -94390,7 +93991,7 @@
 1878,Moland,3	
 1878,Molands Sogn,1	
 1878,Mold,1	
-1878,Molde,30	
+1878,Molde,79	
 1878,Molden,1	
 1878,Monselven,1	
 1878,Moskenes I Lofoten,1	
@@ -94595,7 +94196,7 @@
 1878,Ossen,1	
 1878,Osterøy,143	
 1878,Overhalden,5	
-1878,Overhallen,23	
+1878,Overhalla,23	
 1878,Penig I S,1	
 1878,Piteå Sverige,1	
 1878,Podde Tyrkiet Plyttil Asien,1	
@@ -94642,7 +94243,6 @@
 1878,Relingen,1	
 1878,Rellingen,1	
 1878,Remark,1	
-1878,Ren I Bols,1	
 1878,Ren Valdres,1	
 1878,Rendalen,62	
 1878,Renebo,1	
@@ -95700,10 +95300,6 @@
 1879,Bokn,7	
 1879,Boksnes Lofoten,1	
 1879,Bollestad,2	
-1879,Bols Herred,1	
-1879,Bols Romsdal,2	
-1879,Bols Romsdl,1	
-1879,Bols,36	
 1879,Bolsj,1	
 1879,Bolsy,1	
 1879,Borås,1	
@@ -95874,7 +95470,6 @@
 1879,Egdal,1	
 1879,Egds Landsogn,1	
 1879,Egeland Vre Sirdal,1	
-1879,Eger Ekersund,1	
 1879,Egers Herred,1	
 1879,Egersd Herred,2	
 1879,Egersunds Landsogn,3	
@@ -95897,7 +95492,7 @@
 1879,Eidsskogen,8	
 1879,Eidsskoven,1	
 1879,Eidsvoll,137	
-1879,Eigersund,101	
+1879,Eigersund,106	
 1879,Eikefjord,2	
 1879,Eiken I L Og M Amt,1	
 1879,Eiken Sogn L Og M,1	
@@ -95910,7 +95505,6 @@
 1879,Ejdsvold,1	
 1879,Eker Vre,1	
 1879,Eker,32	
-1879,Ekersund,4	
 1879,Ekne,9	
 1879,Eksingedalen,1	
 1879,Elffborgln,1	
@@ -96079,7 +95673,7 @@
 1879,Frndefors Sverige,2	
 1879,Frnens Herred,3	
 1879,Froan Nordfryen S,1	
-1879,Frogn,124	
+1879,Frogn,161	
 1879,Froland,44	
 1879,Fron Gudbr,1	
 1879,Fron Sndre,1	
@@ -96219,7 +95813,6 @@
 1879,Hallen,1	
 1879,Hallingdal,7	
 1879,Hals,1	
-1879,Halså Og Hartmark,26	
 1879,Halså Sogn,4	
 1879,Halså,12	
 1879,Halsen,1	
@@ -96276,8 +95869,6 @@
 1879,Hedermarken,1	
 1879,Heen,1	
 1879,Hegebostad,1	
-1879,Hegre Strdalen,1	
-1879,Hegre,35	
 1879,Heirefos,1	
 1879,Helg,4	
 1879,Helgeland,7	
@@ -96768,7 +96359,7 @@
 1879,Malm Sverige,1	
 1879,Malm,1	
 1879,Malvik,29	
-1879,Mandal,88	
+1879,Mandal,114	
 1879,Mandrabselv,1	
 1879,Mangers H,1	
 1879,Mangers Herred,1	
@@ -96795,7 +96386,7 @@
 1879,Melsogn,1	
 1879,Melsomvik,1	
 1879,Melumsvik Fosen,1	
-1879,Meraker,29	
+1879,Meråker,29	
 1879,Mgster,1	
 1879,Mhre Sv,1	
 1879,Midtre Gauldal,68	
@@ -96819,7 +96410,7 @@
 1879,Moland Sogn,2	
 1879,Moland V,1	
 1879,Moland,3	
-1879,Molde,35	
+1879,Molde,75	
 1879,Molden Nordfjord,1	
 1879,Mosbach,1	
 1879,Moskenes I Lofoten,1	
@@ -96996,7 +96587,7 @@
 1879,Oss,2	
 1879,Osterøy,176	
 1879,Overhalden,5	
-1879,Overhallen,22	
+1879,Overhalla,22	
 1879,Oxford England,1	
 1879,Paris,2	
 1879,Paulets Rusland,1	
@@ -97365,7 +96956,7 @@
 1879,Sthran Smlen,1	
 1879,Stigen,1	
 1879,Stiklestad Sogn,1	
-1879,Stjørdal,74	
+1879,Stjørdal,73	
 1879,Stjerner,1	
 1879,Stmark Sverge,1	
 1879,Stmark Sverige,3	
@@ -98136,10 +97727,6 @@
 1880,Bohusln,2	
 1880,Bokn,8	
 1880,Boldwin Wis Usa,1	
-1880,Bols Herred,3	
-1880,Bols Prgj,1	
-1880,Bols Romsdal,1	
-1880,Bols,34	
 1880,Bolstad,1	
 1880,Borås,1	
 1880,Boren,1	
@@ -98320,7 +97907,7 @@
 1880,Eidsvol Norge,1	
 1880,Eidsvol,2	
 1880,Eidsvoll,169	
-1880,Eigersund,88	
+1880,Eigersund,95	
 1880,Eikefjord,2	
 1880,Eikersunds Landsogn,1	
 1880,Eikevold,1	
@@ -98334,7 +97921,6 @@
 1880,Ejsvold,1	
 1880,Eker Nedre,1	
 1880,Eker,41	
-1880,Ekersund,7	
 1880,Ekne,4	
 1880,Ekr,1	
 1880,Elfsborgslen Sverige,1	
@@ -98342,7 +97928,6 @@
 1880,Elverum,170	
 1880,Elverun,1	
 1880,Elvrum,2	
-1880,Elvsås Bols,1	
 1880,En Buskerud,1	
 1880,Enare,1	
 1880,Enebakk,55	
@@ -98446,7 +98031,6 @@
 1880,Flisvig Hlle,1	
 1880,Flogstad Sogn,1	
 1880,Flor,15	
-1880,Floren Hegre,1	
 1880,Floren,1	
 1880,Flostad Sogn,1	
 1880,Flostad,1	
@@ -98503,7 +98087,7 @@
 1880,Frnens Herred,1	
 1880,Frnens Prgj,1	
 1880,Frnes Prgj,1	
-1880,Frogn,97	
+1880,Frogn,130	
 1880,Froland,34	
 1880,Frolands Vrk,1	
 1880,Fron Sndre,1	
@@ -98653,7 +98237,6 @@
 1880,Hallingdal,7	
 1880,Hallingdall,1	
 1880,Hals Sogn Lofoten,1	
-1880,Halså Og Hartmark,36	
 1880,Halså Sogn,3	
 1880,Halså,3	
 1880,Hamar,54	
@@ -98713,8 +98296,6 @@
 1880,Heen,3	
 1880,Hegehasta,1	
 1880,Heggre,1	
-1880,Hegre Herred,1	
-1880,Hegre,30	
 1880,Heierfoss,1	
 1880,Heirefos,1	
 1880,Heirefoss,1	
@@ -99255,7 +98836,7 @@
 1880,Malns Vesterålen,1	
 1880,Malvig,1	
 1880,Malvik,30	
-1880,Mandal,73	
+1880,Mandal,109	
 1880,Mangers Herred,1	
 1880,Mangers Prgj,1	
 1880,Maridalen,2	
@@ -99280,8 +98861,8 @@
 1880,Mellerud Sverige,3	
 1880,Melly,1	
 1880,Melum,3	
+1880,Meråker,34	
 1880,Merager,1	
-1880,Meraker,34	
 1880,Mhr Neustadt Sterrike,1	
 1880,Michigan Usa,1	
 1880,Midtre Gauldal,57	
@@ -99308,7 +98889,7 @@
 1880,Moland Stre,1	
 1880,Moland Vestre,1	
 1880,Moland,8	
-1880,Molde,38	
+1880,Molde,78	
 1880,Molden,1	
 1880,Mon Sverige,1	
 1880,Monselven,3	
@@ -99509,8 +99090,7 @@
 1880,Osterøy,151	
 1880,Otthum,1	
 1880,Overhalden,6	
-1880,Overhallen I N Thjems Amt,1	
-1880,Overhallen,31	
+1880,Overhalla,32	
 1880,Pargas,1	
 1880,Paris,2	
 1880,Philadelfia,1	
@@ -99920,7 +99500,7 @@
 1880,Stherb,1	
 1880,Stijerner,1	
 1880,Stiklestad,2	
-1880,Stjørdal,77	
+1880,Stjørdal,76	
 1880,Stjerner,5	
 1880,Stmark Sverige,2	
 1880,Stmark,1	
@@ -100648,10 +100228,6 @@
 1881,Bokken,1	
 1881,Bokn,8	
 1881,Bolgen Pr Krsund N,1	
-1881,Bols I Romsdalen,1	
-1881,Bols Prgj,1	
-1881,Bols Sogn,1	
-1881,Bols,36	
 1881,Bor,1	
 1881,Borg Lofoten,1	
 1881,Borg,1	
@@ -100810,7 +100386,7 @@
 1881,Eidsvågen,1	
 1881,Eidsvåld,1	
 1881,Eidsvoll,137	
-1881,Eigersund,94	
+1881,Eigersund,103	
 1881,Eikefjord,1	
 1881,Eiken,2	
 1881,Eikisdalen,1	
@@ -100827,7 +100403,6 @@
 1881,Ekefjord Sndfj,1	
 1881,Eker Vre,1	
 1881,Eker,38	
-1881,Ekersund,9	
 1881,Ekne,5	
 1881,Eksj Jnkping,1	
 1881,Elgenes Vistdal,1	
@@ -100962,7 +100537,7 @@
 1881,Friland,1	
 1881,Friseth Masfj,1	
 1881,Frnes Herred,1	
-1881,Frogn,96	
+1881,Frogn,143	
 1881,Froland,51	
 1881,Frolands H,1	
 1881,Fron,1	
@@ -101076,7 +100651,6 @@
 1881,Halland,1	
 1881,Hallingdal,10	
 1881,Halmstad,1	
-1881,Halså Og Hartmark,31	
 1881,Halså Sogn,3	
 1881,Halså,9	
 1881,Halsenen Sndhordland,1	
@@ -101141,9 +100715,6 @@
 1881,Hee Sogn,1	
 1881,Heen,2	
 1881,Heggeland,2	
-1881,Hegre Meraker,1	
-1881,Hegre Strdalen,1	
-1881,Hegre,44	
 1881,Heim Herred,1	
 1881,Helg Sogn,1	
 1881,Helg Stjerner,1	
@@ -101653,7 +101224,7 @@
 1881,Malm,3	
 1881,Malvig,1	
 1881,Malvik,20	
-1881,Mandal,63	
+1881,Mandal,94	
 1881,Mangers Sogn Bergens Stift,1	
 1881,Maridalen,2	
 1881,Mark,23	
@@ -101676,7 +101247,7 @@
 1881,Melsomvik,1	
 1881,Melum,1	
 1881,Melvr,1	
-1881,Meraker,23	
+1881,Meråker,23	
 1881,Midtre Gauldal,74	
 1881,Milje Skånevig,1	
 1881,Minnesota Nordam,1	
@@ -101693,8 +101264,7 @@
 1881,Moi,1	
 1881,Moland S,1	
 1881,Moland,3	
-1881,Molde,31	
-1881,Moldegård Bols,1	
+1881,Molde,71	
 1881,Molden,1	
 1881,Moos,1	
 1881,Morgedal,1	
@@ -101890,7 +101460,7 @@
 1881,Otteren,1	
 1881,Oustad,1	
 1881,Overhalden,6	
-1881,Overhallen,25	
+1881,Overhalla,25	
 1881,Paris,1	
 1881,Persfjord,1	
 1881,Petersdorf Tyskland,1	
@@ -102262,7 +101832,7 @@
 1881,Sterrike,1	
 1881,Stersdal,1	
 1881,Stigen,1	
-1881,Stjørdal,68	
+1881,Stjørdal,67	
 1881,Stjerner Ryfylke,1	
 1881,Stjerner,3	
 1881,Stmarken,4	
@@ -102922,11 +102492,6 @@
 1882,Bokn,9	
 1882,Boksnes,1	
 1882,Bolgen Kristinsund N,1	
-1882,Bols Prgj,1	
-1882,Bols Romsdalen,1	
-1882,Bols S,1	
-1882,Bols Sogn,1	
-1882,Bols,41	
 1882,Bolstaren,1	
 1882,Boren,2	
 1882,Borgestad Prgj,1	
@@ -103099,7 +102664,7 @@
 1882,Eidsvågen Romsdalen,1	
 1882,Eidsvol,1	
 1882,Eidsvoll,141	
-1882,Eigersund,88	
+1882,Eigersund,101	
 1882,Eikefjord,2	
 1882,Eiken,1	
 1882,Einastranden,1	
@@ -103115,8 +102680,6 @@
 1882,Eken Sogn,1	
 1882,Eken,1	
 1882,Eker,33	
-1882,Ekersund Landsogn,1	
-1882,Ekersund,11	
 1882,Ekersunds Landsogn,1	
 1882,Eksund,1	
 1882,Elnesvågen,1	
@@ -103276,7 +102839,7 @@
 1882,Frnens Herred,2	
 1882,Frnningen,1	
 1882,Froen,1	
-1882,Frogn,127	
+1882,Frogn,156	
 1882,Frolan,1	
 1882,Froland,56	
 1882,Fron S,1	
@@ -103416,7 +102979,6 @@
 1882,Halleren,1	
 1882,Hallingdal Herred Ubekjent,1	
 1882,Hallingdal,5	
-1882,Halså Og Hartmark,21	
 1882,Halså Sogn,1	
 1882,Halså,8	
 1882,Halsen,1	
@@ -103479,7 +103041,6 @@
 1882,Hedenstad Vre Sandsvr,1	
 1882,Hedenstad,1	
 1882,Heen,3	
-1882,Hegre,29	
 1882,Heirefos,3	
 1882,Helg H,1	
 1882,Helg,2	
@@ -104018,7 +103579,7 @@
 1882,Malns,1	
 1882,Malvik,32	
 1882,Manchester,2	
-1882,Mandal,77	
+1882,Mandal,98	
 1882,Mangers Herred,1	
 1882,Marifjren Sogn,1	
 1882,Mark,23	
@@ -104041,8 +103602,7 @@
 1882,Melum,3	
 1882,Melvr Senjen,1	
 1882,Memel Tyskland,1	
-1882,Meraker Herred,1	
-1882,Meraker,28	
+1882,Meråker,29	
 1882,Messelt,1	
 1882,Michigan Usa,1	
 1882,Midtre Gauldal,75	
@@ -104067,7 +103627,7 @@
 1882,Moi Pr Flfjord,1	
 1882,Moland,4	
 1882,Molands Sogn,1	
-1882,Molde,43	
+1882,Molde,88	
 1882,Molden,1	
 1882,Molfors Lehn,1	
 1882,Molselven,1	
@@ -104287,7 +103847,7 @@
 1882,Otteren,1	
 1882,Ottery,1	
 1882,Overhalden,4	
-1882,Overhallen,29	
+1882,Overhalla,29	
 1882,På Eker,1	
 1882,Paddal Skipptvet,1	
 1882,Paris,1	
@@ -104608,7 +104168,6 @@
 1882,Snmre,1	
 1882,Snsen,1	
 1882,Sogendal I Sogn,1	
-1882,Soggendal Ekersund,1	
 1882,Soggendal,1	
 1882,Sogn,6	
 1882,Sogndal,106	
@@ -105399,11 +104958,6 @@
 1883,Bolgen Mel,1	
 1883,Bolgen Pr Krsund N,1	
 1883,Bolla Senjen Nordland,1	
-1883,Bols Herred,1	
-1883,Bols I Ydre Romsdalen,1	
-1883,Bols Prgj,2	
-1883,Bols Romsdalen,1	
-1883,Bols,40	
 1883,Boltås Ofoten,1	
 1883,Bomangfjord Rusland,1	
 1883,Borås I Flodstad,1	
@@ -105582,7 +105136,7 @@
 1883,Eidsskogen,3	
 1883,Eidsvol,1	
 1883,Eidsvoll,145	
-1883,Eigersund,89	
+1883,Eigersund,94	
 1883,Eilenburg Prov Sachsen,1	
 1883,Eiskogen,1	
 1883,Eisvold,1	
@@ -105592,7 +105146,6 @@
 1883,Eivindvik,4	
 1883,Eker Vre,1	
 1883,Eker,30	
-1883,Ekersund,5	
 1883,Ekersunds Landsogn,1	
 1883,Ekne,1	
 1883,Eleverum,1	
@@ -105746,7 +105299,7 @@
 1883,Frien,12	
 1883,Frnens Herred,1	
 1883,Frodens,1	
-1883,Frogn,113	
+1883,Frogn,148	
 1883,Froland,51	
 1883,Fron,2	
 1883,Frosta,59	
@@ -105877,7 +105430,6 @@
 1883,Hallingdahl,1	
 1883,Hallingdal,5	
 1883,Halmstad Sverige,1	
-1883,Halså Og Hartmark,30	
 1883,Halså Sogn,6	
 1883,Halså,4	
 1883,Halsnen,1	
@@ -105946,7 +105498,6 @@
 1883,Hegebosta,1	
 1883,Heggebostad Prgj,1	
 1883,Heggerns,1	
-1883,Hegre,35	
 1883,Heirefos,3	
 1883,Helg Sogn,2	
 1883,Helg,1	
@@ -106216,7 +105767,6 @@
 1883,Klep Jderen,1	
 1883,Klep,10	
 1883,Klepp,26	
-1883,Kleve Bols Romsdalen,1	
 1883,Kleve Sogn,2	
 1883,Kleve,1	
 1883,Klp,1	
@@ -106451,7 +106001,7 @@
 1883,Malvig,1	
 1883,Malvik,36	
 1883,Manchester,2	
-1883,Mandal,74	
+1883,Mandal,104	
 1883,Mangers Herred,1	
 1883,Mani Nl Ln,1	
 1883,Maridaen,1	
@@ -106479,7 +106029,7 @@
 1883,Meli,1	
 1883,Melsomvik St,1	
 1883,Menesota,1	
-1883,Meraker,24	
+1883,Meråker,24	
 1883,Midtre Gauldal,78	
 1883,Milvaukee Usa,1	
 1883,Minesota,1	
@@ -106498,7 +106048,7 @@
 1883,Moland Herred,1	
 1883,Moland Stre,1	
 1883,Moland,4	
-1883,Molde,46	
+1883,Molde,92	
 1883,Morgedal,1	
 1883,Mosjn,1	
 1883,Moskens Pr Vestre Lofoten,1	
@@ -106686,7 +106236,7 @@
 1883,Osterøy,203	
 1883,Otnes Valsfjord,1	
 1883,Overhalden,6	
-1883,Overhallen,38	
+1883,Overhalla,38	
 1883,Overkvam,1	
 1883,Paris Frankrig,1	
 1883,Paris,3	
@@ -107768,9 +107318,6 @@
 1884,Bohusln,8	
 1884,Bokn,15	
 1884,Boksns,1	
-1884,Bols I Romsdal,1	
-1884,Bols Prgj,1	
-1884,Bols,45	
 1884,Boren,2	
 1884,Borg Lof,1	
 1884,Borg Sogn Smål,1	
@@ -107957,7 +107504,7 @@
 1884,Eidsskogen,7	
 1884,Eidsvol,1	
 1884,Eidsvoll,169	
-1884,Eigersund,83	
+1884,Eigersund,90	
 1884,Eikefjorden,1	
 1884,Eiken,3	
 1884,Eikersund,1	
@@ -107969,7 +107516,6 @@
 1884,Ejdsberg,1	
 1884,Ek Slagen,1	
 1884,Eker,24	
-1884,Ekersund,7	
 1884,Ekker,1	
 1884,Ekne,2	
 1884,Eksingedalen,1	
@@ -108122,7 +107668,7 @@
 1884,Frkingstad,2	
 1884,Frnens Herred,2	
 1884,Frnens,1	
-1884,Frogn,117	
+1884,Frogn,146	
 1884,Frogner Sogn,2	
 1884,Froland,54	
 1884,Frolands Sogn,1	
@@ -108262,7 +107808,6 @@
 1884,Haldorhavn,1	
 1884,Hallen,1	
 1884,Hallingdal,8	
-1884,Halså Og Hartmark,36	
 1884,Halså,6	
 1884,Halslo,1	
 1884,Halsnen,1	
@@ -108321,9 +107866,6 @@
 1884,Hegge I Valders,1	
 1884,Heggebostad Prgj,1	
 1884,Hegland,1	
-1884,Hegre Herred Strdalen,1	
-1884,Hegre Sogn,1	
-1884,Hegre,27	
 1884,Heirefos,1	
 1884,Helg Hered,1	
 1884,Helg,3	
@@ -108381,7 +107923,6 @@
 1884,Hilles H,2	
 1884,Hilles,3	
 1884,Hillestad,1	
-1884,Hilrum Overhallen,1	
 1884,His Nedenes,1	
 1884,His,38	
 1884,Hisken,1	
@@ -108871,7 +108412,7 @@
 1884,Malta,1	
 1884,Malvig,1	
 1884,Malvik,28	
-1884,Mandal,70	
+1884,Mandal,106	
 1884,Mandals Ptg,1	
 1884,Mandrabselv,1	
 1884,Mangers Prgj,1	
@@ -108899,7 +108440,7 @@
 1884,Meling Finås,1	
 1884,Melsomvik,1	
 1884,Melum,2	
-1884,Meraker,32	
+1884,Meråker,32	
 1884,Merok,1	
 1884,Meskestad,1	
 1884,Messelt,1	
@@ -108931,7 +108472,7 @@
 1884,Moen Sverige,1	
 1884,Moland,5	
 1884,Mold,1	
-1884,Molde,42	
+1884,Molde,90	
 1884,Molden,1	
 1884,Mollestad I Birkens,1	
 1884,Monselven,1	
@@ -108962,7 +108503,6 @@
 1884,Nærøy,67	
 1884,Nabbetorp,1	
 1884,Nakhjem,1	
-1884,Nakken I Bols,1	
 1884,Namdalen,4	
 1884,Namdalseid,16	
 1884,Namsås,1	
@@ -109136,7 +108676,7 @@
 1884,Otter,1	
 1884,Otteren,1	
 1884,Overhalden,5	
-1884,Overhallen,31	
+1884,Overhalla,32	
 1884,Ovreb Sogn,1	
 1884,Paris,1	
 1884,Paul Co Usa,1	
@@ -110265,10 +109805,6 @@
 1885,Bokken,1	
 1885,Bokn,14	
 1885,Bollestad,1	
-1885,Bols Herred,1	
-1885,Bols I Romsdalen,1	
-1885,Bols Romsdal,1	
-1885,Bols,58	
 1885,Borg I Lofoten,1	
 1885,Borg Lofoten,1	
 1885,Borgun,1	
@@ -110471,7 +110007,7 @@
 1885,Eidsvåg,1	
 1885,Eidsvolds Werk,1	
 1885,Eidsvoll,145	
-1885,Eigersund,102	
+1885,Eigersund,108	
 1885,Eikefjord,1	
 1885,Eiken,4	
 1885,Eisberg,1	
@@ -110483,7 +110019,6 @@
 1885,Eken,1	
 1885,Eker Nedre,1	
 1885,Eker,23	
-1885,Ekersund,6	
 1885,Ekne Sogn,1	
 1885,Ekne,1	
 1885,Elfsborgs Ln Sverige,1	
@@ -110638,7 +110173,7 @@
 1885,Frien,9	
 1885,Frnens Herred,1	
 1885,Froen,1	
-1885,Frogn,115	
+1885,Frogn,150	
 1885,Froland,41	
 1885,Fron Sdr,1	
 1885,Fron Sndre,1	
@@ -110792,7 +110327,6 @@
 1885,Hallingdal,7	
 1885,Hallingdalh,1	
 1885,Hals Sogn,1	
-1885,Halså Og Hartmark,40	
 1885,Halså,10	
 1885,Halsen I Fjeldberg Sb,1	
 1885,Halsen,3	
@@ -110852,7 +110386,6 @@
 1885,Hedrun,1	
 1885,Heen,1	
 1885,Heggedal,2	
-1885,Hegre,35	
 1885,Heimdal,1	
 1885,Heirefos,1	
 1885,Helg Karls,1	
@@ -111408,7 +110941,7 @@
 1885,Malnes,2	
 1885,Malns B,1	
 1885,Malvik,37	
-1885,Mandal,76	
+1885,Mandal,116	
 1885,Mangers Herred,1	
 1885,Mangers Prgj Sb,1	
 1885,Manskogen Sokken Sverige,1	
@@ -111435,8 +110968,7 @@
 1885,Melhus,52	
 1885,Melsomvik,1	
 1885,Melum,2	
-1885,Meraker Herred,1	
-1885,Meraker,23	
+1885,Meråker,24	
 1885,Merker,1	
 1885,Messelt,1	
 1885,Methodist Uttrdt Inte Samfund,1	
@@ -111459,7 +110991,7 @@
 1885,Moi,1	
 1885,Moland Stre,1	
 1885,Moland,4	
-1885,Molde,46	
+1885,Molde,108	
 1885,Molden,1	
 1885,Molselven,1	
 1885,Molvik,1	
@@ -111676,7 +111208,7 @@
 1885,Oter Sogn,1	
 1885,Otteren Namdalen,1	
 1885,Overhalden,3	
-1885,Overhallen,25	
+1885,Overhalla,25	
 1885,Parchim,1	
 1885,Paris,2	
 1885,Polen Russisk,1	
@@ -111797,7 +111329,6 @@
 1885,Rusland,11	
 1885,Russland,5	
 1885,Rvde,2	
-1885,Rviken Bols,1	
 1885,Rydahl Sverige,1	
 1885,Ryfylke,1	
 1885,Rygge,71	
@@ -112839,10 +112370,6 @@
 1886,Bohusln,1	
 1886,Bokn,14	
 1886,Bollebygd,1	
-1886,Bols Herred,2	
-1886,Bols Sogn Og Herred,1	
-1886,Bols Sogn,2	
-1886,Bols,50	
 1886,Bolstad,1	
 1886,Bor,1	
 1886,Bore Sogn,1	
@@ -113025,7 +112552,7 @@
 1886,Eidsvg Romsd,1	
 1886,Eidsvoll,195	
 1886,Eigefjord I Sndfjord,1	
-1886,Eigersund,119	
+1886,Eigersund,124	
 1886,Eikefjord,2	
 1886,Eikeland,1	
 1886,Eiken,3	
@@ -113041,7 +112568,6 @@
 1886,Ekeberg,1	
 1886,Eken,1	
 1886,Eker,27	
-1886,Ekersund,5	
 1886,Ekersunds Landsogn,1	
 1886,Ekker,2	
 1886,Ekne,3	
@@ -113215,7 +112741,7 @@
 1886,Frien,8	
 1886,Frisa I Sunelven,1	
 1886,Froen,1	
-1886,Frogn,120	
+1886,Frogn,160	
 1886,Frogner Sogn,1	
 1886,Frogner,1	
 1886,Froland,69	
@@ -113382,7 +112908,6 @@
 1886,Halingdal,2	
 1886,Hallingdal,5	
 1886,Halmstad Sverige,1	
-1886,Halså Og Hartmark,33	
 1886,Halså Songn,1	
 1886,Halså,3	
 1886,Halsos Mel,1	
@@ -113437,7 +112962,6 @@
 1886,Heggedal,1	
 1886,Heggeland,1	
 1886,Hegholmen,1	
-1886,Hegre,40	
 1886,Heim,1	
 1886,Heirefos Sogn,1	
 1886,Heirefos,2	
@@ -113973,7 +113497,7 @@
 1886,Malnes,1	
 1886,Malta,1	
 1886,Malvik,35	
-1886,Mandal,96	
+1886,Mandal,129	
 1886,Mangers Prgj,2	
 1886,Marburg Natal,1	
 1886,Mark I Smålene,1	
@@ -113997,7 +113521,7 @@
 1886,Melhus,51	
 1886,Meli,1	
 1886,Melsomvik,1	
-1886,Meraker,24	
+1886,Meråker,24	
 1886,Merok,1	
 1886,Midtre Gauldal,89	
 1886,Mielwauke,1	
@@ -114022,7 +113546,7 @@
 1886,Moland Stre,1	
 1886,Moland,4	
 1886,Molbakken,1	
-1886,Molde,34	
+1886,Molde,89	
 1886,Molden Nordfjord,1	
 1886,Molden,1	
 1886,Mollerup,1	
@@ -114248,7 +113772,7 @@
 1886,Ottestad Hedemarken,1	
 1886,Ottestad,1	
 1886,Overhalden,10	
-1886,Overhallen,34	
+1886,Overhalla,34	
 1886,Pajata Sverige,1	
 1886,Pensacola Flo Us Amerika,1	
 1886,Petschenga Rusland,1	
@@ -115408,9 +114932,6 @@
 1887,Boksnes,1	
 1887,Boksns,1	
 1887,Bolgen Brmsns Kvrns,1	
-1887,Bols Herred,1	
-1887,Bols Prgj,1	
-1887,Bols,47	
 1887,Bordaux Frankrige,1	
 1887,Boren,1	
 1887,Borg Lof,1	
@@ -115581,7 +115102,7 @@
 1887,Eidsskogen,3	
 1887,Eidsvgen,1	
 1887,Eidsvoll,223	
-1887,Eigersund,95	
+1887,Eigersund,99	
 1887,Eikefjord Sndfjord,1	
 1887,Eikefjord,2	
 1887,Eiken,1	
@@ -115598,8 +115119,6 @@
 1887,Eken,1	
 1887,Eker Vre,1	
 1887,Eker,29	
-1887,Ekersund Landsogn,1	
-1887,Ekersund,3	
 1887,Ekne,3	
 1887,Elsborgln,1	
 1887,Elsborgsln Sverige,1	
@@ -115759,7 +115278,7 @@
 1887,Friland,1	
 1887,Frkarla Sverige,1	
 1887,Froan,1	
-1887,Frogn,136	
+1887,Frogn,172	
 1887,Froland,54	
 1887,Frolands Sogn,1	
 1887,Fron Gudbrandsd,1	
@@ -115911,7 +115430,6 @@
 1887,Halangens Herred,1	
 1887,Halden,299	
 1887,Hallingdal,6	
-1887,Halså Og Hartmark,42	
 1887,Halså Sogn,1	
 1887,Halså,5	
 1887,Halslo,1	
@@ -115975,7 +115493,6 @@
 1887,Heen,2	
 1887,Heggedal,1	
 1887,Heggeland,1	
-1887,Hegre,36	
 1887,Heirefos,1	
 1887,Heirefoss,2	
 1887,Helg,3	
@@ -116526,7 +116043,7 @@
 1887,Malle,1	
 1887,Malm,2	
 1887,Malvik,25	
-1887,Mandal,75	
+1887,Mandal,117	
 1887,Manheim Baden Tyskland,1	
 1887,Mareland Ill,1	
 1887,Maridalen,1	
@@ -116546,7 +116063,7 @@
 1887,Meldal,51	
 1887,Melhus,49	
 1887,Melum,1	
-1887,Meraker,32	
+1887,Meråker,32	
 1887,Messelt,1	
 1887,Mestad Prgj,1	
 1887,Midtre Gauldal,59	
@@ -116569,7 +116086,7 @@
 1887,Moland Stre,1	
 1887,Moland,2	
 1887,Molands Sogn,1	
-1887,Molde,43	
+1887,Molde,92	
 1887,Mollan Valberg Hered,1	
 1887,Molvik,1	
 1887,Monselven,1	
@@ -116775,7 +116292,7 @@
 1887,Osterøy,198	
 1887,Ottersleben Tyskl,1	
 1887,Overhalden,3	
-1887,Overhallen,28	
+1887,Overhalla,28	
 1887,Oxvold Fosen,1	
 1887,Patersfj Island,1	
 1887,Pensacola N A,1	
@@ -117931,10 +117448,6 @@
 1888,Bohusln,1	
 1888,Bokn,11	
 1888,Bollns,1	
-1888,Bols Herred,2	
-1888,Bols Romsdal,1	
-1888,Bols Sogn,1	
-1888,Bols,37	
 1888,Bolstad Sverige,1	
 1888,Bondkyrko Prgj I Sverige,1	
 1888,Bordeaux,2	
@@ -118138,7 +117651,7 @@
 1888,Eidsvol,1	
 1888,Eidsvoll,218	
 1888,Eifjord,1	
-1888,Eigersund,107	
+1888,Eigersund,113	
 1888,Eikebygd,1	
 1888,Eikefjords Sogn,1	
 1888,Eikeland,1	
@@ -118163,7 +117676,6 @@
 1888,Eker Vre,1	
 1888,Eker,34	
 1888,Ekeren,1	
-1888,Ekersund,6	
 1888,Ekersunds Landsogn,1	
 1888,Ekne,3	
 1888,Elgin Ill Usa,1	
@@ -118316,7 +117828,7 @@
 1888,Frey,2	
 1888,Fria,2	
 1888,Frien,7	
-1888,Frogn,155	
+1888,Frogn,202	
 1888,Froland,53	
 1888,Frommestad Sverige,1	
 1888,Fron N,1	
@@ -118458,7 +117970,6 @@
 1888,Halprestejeld,1	
 1888,Hals I Dyr,1	
 1888,Hals I Nordmr,1	
-1888,Halså Og Hartmark,32	
 1888,Halså Sogn,1	
 1888,Halså,4	
 1888,Halsenen,1	
@@ -118510,8 +118021,6 @@
 1888,Hegeland,1	
 1888,Hegge,1	
 1888,Heggedal,2	
-1888,Hegre Herred,1	
-1888,Hegre,46	
 1888,Heim,1	
 1888,Heistad Sandsvr,1	
 1888,Heistad,1	
@@ -118807,14 +118316,12 @@
 1888,Kjty,1	
 1888,Klbo,2	
 1888,Klbu,10	
-1888,Kleive Bols,1	
 1888,Kleive Bolse,1	
 1888,Kleive,1	
 1888,Klep Bore Sogn,1	
 1888,Klep Jderen,2	
 1888,Klep,4	
 1888,Klepp,44	
-1888,Kleve Bols,1	
 1888,Kleve,1	
 1888,Knigsfeld,1	
 1888,Kodal,1	
@@ -119066,7 +118573,7 @@
 1888,Malmagen Sverige,1	
 1888,Malns,1	
 1888,Malvik,31	
-1888,Mandal,86	
+1888,Mandal,118	
 1888,Manti Utah,1	
 1888,Maridalen,1	
 1888,Mark Smål,1	
@@ -119090,8 +118597,8 @@
 1888,Melum,1	
 1888,Melvikt,1	
 1888,Melvr Askevold,1	
+1888,Meråker,35	
 1888,Merager,1	
-1888,Meraker,35	
 1888,Meran Sydtyrol,1	
 1888,Mesina,1	
 1888,Midstokke,1	
@@ -119122,7 +118629,7 @@
 1888,Moi,1	
 1888,Moland,5	
 1888,Mold Feie,1	
-1888,Molde,39	
+1888,Molde,82	
 1888,Molden Nrdfjd,1	
 1888,Molden,1	
 1888,Mollandsmarken,1	
@@ -119336,7 +118843,7 @@
 1888,Osterøy,232	
 1888,Otns,1	
 1888,Overhalden,6	
-1888,Overhallen,48	
+1888,Overhalla,48	
 1888,Pensacola Florida Us Amerika,1	
 1888,Pensacola Usa,1	
 1888,Piceln Rusland,1	
@@ -120510,9 +120017,6 @@
 1889,Bokn,16	
 1889,Boksnes,1	
 1889,Bolgen,1	
-1889,Bols Romsdal,1	
-1889,Bols Sogn,2	
-1889,Bols,45	
 1889,Bolse,1	
 1889,Boren,2	
 1889,Borg Lofoten,1	
@@ -120715,7 +120219,7 @@
 1889,Eidsvog,1	
 1889,Eidsvoll,191	
 1889,Eidvold,1	
-1889,Eigersund,106	
+1889,Eigersund,112	
 1889,Eikanger,2	
 1889,Eikefjord,1	
 1889,Eiken,3	
@@ -120733,8 +120237,6 @@
 1889,Eker N,1	
 1889,Eker Telemarken,1	
 1889,Eker,21	
-1889,Ekersund Ls,1	
-1889,Ekersund,5	
 1889,Ekersunds Landsogn,1	
 1889,Ekker,1	
 1889,Ekne,4	
@@ -120890,7 +120392,7 @@
 1889,Frkarla Sverige,1	
 1889,Frland,1	
 1889,Froen,1	
-1889,Frogn,125	
+1889,Frogn,174	
 1889,Frolan,1	
 1889,Froland,49	
 1889,Fron Gudbrandsd,1	
@@ -121036,7 +120538,6 @@
 1889,Haller,1	
 1889,Hallevik,1	
 1889,Hallingdal,6	
-1889,Halså Og Hartmark,54	
 1889,Halså Sogn,2	
 1889,Halså,6	
 1889,Halsn,1	
@@ -121091,7 +120592,6 @@
 1889,Heen,4	
 1889,Heggedal,1	
 1889,Heggertvedt,1	
-1889,Hegre,48	
 1889,Heirefos,1	
 1889,Heirefoss,1	
 1889,Heistad I Sandsver,1	
@@ -121649,7 +121149,7 @@
 1889,Malnes Vesterålen,1	
 1889,Malns Vesterålen,1	
 1889,Malvik,33	
-1889,Mandal,75	
+1889,Mandal,129	
 1889,Mangers Herred,1	
 1889,Mangers Prgj,1	
 1889,Maridalen,2	
@@ -121675,7 +121175,7 @@
 1889,Mellerud Sverige,1	
 1889,Melsther,1	
 1889,Melvr,1	
-1889,Meraker,29	
+1889,Meråker,29	
 1889,Meren Prgj Danmark,1	
 1889,Mgster,2	
 1889,Midtre Gauldal,66	
@@ -121692,7 +121192,6 @@
 1889,Minneapolis U S,1	
 1889,Minnesota Usa,1	
 1889,Misvr,3	
-1889,Mjelve I Bols,1	
 1889,Mjndalen,5	
 1889,Mland,1	
 1889,Mlands Sogn,2	
@@ -121707,7 +121206,7 @@
 1889,Moi,1	
 1889,Moland Sogn,1	
 1889,Moland,3	
-1889,Molde,52	
+1889,Molde,101	
 1889,Molden Norfjor,1	
 1889,Molden,1	
 1889,Montana Forenede Stater,1	
@@ -121914,7 +121413,7 @@
 1889,Otteren Fosns,1	
 1889,Otteren,1	
 1889,Overhalden,6	
-1889,Overhallen,26	
+1889,Overhalla,26	
 1889,Paris,1	
 1889,Pensacola Usa,1	
 1889,Pite Sverig,1	
@@ -122326,7 +121825,7 @@
 1889,Stfns Sverige,1	
 1889,Stigens Sogn,1	
 1889,Stinden,1	
-1889,Stjørdal,98	
+1889,Stjørdal,97	
 1889,Stjerner Ryfylke,1	
 1889,Stjerner,1	
 1889,Stjernere,1	
@@ -123056,10 +122555,6 @@
 1890,Bokn,15	
 1890,Boksns,1	
 1890,Bolholm,1	
-1890,Bols Pr,1	
-1890,Bols Prgj,1	
-1890,Bols Sogn Og Herred,1	
-1890,Bols,56	
 1890,Bolstad,1	
 1890,Bolsy,1	
 1890,Bomel,1	
@@ -123243,7 +122738,7 @@
 1890,Eidsvg,1	
 1890,Eidsvolds Werk,1	
 1890,Eidsvoll,217	
-1890,Eigersund,109	
+1890,Eigersund,117	
 1890,Eikefjord,3	
 1890,Eikeland,1	
 1890,Eiken,2	
@@ -123258,9 +122753,6 @@
 1890,Ek Slagen,1	
 1890,Ekedalen,1	
 1890,Eker,35	
-1890,Ekeren Pr Ekersund,1	
-1890,Ekersund Landsogn,3	
-1890,Ekersund,4	
 1890,Ekker,1	
 1890,Ekne,3	
 1890,Ekns,1	
@@ -123426,7 +122918,7 @@
 1890,Frisa I Sunelven,1	
 1890,Frnens Herred,1	
 1890,Froen,1	
-1890,Frogn,161	
+1890,Frogn,199	
 1890,Froland,50	
 1890,Fron,1	
 1890,Frosta,56	
@@ -123575,7 +123067,6 @@
 1890,Haller Ed Herred,1	
 1890,Hallindal,1	
 1890,Hallingdal,4	
-1890,Halså Og Hartmark,46	
 1890,Halså,6	
 1890,Halsen,1	
 1890,Halsenen,1	
@@ -123631,7 +123122,6 @@
 1890,Hegebostad,1	
 1890,Hegeland,1	
 1890,Heggedal,2	
-1890,Hegre,38	
 1890,Heirefos,2	
 1890,Heldal,1	
 1890,Helg Sogn,2	
@@ -124170,7 +123660,7 @@
 1890,Malm,1	
 1890,Malmo,1	
 1890,Malvik,37	
-1890,Mandal,98	
+1890,Mandal,144	
 1890,Mangers Prgj,1	
 1890,Maridalen,1	
 1890,Mark,30	
@@ -124193,7 +123683,7 @@
 1890,Melom,1	
 1890,Melum Fosen,1	
 1890,Melum,2	
-1890,Meraker,34	
+1890,Meråker,34	
 1890,Merd,1	
 1890,Midtre Gauldal,84	
 1890,Minde,1	
@@ -124218,7 +123708,7 @@
 1890,Moevs,1	
 1890,Moi,2	
 1890,Moland,5	
-1890,Molde,48	
+1890,Molde,107	
 1890,Molden,2	
 1890,Mon Sverige,1	
 1890,Moneå I Finland,1	
@@ -124436,7 +123926,7 @@
 1890,Osterøy,237	
 1890,Osterfjorden,1	
 1890,Overhalden,9	
-1890,Overhallen,33	
+1890,Overhalla,33	
 1890,Overhalleni Namdalen,1	
 1890,Ox Fyr,1	
 1890,Philadelphia,1	
@@ -125566,9 +125056,6 @@
 1891,Bokken,1	
 1891,Bokn,17	
 1891,Bolgen,1	
-1891,Bols Herred,2	
-1891,Bols Romsdal,1	
-1891,Bols,57	
 1891,Boren,1	
 1891,Borgestad,1	
 1891,Borget,1	
@@ -125762,7 +125249,7 @@
 1891,Eidsskogen,3	
 1891,Eidsvåg,1	
 1891,Eidsvoll,209	
-1891,Eigersund,143	
+1891,Eigersund,146	
 1891,Eikefjord,3	
 1891,Eikelandsosen Sb,1	
 1891,Eiken,5	
@@ -125780,7 +125267,6 @@
 1891,Ekeberg Sogn Sverige,1	
 1891,Eker Busk,1	
 1891,Eker,51	
-1891,Ekersund,3	
 1891,Ekne,2	
 1891,Eksingedalen,1	
 1891,Elfsborg Ln Sverige,1	
@@ -125948,7 +125434,7 @@
 1891,Frivold Pr Grstad,1	
 1891,Frnens Herred,1	
 1891,Frngen Romsdalen,1	
-1891,Frogn,161	
+1891,Frogn,201	
 1891,Frogner,1	
 1891,Froland,58	
 1891,Frommestad Sverige,1	
@@ -126106,7 +125592,6 @@
 1891,Hallingdal,9	
 1891,Halmstad Sverige,1	
 1891,Hals,1	
-1891,Halså Og Hartmark,45	
 1891,Halså Sogn,2	
 1891,Halså,7	
 1891,Halsn Sndh,1	
@@ -126162,7 +125647,6 @@
 1891,Heggeb Len,1	
 1891,Heggebostad,3	
 1891,Heggedal,1	
-1891,Hegre,40	
 1891,Heim,1	
 1891,Heirefos Sogn,1	
 1891,Heistad Sandsver,1	
@@ -126693,7 +126177,7 @@
 1891,Mallangen,3	
 1891,Malns Vesterålen,1	
 1891,Malvik,39	
-1891,Mandal,88	
+1891,Mandal,133	
 1891,Manitoba Canada,1	
 1891,Mannheim,1	
 1891,Maridalen,3	
@@ -126714,7 +126198,7 @@
 1891,Melhus,64	
 1891,Melum,1	
 1891,Mengen Gutenberg,1	
-1891,Meraker,33	
+1891,Meråker,33	
 1891,Mgster,2	
 1891,Michigan Na,1	
 1891,Midtgulen Sogn,1	
@@ -126753,7 +126237,7 @@
 1891,Moland Sogn,1	
 1891,Moland V,1	
 1891,Moland,6	
-1891,Molde,58	
+1891,Molde,118	
 1891,Molden,1	
 1891,Molselven,1	
 1891,Montana Usa,1	
@@ -126965,7 +126449,7 @@
 1891,Otter Fosns Prgj,1	
 1891,Otteren,4	
 1891,Overhalden,9	
-1891,Overhallen,42	
+1891,Overhalla,42	
 1891,Paris,3	
 1891,Pensacola Us Af A,1	
 1891,Pert Amboy Usa,1	
@@ -128094,9 +127578,6 @@
 1892,Bokken,1	
 1892,Bokn,10	
 1892,Bokston Nord Dakota Amerika,1	
-1892,Bols Pr,1	
-1892,Bols Romsdal,1	
-1892,Bols,59	
 1892,Boneng,1	
 1892,Bore I Klep,1	
 1892,Bore,1	
@@ -128267,7 +127748,6 @@
 1892,Edy,2	
 1892,Eftelt,1	
 1892,Egdal,1	
-1892,Eger Ekersund,1	
 1892,Egers Herred,2	
 1892,Egerslands,1	
 1892,Egersunds Landsogn,1	
@@ -128298,7 +127778,7 @@
 1892,Eidsvol,2	
 1892,Eidsvoll,253	
 1892,Eie I Hitter,1	
-1892,Eigersund,155	
+1892,Eigersund,160	
 1892,Eiken Sogn,2	
 1892,Eiken,1	
 1892,Eikersund,1	
@@ -128312,7 +127792,6 @@
 1892,Eken,1	
 1892,Eker Vre,3	
 1892,Eker,25	
-1892,Ekersund,4	
 1892,Ekne N T A,1	
 1892,Ekne,3	
 1892,Eksherad Sverige,1	
@@ -128465,7 +127944,7 @@
 1892,Frnens Herred,2	
 1892,Frningen,1	
 1892,Frnningen Sogn,1	
-1892,Frogn,182	
+1892,Frogn,226	
 1892,Froland,58	
 1892,Frolands Sogn,1	
 1892,Fron,2	
@@ -128617,7 +128096,6 @@
 1892,Halmstad Sverige,1	
 1892,Hals Sogn,1	
 1892,Hals,1	
-1892,Halså Og Hartmark,56	
 1892,Halså,15	
 1892,Hamar,131	
 1892,Hamarøy,59	
@@ -128674,7 +128152,6 @@
 1892,Heen Herred,1	
 1892,Heen,3	
 1892,Hegdahl,1	
-1892,Hegre,44	
 1892,Hegstyl Jevedal,1	
 1892,Hegy,1	
 1892,Heistad Sandsver,1	
@@ -129199,7 +128676,7 @@
 1892,Malnes,1	
 1892,Malvig,1	
 1892,Malvik,31	
-1892,Mandal,115	
+1892,Mandal,171	
 1892,Mangers Prgj,1	
 1892,Mareland Ill,1	
 1892,Maridalen,1	
@@ -129227,7 +128704,7 @@
 1892,Melsther,1	
 1892,Melum Fosen,1	
 1892,Melum,3	
-1892,Meraker,49	
+1892,Meråker,49	
 1892,Michegan Us,1	
 1892,Michigan Usa,1	
 1892,Middelborg,1	
@@ -129255,7 +128732,7 @@
 1892,Moelven,1	
 1892,Moi,3	
 1892,Moland,6	
-1892,Molde,46	
+1892,Molde,107	
 1892,Molden Nordfjord,1	
 1892,Monselv,1	
 1892,Mora Sverige,1	
@@ -129472,8 +128949,7 @@
 1892,Osteren,1	
 1892,Otteren,1	
 1892,Overhalden,7	
-1892,Overhalla,1	
-1892,Overhallen,34	
+1892,Overhalla,35	
 1892,Pascagoula Miss Usa,1	
 1892,Payerne Schweiz,1	
 1892,Petersburg Am,1	
@@ -130526,9 +130002,6 @@
 1893,Bokstad,1	
 1893,Boldsen,1	
 1893,Bollestad,1	
-1893,Bols Prgj,1	
-1893,Bols Romsdal,2	
-1893,Bols,75	
 1893,Bolsy,1	
 1893,Boppard Vrhien,1	
 1893,Bore,1	
@@ -130722,7 +130195,7 @@
 1893,Eidsskogen,2	
 1893,Eidsvåg,3	
 1893,Eidsvoll,268	
-1893,Eigersund,169	
+1893,Eigersund,173	
 1893,Eik Slagen,1	
 1893,Eiken,4	
 1893,Eikersund,1	
@@ -130732,8 +130205,6 @@
 1893,Eivindvik,3	
 1893,Ekeland,1	
 1893,Eker,38	
-1893,Ekersund Landsogn,1	
-1893,Ekersund,3	
 1893,Ekne,2	
 1893,Elfsborg Ln Sverige,1	
 1893,Ellingsen,1	
@@ -130883,7 +130354,7 @@
 1893,Frien S,1	
 1893,Frien,5	
 1893,Froan,1	
-1893,Frogn,161	
+1893,Frogn,199	
 1893,Frognersteren,1	
 1893,Froland,76	
 1893,Fron,1	
@@ -131011,7 +130482,6 @@
 1893,Hallingdahl,1	
 1893,Hallingdal,2	
 1893,Hals,1	
-1893,Halså Og Hartmark,63	
 1893,Halså Sogn,4	
 1893,Halså,8	
 1893,Hamar,116	
@@ -131066,7 +130536,6 @@
 1893,Heen,5	
 1893,Heggedal,2	
 1893,Heggen,1	
-1893,Hegre,38	
 1893,Heim,1	
 1893,Heirefos,2	
 1893,Helg Sogn,1	
@@ -131580,7 +131049,7 @@
 1893,Malmen,1	
 1893,Malmmo Sogn,1	
 1893,Malvik,45	
-1893,Mandal,122	
+1893,Mandal,185	
 1893,Mangers Prgj,1	
 1893,Maridalen,4	
 1893,Mark,30	
@@ -131603,7 +131072,7 @@
 1893,Meling Finås,1	
 1893,Mellerud Sverige,1	
 1893,Melum,1	
-1893,Meraker,36	
+1893,Meråker,36	
 1893,Mgster,3	
 1893,Michigan,1	
 1893,Midtre Gauldal,97	
@@ -131637,7 +131106,7 @@
 1893,Moland Sogn,1	
 1893,Moland Stre,1	
 1893,Moland,7	
-1893,Molde,69	
+1893,Molde,147	
 1893,Morris Ills Usa,1	
 1893,Moskenes,1	
 1893,Moskens I Lofoten,1	
@@ -131819,7 +131288,7 @@
 1893,Otter Sogn,1	
 1893,Otteren,1	
 1893,Overhalden,8	
-1893,Overhallen,39	
+1893,Overhalla,39	
 1893,På Veldre,1	
 1893,Pascagoula Miss Usa,1	
 1893,Payerne Schweiz,1	
@@ -132846,10 +132315,6 @@
 1894,Bohusln Sverige,1	
 1894,Bohusln,1	
 1894,Bokn,7	
-1894,Bols Herred,1	
-1894,Bols Prgj,1	
-1894,Bols Romsdal,1	
-1894,Bols,59	
 1894,Bombanifjord Rusland,1	
 1894,Boppard Vrhien,1	
 1894,Borga Finl,1	
@@ -132994,7 +132459,7 @@
 1894,Eidsvoll,274	
 1894,Eidvold,2	
 1894,Eie I Hitter,1	
-1894,Eigersund,187	
+1894,Eigersund,190	
 1894,Eike Avaldsns,1	
 1894,Eiken,2	
 1894,Eisberg,1	
@@ -133006,7 +132471,6 @@
 1894,Eker Nedre,1	
 1894,Eker Vre,1	
 1894,Eker,36	
-1894,Ekersund,3	
 1894,Ekne,1	
 1894,Eksingedalen,1	
 1894,Elgåen,1	
@@ -133133,7 +132597,7 @@
 1894,Frien,3	
 1894,Frkingstad,1	
 1894,Frland Kvinesdal,1	
-1894,Frogn,202	
+1894,Frogn,262	
 1894,Frogner,1	
 1894,Froland,57	
 1894,Frolands Sogn,2	
@@ -133254,7 +132718,6 @@
 1894,Hallen Sverige,1	
 1894,Hallingdahl,1	
 1894,Hallingdal,6	
-1894,Halså Og Hartmark,53	
 1894,Halså Sogn,4	
 1894,Halså,13	
 1894,Halsen,2	
@@ -133298,7 +132761,6 @@
 1894,Hegeland,1	
 1894,Heggedal,3	
 1894,Hegland,1	
-1894,Hegre,59	
 1894,Hegrestad,1	
 1894,Hegstyl Jevedal,1	
 1894,Heim,1	
@@ -133742,7 +133204,7 @@
 1894,Malmbcksogn,1	
 1894,Malnes I B,1	
 1894,Malvik,41	
-1894,Mandal,123	
+1894,Mandal,176	
 1894,Maridalen,2	
 1894,Mark,61	
 1894,Marker,16	
@@ -133758,8 +133220,8 @@
 1894,Melhus,85	
 1894,Melsomvik,1	
 1894,Melum,1	
+1894,Meråker,37	
 1894,Merager,1	
-1894,Meraker,37	
 1894,Mesigan Amerika,1	
 1894,Mesnalien,1	
 1894,Metodist,1	
@@ -133785,7 +133247,7 @@
 1894,Moi,1	
 1894,Moland Sogn,1	
 1894,Moland,2	
-1894,Molde,60	
+1894,Molde,122	
 1894,Molden Norfjord,1	
 1894,Molden,1	
 1894,Moorhead Amerika,1	
@@ -133955,7 +133417,7 @@
 1894,Otta,1	
 1894,Otter Toil Co Minnesota,1	
 1894,Overhalden,6	
-1894,Overhallen,42	
+1894,Overhalla,42	
 1894,Overkvam,1	
 1894,På Det Indiske Hav,1	
 1894,Paxton Illenois Usa,1	
@@ -134102,7 +133564,7 @@
 1894,Sandherred,3	
 1894,Sandikedal,2	
 1894,Sandkedal,6	
-1894,Sandnes,267	
+1894,Sandnes,266	
 1894,Sandsokn,1	
 1894,Sandsver,1	
 1894,Sandsvr Vre,1	
@@ -134900,7 +134362,6 @@
 1895,Boksnes,1	
 1895,Bokstad,1	
 1895,Bollestad,1	
-1895,Bols,66	
 1895,Bommel,1	
 1895,Boren,2	
 1895,Borg Lof,1	
@@ -135048,7 +134509,7 @@
 1895,Eidsskogen,2	
 1895,Eidsvåg,1	
 1895,Eidsvoll,261	
-1895,Eigersund,161	
+1895,Eigersund,162	
 1895,Eikefjord,1	
 1895,Eiken Sogn,1	
 1895,Eiken,1	
@@ -135058,7 +134519,6 @@
 1895,Ekeberg Sogn Sverige,1	
 1895,Eker Nedre,1	
 1895,Eker,28	
-1895,Ekersund,1	
 1895,Ekne,4	
 1895,Elvebakken,1	
 1895,Elvens,1	
@@ -135187,7 +134647,7 @@
 1895,Fresvik I Sogn,1	
 1895,Frien,3	
 1895,Frigstad Sogn,1	
-1895,Frogn,200	
+1895,Frogn,243	
 1895,Froland,66	
 1895,Fron,3	
 1895,Frosta,79	
@@ -135300,7 +134760,6 @@
 1895,Hallerens Prgj Srfrien,1	
 1895,Halprestejeld,2	
 1895,Hals Herred,1	
-1895,Halså Og Hartmark,73	
 1895,Halså Sogn,4	
 1895,Halså,6	
 1895,Hamar,141	
@@ -135339,7 +134798,6 @@
 1895,Heggebostad,1	
 1895,Heggen,1	
 1895,Hegland,1	
-1895,Hegre,43	
 1895,Helg H,1	
 1895,Helg Sogn,1	
 1895,Helg,2	
@@ -135735,7 +135193,7 @@
 1895,Malm Sverige,1	
 1895,Malm,1	
 1895,Malvik,42	
-1895,Mandal,126	
+1895,Mandal,199	
 1895,Manddalsdalen,1	
 1895,Maridalen,1	
 1895,Mark,34	
@@ -135755,7 +135213,7 @@
 1895,Meli,1	
 1895,Melum Fosen,1	
 1895,Melum,2	
-1895,Meraker,40	
+1895,Meråker,40	
 1895,Michigan,1	
 1895,Midtre Gauldal,102	
 1895,Milwaukee N America,1	
@@ -135787,7 +135245,7 @@
 1895,Moi,1	
 1895,Moland Sogn,2	
 1895,Moland,9	
-1895,Molde,76	
+1895,Molde,142	
 1895,Monselven,1	
 1895,Mosby Odderns,1	
 1895,Mosby,1	
@@ -135955,7 +135413,7 @@
 1895,Otta,1	
 1895,Otteren,3	
 1895,Overhalden,6	
-1895,Overhallen,55	
+1895,Overhalla,55	
 1895,Paris,1	
 1895,Payerne Schweiz,1	
 1895,Pensecola Fla Usa,1	
@@ -136791,8 +136249,6 @@
 1896,Bohusln,1	
 1896,Bokn,13	
 1896,Bollestad,1	
-1896,Bols Herred,2	
-1896,Bols,77	
 1896,Bolst,1	
 1896,Bordeaux,1	
 1896,Bore,1	
@@ -136940,14 +136396,13 @@
 1896,Eidsskogen,2	
 1896,Eidsvåg Sb,1	
 1896,Eidsvoll,304	
-1896,Eigersund,177	
+1896,Eigersund,180	
 1896,Eikefjord,1	
 1896,Eiken,2	
 1896,Eikesdalen,1	
 1896,Eisberg,1	
 1896,Eivindvik,3	
 1896,Eker,20	
-1896,Ekersund,3	
 1896,Ekne Sogn,1	
 1896,Ekne,3	
 1896,Elberfeld,1	
@@ -137056,7 +136511,7 @@
 1896,Frien,5	
 1896,Frnens Herred,1	
 1896,Froen,1	
-1896,Frogn,205	
+1896,Frogn,259	
 1896,Frogner,1	
 1896,Froland,53	
 1896,Fron Gudbrandsdalen,1	
@@ -137162,7 +136617,6 @@
 1896,Halden,392	
 1896,Halland,2	
 1896,Haller Ed,1	
-1896,Halså Og Hartmark,66	
 1896,Halså Sogn,1	
 1896,Halså,4	
 1896,Hamar,131	
@@ -137202,7 +136656,6 @@
 1896,Heen,2	
 1896,Heggedal,2	
 1896,Hegland,1	
-1896,Hegre,54	
 1896,Heirefos S,1	
 1896,Heirefos,2	
 1896,Helg,2	
@@ -137583,7 +137036,7 @@
 1896,Malm Sverige,1	
 1896,Malmin Birkrem,1	
 1896,Malvik,44	
-1896,Mandal,134	
+1896,Mandal,200	
 1896,Mangers Herred,1	
 1896,Maridal,1	
 1896,Maridalen,1	
@@ -137599,7 +137052,7 @@
 1896,Melhus,88	
 1896,Melum,1	
 1896,Menomine Mich Usa,1	
-1896,Meraker,37	
+1896,Meråker,37	
 1896,Mesigan Amerika,1	
 1896,Michigan,1	
 1896,Midtre Gauldal,81	
@@ -137622,7 +137075,7 @@
 1896,Modum,200	
 1896,Moland V,1	
 1896,Moland,1	
-1896,Molde,71	
+1896,Molde,150	
 1896,Molden,1	
 1896,Mosby,1	
 1896,Moss,208	
@@ -137768,7 +137221,7 @@
 1896,Ottemo Tran Hered,1	
 1896,Otter Toil Co Minnesota,1	
 1896,Overhalden,4	
-1896,Overhallen,43	
+1896,Overhalla,43	
 1896,Ovikfjeld,1	
 1896,Paris,2	
 1896,Payerne Schweiz,1	
@@ -138535,7 +137988,6 @@
 1897,Bohus Ln Sverige,1	
 1897,Bohusln,1	
 1897,Bokn,20	
-1897,Bols,68	
 1897,Boren,1	
 1897,Boston Mass,2	
 1897,Bostrand I Vanelven,1	
@@ -138648,14 +138100,13 @@
 1897,Eidskog,153	
 1897,Eidsvåg Sb,1	
 1897,Eidsvoll,296	
-1897,Eigersund,165	
+1897,Eigersund,170	
 1897,Eikefjord,2	
 1897,Eivindvik,1	
 1897,Ejdsberg,1	
 1897,Ek Slagen,1	
 1897,Eker Vre,2	
 1897,Eker,32	
-1897,Ekersund,5	
 1897,Ekne,2	
 1897,Eksingedalen,1	
 1897,Elgin Uns,1	
@@ -138746,7 +138197,7 @@
 1897,Frerne,1	
 1897,Fria,1	
 1897,Frien,2	
-1897,Frogn,200	
+1897,Frogn,247	
 1897,Froland,51	
 1897,Fron S,1	
 1897,Fron,3	
@@ -138840,7 +138291,6 @@
 1897,Halland,3	
 1897,Hallard Sverige,1	
 1897,Hallingdal,1	
-1897,Halså Og Hartmark,63	
 1897,Halså Sogn,1	
 1897,Halså,7	
 1897,Hamar,149	
@@ -138879,7 +138329,6 @@
 1897,Heen,1	
 1897,Heggedal,2	
 1897,Heggen,1	
-1897,Hegre,47	
 1897,Heirefos,1	
 1897,Helg Hered,1	
 1897,Helg,2	
@@ -139233,7 +138682,7 @@
 1897,Malm Sverig,1	
 1897,Malnes I B,1	
 1897,Malvik,57	
-1897,Mandal,123	
+1897,Mandal,186	
 1897,Marburg I Hessen,1	
 1897,Maridal,1	
 1897,Maridalen,4	
@@ -139252,7 +138701,7 @@
 1897,Melum,1	
 1897,Meneapolis,1	
 1897,Menisota,1	
-1897,Meraker,32	
+1897,Meråker,32	
 1897,Messelt,1	
 1897,Mgster,1	
 1897,Midtre Gauldal,93	
@@ -139279,7 +138728,7 @@
 1897,Modum,221	
 1897,Moland V,1	
 1897,Moland,2	
-1897,Molde,68	
+1897,Molde,136	
 1897,Molden Nordfj,1	
 1897,Monselven,1	
 1897,Montana Amerika,1	
@@ -139431,7 +138880,7 @@
 1897,Osterøy,282	
 1897,Osvolddal,1	
 1897,Overhalden,2	
-1897,Overhallen,46	
+1897,Overhalla,46	
 1897,På Atlanterhavet,1	
 1897,Paris,1	
 1897,Pfalz,1	
@@ -140191,7 +139640,6 @@
 1898,Bmmel,1	
 1898,Bodø,289	
 1898,Bokn,17	
-1898,Bols,73	
 1898,Bordeaux,1	
 1898,Borgestad,1	
 1898,Borgun Sogn Sndmre,1	
@@ -140316,7 +139764,7 @@
 1898,Eidsskogen,3	
 1898,Eidsvåg Sb,2	
 1898,Eidsvoll,291	
-1898,Eigersund,193	
+1898,Eigersund,197	
 1898,Eik Slagen,1	
 1898,Eikefjord,1	
 1898,Einabu Sterdalen,1	
@@ -140325,8 +139773,6 @@
 1898,Eisvold,2	
 1898,Eivenvik,1	
 1898,Eker,23	
-1898,Ekersund Landsogn,1	
-1898,Ekersund,3	
 1898,Ekersunds Landsogn,1	
 1898,Ekne,1	
 1898,Elfsborg Len Sverige,1	
@@ -140423,7 +139869,7 @@
 1898,Fria,1	
 1898,Frien,5	
 1898,Frnens Herred,1	
-1898,Frogn,194	
+1898,Frogn,248	
 1898,Frogner,1	
 1898,Froland,60	
 1898,Fron Gudb,1	
@@ -140520,7 +139966,6 @@
 1898,Hakkedalen,2	
 1898,Halden,384	
 1898,Halland,1	
-1898,Halså Og Hartmark,70	
 1898,Halså Sogn,1	
 1898,Halså,5	
 1898,Hamar,154	
@@ -140557,7 +140002,6 @@
 1898,Heen,2	
 1898,Heggedal,2	
 1898,Hegland,1	
-1898,Hegre,54	
 1898,Heimdal,2	
 1898,Heirefos,1	
 1898,Helg,1	
@@ -140738,7 +140182,6 @@
 1898,Klep,1	
 1898,Klepelv,1	
 1898,Klepp,45	
-1898,Kleve I Bols,1	
 1898,Klevi Gteborg,1	
 1898,Kln A Rh Tyskland,1	
 1898,Klokstad,1	
@@ -140921,7 +140364,7 @@
 1898,Malnes I B,1	
 1898,Malselven,1	
 1898,Malvik,63	
-1898,Mandal,140	
+1898,Mandal,210	
 1898,Maridalen,2	
 1898,Mariestad,1	
 1898,Mark,40	
@@ -140938,7 +140381,7 @@
 1898,Melhus,103	
 1898,Melum,1	
 1898,Memel Tyskland,1	
-1898,Meraker,39	
+1898,Meråker,39	
 1898,Midtre Gauldal,89	
 1898,Milwåkee,1	
 1898,Milwaukee N America,1	
@@ -140956,7 +140399,7 @@
 1898,Modum,225	
 1898,Moland Sogn,1	
 1898,Moland,7	
-1898,Molde,63	
+1898,Molde,137	
 1898,Molden,1	
 1898,Montana Amerika,1	
 1898,Mosby,1	
@@ -141112,7 +140555,7 @@
 1898,Osterøy,284	
 1898,Otter Toil Co Minnesota,1	
 1898,Overhalden,4	
-1898,Overhallen,61	
+1898,Overhalla,61	
 1898,Pa Usa,1	
 1898,Paris,1	
 1898,Persien,1	
@@ -141832,7 +141275,6 @@
 1899,Bodø,318	
 1899,Bohusln,1	
 1899,Bokn,12	
-1899,Bols,76	
 1899,Boston Amerika,1	
 1899,Boston N Amerika,1	
 1899,Boston,1	
@@ -141936,14 +141378,13 @@
 1899,Eidsvåg,1	
 1899,Eidsvoldt,1	
 1899,Eidsvoll,307	
-1899,Eigersund,180	
+1899,Eigersund,186	
 1899,Eisberg,2	
 1899,Eivindvik,2	
 1899,Ejdsberg,1	
 1899,Eken,1	
 1899,Eker Vre,1	
 1899,Eker,25	
-1899,Ekersund,5	
 1899,Ekersunds Landsogn,1	
 1899,Ekne,1	
 1899,Elberfeld,1	
@@ -142033,7 +141474,7 @@
 1899,Frien,1	
 1899,Frnens Herred,1	
 1899,Froan,1	
-1899,Frogn,165	
+1899,Frogn,223	
 1899,Froland,52	
 1899,Fron,2	
 1899,Frosta,72	
@@ -142126,7 +141567,6 @@
 1899,Hallingdal,2	
 1899,Halprestejeld,1	
 1899,Hals Herred,1	
-1899,Halså Og Hartmark,58	
 1899,Halså,6	
 1899,Hamar,132	
 1899,Hamarøy,74	
@@ -142160,7 +141600,6 @@
 1899,Hedenstad,1	
 1899,Heen,1	
 1899,Heggedal,5	
-1899,Hegre,58	
 1899,Heimdal,1	
 1899,Heirefos,1	
 1899,Helg H,1	
@@ -142169,7 +141608,6 @@
 1899,Helgeland,1	
 1899,Helgen,1	
 1899,Helgeråen,2	
-1899,Helland Ekersund,1	
 1899,Helsingfors I Findland,1	
 1899,Helsingfors I Finland,1	
 1899,Helsingr,1	
@@ -142509,7 +141947,7 @@
 1899,Malnes,1	
 1899,Malvig Herred,1	
 1899,Malvik,44	
-1899,Mandal,115	
+1899,Mandal,173	
 1899,Maridalen,3	
 1899,Maridallen,1	
 1899,Mark,35	
@@ -142525,8 +141963,7 @@
 1899,Melhus,73	
 1899,Melvr Barki,1	
 1899,Menisota,1	
-1899,Meråker,1	
-1899,Meraker,43	
+1899,Meråker,44	
 1899,Michigan,1	
 1899,Midtre Gauldal,81	
 1899,Milan,1	
@@ -142544,7 +141981,7 @@
 1899,Modum,212	
 1899,Moi,1	
 1899,Moland,2	
-1899,Molde,72	
+1899,Molde,149	
 1899,Mont Usa,1	
 1899,Montana,1	
 1899,Mork Kvrns,1	
@@ -142692,7 +142129,7 @@
 1899,Oss Prgj,1	
 1899,Osterøy,258	
 1899,Overhalden,3	
-1899,Overhallen,47	
+1899,Overhalla,47	
 1899,Paris,1	
 1899,Perthanboy,1	
 1899,Philadelfia,1	
@@ -142723,7 +142160,6 @@
 1899,Re,161	
 1899,Refvem,1	
 1899,Reinslid Valdres,1	
-1899,Ren I Bols,1	
 1899,Rendal,1	
 1899,Rendalen,95	
 1899,Rennebo,1	
@@ -143353,7 +142789,6 @@
 1900,Bokn,19	
 1900,Bokstad,1	
 1900,Bollestad,1	
-1900,Bols,71	
 1900,Borgestad,1	
 1900,Bosen,1	
 1900,Boston,2	
@@ -143463,11 +142898,10 @@
 1900,Eidskog,147	
 1900,Eidsskogen,1	
 1900,Eidsvoll,304	
-1900,Eigersund,200	
+1900,Eigersund,204	
 1900,Eiken,1	
 1900,Eker Vre,1	
 1900,Eker,18	
-1900,Ekersund,4	
 1900,Ekne,3	
 1900,Elgin Uns,1	
 1900,Ellingsen Sndmr,1	
@@ -143557,7 +142991,7 @@
 1900,Frien,2	
 1900,Frikirken,1	
 1900,Frogen,1	
-1900,Frogn,212	
+1900,Frogn,270	
 1900,Frogner,1	
 1900,Froland,54	
 1900,Frolands Sogn,1	
@@ -143655,7 +143089,6 @@
 1900,Halden,402	
 1900,Halland,1	
 1900,Halprestejeld,1	
-1900,Halså Og Hartmark,46	
 1900,Halså Sogn,1	
 1900,Halså,5	
 1900,Hamar,161	
@@ -143684,7 +143117,6 @@
 1900,Hayfield,1	
 1900,Hedemarken,5	
 1900,Heen,1	
-1900,Hegre,58	
 1900,Heim,1	
 1900,Heirefos,1	
 1900,Helena Montana Usa,1	
@@ -143984,7 +143416,7 @@
 1900,Magnor,1	
 1900,Malde,1	
 1900,Malvik,46	
-1900,Mandal,118	
+1900,Mandal,164	
 1900,Maridalen,1	
 1900,Mark,33	
 1900,Marker,25	
@@ -143999,7 +143431,7 @@
 1900,Meldal,50	
 1900,Melhus,96	
 1900,Melsomvik,1	
-1900,Meraker,41	
+1900,Meråker,41	
 1900,Michigan,1	
 1900,Midtre Gauldal,92	
 1900,Milaca Minnesota,1	
@@ -144020,7 +143452,7 @@
 1900,Moe,1	
 1900,Moland Stre,1	
 1900,Moland,3	
-1900,Molde,74	
+1900,Molde,145	
 1900,Molden,1	
 1900,Molselven,1	
 1900,Monselven,1	
@@ -144166,7 +143598,7 @@
 1900,Otter Toil Co Minnesota,1	
 1900,Ousten,1	
 1900,Overhalden,5	
-1900,Overhallen,60	
+1900,Overhalla,60	
 1900,Persfjord,1	
 1900,Philadelphia,1	
 1900,Porsanger - Porsánjggu Gielda - Porsangin Komuuni,56	
@@ -144874,8 +144306,6 @@
 1901,Bohusln Sverige,1	
 1901,Bohusln,1	
 1901,Bokn,9	
-1901,Bols I Romsdalen,1	
-1901,Bols,90	
 1901,Bore,1	
 1901,Borg Smål,1	
 1901,Bosekop,1	
@@ -144986,12 +144416,11 @@
 1901,Eidsvåg Sb,1	
 1901,Eidsvoll,295	
 1901,Eidsvols Prgj,1	
-1901,Eigersund,210	
+1901,Eigersund,214	
 1901,Eisberg,1	
 1901,Eiskogen,1	
 1901,Eivindvik I Sogn,1	
 1901,Eker,26	
-1901,Ekersund,4	
 1901,Elberfeld,1	
 1901,Ellingsen Sndmr,1	
 1901,Elsborg Sverige,1	
@@ -145081,7 +144510,7 @@
 1901,Friedrikstadt,1	
 1901,Frien,4	
 1901,Frnens Herred,1	
-1901,Frogn,174	
+1901,Frogn,233	
 1901,Froland,64	
 1901,Frosta,65	
 1901,Frosten,1	
@@ -145170,7 +144599,6 @@
 1901,Hallingdal,2	
 1901,Hallingdalen,1	
 1901,Hallingskeid,1	
-1901,Halså Og Hartmark,63	
 1901,Halså Sogn,4	
 1901,Halså,3	
 1901,Hamar,159	
@@ -145204,7 +144632,6 @@
 1901,Hedemarken,4	
 1901,Hedrun,1	
 1901,Heggedal,2	
-1901,Hegre,59	
 1901,Heimdal,1	
 1901,Heirefos,1	
 1901,Helgeland,1	
@@ -145533,7 +144960,7 @@
 1901,Malmen,1	
 1901,Malns,1	
 1901,Malvik,62	
-1901,Mandal,112	
+1901,Mandal,175	
 1901,Maridalen,2	
 1901,Mark,45	
 1901,Marker,15	
@@ -145550,7 +144977,7 @@
 1901,Meldal,50	
 1901,Melhus,104	
 1901,Melsomvik,1	
-1901,Meraker,52	
+1901,Meråker,52	
 1901,Midtre Gauldal,90	
 1901,Milan,1	
 1901,Milwaukee Usa,1	
@@ -145569,7 +144996,7 @@
 1901,Moen Telemarken,1	
 1901,Moi,1	
 1901,Moland,2	
-1901,Molde,46	
+1901,Molde,138	
 1901,Montana,2	
 1901,Mork I Kverns,1	
 1901,Moskjen,1	
@@ -145704,7 +145131,7 @@
 1901,Osterøy,294	
 1901,Otteren,2	
 1901,Overhalden,2	
-1901,Overhallen,48	
+1901,Overhalla,48	
 1901,Overud,1	
 1901,Pensylvanien,1	
 1901,Peru,1	
@@ -145729,7 +145156,6 @@
 1901,Randsfjord,1	
 1901,Ranheim,3	
 1901,Rauma,71	
-1901,Rbk Bols,1	
 1901,Rd I Romsdalen,1	
 1901,Rd,1	
 1901,Rdens,2	
@@ -146382,7 +145808,6 @@
 1902,Bodralt,1	
 1902,Bohuslen Sverige,1	
 1902,Bokn,13	
-1902,Bols,69	
 1902,Boltås,1	
 1902,Bonusayres,1	
 1902,Bosen,1	
@@ -146500,12 +145925,11 @@
 1902,Eidsvåg Sb,1	
 1902,Eidsvåg,1	
 1902,Eidsvoll,289	
-1902,Eigersund,201	
+1902,Eigersund,203	
 1902,Eikersund,1	
 1902,Eivindvik,1	
 1902,Ejdsberg,1	
 1902,Eker,17	
-1902,Ekersund,2	
 1902,Ekersunds Landsogn,1	
 1902,Ekne,1	
 1902,Elbov Lake Minnasota,1	
@@ -146591,7 +146015,7 @@
 1902,Fria,1	
 1902,Frien,4	
 1902,Frjen,1	
-1902,Frogn,173	
+1902,Frogn,242	
 1902,Froland,60	
 1902,Fron S,1	
 1902,Fron,1	
@@ -146683,7 +146107,6 @@
 1902,Halden,415	
 1902,Hallen Sverige,1	
 1902,Halprestejeld,1	
-1902,Halså Og Hartmark,56	
 1902,Halså Sogn,2	
 1902,Halså,2	
 1902,Hamar,153	
@@ -146712,7 +146135,6 @@
 1902,Heen,2	
 1902,Heggedal,1	
 1902,Heggeland,1	
-1902,Hegre,69	
 1902,Heimdal,2	
 1902,Helgeen,1	
 1902,Helgeland,1	
@@ -147060,7 +146482,7 @@
 1902,Malvig Herred,1	
 1902,Malvik,57	
 1902,Manchester,1	
-1902,Mandal,118	
+1902,Mandal,174	
 1902,Mark Herred,1	
 1902,Mark,49	
 1902,Marker,32	
@@ -147077,7 +146499,7 @@
 1902,Melhus,89	
 1902,Melum,1	
 1902,Melvr,1	
-1902,Meraker,46	
+1902,Meråker,46	
 1902,Midtre Gauldal,97	
 1902,Minapolis Amerika,1	
 1902,Mineapolis,1	
@@ -147099,7 +146521,7 @@
 1902,Moe,1	
 1902,Moland V,1	
 1902,Moland,2	
-1902,Molde,74	
+1902,Molde,143	
 1902,Mon,1	
 1902,Montana Great Falls,1	
 1902,Montana Usa,1	
@@ -147247,7 +146669,7 @@
 1902,Osterøy,293	
 1902,Ousten,1	
 1902,Overhalden,5	
-1902,Overhallen,48	
+1902,Overhalla,48	
 1902,P Reise P Atlanterhavet,1	
 1902,Pensylvanien N Amerika,1	
 1902,Philadelfia,1	
@@ -147947,7 +147369,6 @@
 1903,Bohuslen,1	
 1903,Bokn,13	
 1903,Bollestad,1	
-1903,Bols,61	
 1903,Bors Sverige,1	
 1903,Boston Amerika,1	
 1903,Boston,1	
@@ -148076,13 +147497,12 @@
 1903,Eidsmoen Hilandet,1	
 1903,Eidsskogen,1	
 1903,Eidsvoll,299	
-1903,Eigersund,156	
+1903,Eigersund,160	
 1903,Eikeland,1	
 1903,Eiskogen,1	
 1903,Eivindvik I Sogn,1	
 1903,Eker Vre,1	
 1903,Eker,24	
-1903,Ekersund,4	
 1903,Ekne,2	
 1903,Elverum,246	
 1903,Enebakk,70	
@@ -148172,7 +147592,7 @@
 1903,Frien,6	
 1903,Frland I Kvinnesdal,1	
 1903,Frnens Herred,2	
-1903,Frogn,164	
+1903,Frogn,210	
 1903,Froland,55	
 1903,Fron,2	
 1903,Frosta,66	
@@ -148260,7 +147680,6 @@
 1903,Halingdal,1	
 1903,Hallingdal,3	
 1903,Halprestejeld,1	
-1903,Halså Og Hartmark,71	
 1903,Halså Sogn,3	
 1903,Halså,1	
 1903,Hamar,166	
@@ -148293,7 +147712,6 @@
 1903,Hedenstad Sandsvr,1	
 1903,Hedenstad,1	
 1903,Hegeland,1	
-1903,Hegre,46	
 1903,Helg,1	
 1903,Helgeland,1	
 1903,Helgyt,1	
@@ -148631,7 +148049,7 @@
 1903,Malnes,1	
 1903,Malvik,69	
 1903,Manchester,1	
-1903,Mandal,117	
+1903,Mandal,188	
 1903,Maridalen,1	
 1903,Mark,52	
 1903,Marker,17	
@@ -148650,7 +148068,7 @@
 1903,Melsonvik,1	
 1903,Melum,1	
 1903,Melvik,1	
-1903,Meraker,50	
+1903,Meråker,50	
 1903,Midtre Gauldal,101	
 1903,Milwåkee,1	
 1903,Milwaukee Amerika,1	
@@ -148669,7 +148087,7 @@
 1903,Modum,234	
 1903,Moland,3	
 1903,Molands Song,1	
-1903,Molde,63	
+1903,Molde,125	
 1903,Molden,1	
 1903,Mont Usa,1	
 1903,Montana Amerika,1	
@@ -148804,7 +148222,7 @@
 1903,Osterøy,274	
 1903,Oterå I Salangens Herred,1	
 1903,Overhalden,1	
-1903,Overhallen,42	
+1903,Overhalla,42	
 1903,På Atlanterh,1	
 1903,Paris,2	
 1903,Peru,1	
@@ -148841,7 +148259,6 @@
 1903,Redalen Birid,1	
 1903,Redalen,1	
 1903,Relingen,1	
-1903,Ren I Bols,1	
 1903,Rena,2	
 1903,Rendalen,98	
 1903,Rennebu,105	
@@ -149458,7 +148875,6 @@
 1904,Bohusln Sverige,1	
 1904,Bokn,16	
 1904,Bollestad,1	
-1904,Bols,70	
 1904,Bothne,1	
 1904,Brønnøy,105	
 1904,Brandvald,1	
@@ -149579,14 +148995,13 @@
 1904,Eidsvåg Sb,1	
 1904,Eidsvol,1	
 1904,Eidsvoll,254	
-1904,Eigersund,207	
+1904,Eigersund,209	
 1904,Eiker,1	
 1904,Eisberg,1	
 1904,Eitnedalen Valdres,1	
 1904,Ek Slagen,1	
 1904,Eker Buskerud,1	
 1904,Eker,23	
-1904,Ekersund,2	
 1904,Ekne,1	
 1904,Elberfeld,1	
 1904,Ellingsen I Sndmr,1	
@@ -149672,7 +149087,7 @@
 1904,Fria,2	
 1904,Frien,3	
 1904,Frjen,1	
-1904,Frogn,158	
+1904,Frogn,222	
 1904,Froland,61	
 1904,Frosta,64	
 1904,Frostad,1	
@@ -149755,7 +149170,6 @@
 1904,Hakedalen,1	
 1904,Halden,432	
 1904,Hallingdal,4	
-1904,Halså Og Hartmark,65	
 1904,Halså Sogn,2	
 1904,Halså,1	
 1904,Halses,1	
@@ -149793,7 +149207,6 @@
 1904,Hedrumt,1	
 1904,Heen,1	
 1904,Heggedal,3	
-1904,Hegre,64	
 1904,Heimdal,1	
 1904,Helg S,1	
 1904,Helgeroen,1	
@@ -150108,7 +149521,7 @@
 1904,Malde,1	
 1904,Malm,1	
 1904,Malvik,51	
-1904,Mandal,119	
+1904,Mandal,184	
 1904,Mangers Herred,1	
 1904,Maridalen,2	
 1904,Maridalsveien,1	
@@ -150128,7 +149541,7 @@
 1904,Melhus,101	
 1904,Melsomvik,1	
 1904,Melum,1	
-1904,Meraker,40	
+1904,Meråker,40	
 1904,Midlesex,1	
 1904,Midtre Gauldal,91	
 1904,Millville Mass,1	
@@ -150150,7 +149563,7 @@
 1904,Moe I Ranen,1	
 1904,Moe,1	
 1904,Moland,3	
-1904,Molde,69	
+1904,Molde,139	
 1904,Molden,2	
 1904,Mon,1	
 1904,Montana U S Amerika,1	
@@ -150280,7 +149693,7 @@
 1904,Oslo,5439	
 1904,Osterøy,286	
 1904,Overhalden,4	
-1904,Overhallen,57	
+1904,Overhalla,57	
 1904,Paris,1	
 1904,Pensacola,1	
 1904,Pfalz,1	
@@ -150939,7 +150352,6 @@
 1905,Body,1	
 1905,Bohusln Sverge,1	
 1905,Bokn,14	
-1905,Bols,81	
 1905,Boltås,1	
 1905,Borgrund,1	
 1905,Boston,1	
@@ -151167,7 +150579,7 @@
 1905,Friedrikstadt,1	
 1905,Frien,7	
 1905,Frnens Herred,2	
-1905,Frogn,174	
+1905,Frogn,239	
 1905,Froland,62	
 1905,Fron,1	
 1905,Frosta,76	
@@ -151254,7 +150666,6 @@
 1905,Hall,1	
 1905,Hallingdal,9	
 1905,Halprestejeld,1	
-1905,Halså Og Hartmark,69	
 1905,Halså Sogn,1	
 1905,Halså,4	
 1905,Hamar,146	
@@ -151293,8 +150704,6 @@
 1905,Hedrun,1	
 1905,Heen,1	
 1905,Heggeland,1	
-1905,Hegre Stjrdal,1	
-1905,Hegre,64	
 1905,Helg Sogn,1	
 1905,Helgeland,1	
 1905,Helgen,3	
@@ -151629,7 +151038,7 @@
 1905,Malme Sverige,1	
 1905,Malvik,78	
 1905,Manchester,2	
-1905,Mandal,115	
+1905,Mandal,184	
 1905,Maridalen,1	
 1905,Mark,43	
 1905,Marker,17	
@@ -151649,7 +151058,7 @@
 1905,Melum,1	
 1905,Menelaik N Dakota Amerika,1	
 1905,Menomonie Viskonsin Usa,1	
-1905,Meraker,48	
+1905,Meråker,48	
 1905,Messelt,1	
 1905,Middelhavet,1	
 1905,Midtre Gauldal,104	
@@ -151675,7 +151084,7 @@
 1905,Modum,266	
 1905,Moe Ranen,1	
 1905,Moland,2	
-1905,Molde,64	
+1905,Molde,145	
 1905,Molden,1	
 1905,Mont Usa,1	
 1905,Montana,4	
@@ -151822,7 +151231,7 @@
 1905,Osterøy,306	
 1905,Otta,2	
 1905,Overhalden,2	
-1905,Overhallen,45	
+1905,Overhalla,45	
 1905,Overhaln,1	
 1905,Paris,1	
 1905,Peru,1	
@@ -152494,9 +151903,6 @@
 1906,Bokken,1	
 1906,Bokn,15	
 1906,Bollestad,1	
-1906,Bols S,1	
-1906,Bols Sogn,1	
-1906,Bols,70	
 1906,Borås,1	
 1906,Bors Sverige,2	
 1906,Bosekopt,1	
@@ -152623,10 +152029,9 @@
 1906,Eidskog,120	
 1906,Eidsskogen,1	
 1906,Eidsvoll,257	
-1906,Eigersund,183	
+1906,Eigersund,185	
 1906,Eikefjord,1	
 1906,Eker,19	
-1906,Ekersund,2	
 1906,Ekne,1	
 1906,Elisabet Port Amerika,1	
 1906,Elvebakken,1	
@@ -152718,7 +152123,7 @@
 1906,Fresvik Sogn,1	
 1906,Frien,2	
 1906,Frimantlee Australien,1	
-1906,Frogn,167	
+1906,Frogn,214	
 1906,Froland,66	
 1906,Frosta,75	
 1906,Frosten,1	
@@ -152804,7 +152209,6 @@
 1906,Halden,410	
 1906,Hallingdal,12	
 1906,Halprestejeld,1	
-1906,Halså Og Hartmark,50	
 1906,Halså Sogn,3	
 1906,Halså,1	
 1906,Halsn,1	
@@ -152832,7 +152236,6 @@
 1906,Hector Minisota,1	
 1906,Hedemarken,2	
 1906,Heggedal,1	
-1906,Hegre,47	
 1906,Helgeen,2	
 1906,Helgeland,3	
 1906,Helgen,3	
@@ -153131,7 +152534,7 @@
 1906,Malvig,1	
 1906,Malvik,62	
 1906,Manchester,2	
-1906,Mandal,97	
+1906,Mandal,147	
 1906,Maridalen,2	
 1906,Maridalsveien,1	
 1906,Marinette Wis,1	
@@ -153149,7 +152552,7 @@
 1906,Melsomvik,2	
 1906,Menomonie Viskonsin Usa,1	
 1906,Menstad,1	
-1906,Meraker,47	
+1906,Meråker,47	
 1906,Middagselven,1	
 1906,Midtre Gauldal,92	
 1906,Millville Mass,1	
@@ -153172,7 +152575,7 @@
 1906,Modum,283	
 1906,Moi,1	
 1906,Moland,2	
-1906,Molde,63	
+1906,Molde,135	
 1906,Mon,1	
 1906,Montana U S Amerika,1	
 1906,Mosjn,1	
@@ -153305,7 +152708,7 @@
 1906,Oslo,5440	
 1906,Osterøy,274	
 1906,Overhalden,1	
-1906,Overhallen,42	
+1906,Overhalla,42	
 1906,Paris,1	
 1906,Pensylvanien N Amerika,1	
 1906,Philadelfia,1	
@@ -153977,8 +153380,6 @@
 1907,Bogen Ofoten,1	
 1907,Bohuslen,1	
 1907,Bokn,16	
-1907,Bols Prgj,1	
-1907,Bols,91	
 1907,Borgestad,1	
 1907,Bosekop,1	
 1907,Boston Amerika,1	
@@ -154099,12 +153500,11 @@
 1907,Eidsfos,1	
 1907,Eidskog,131	
 1907,Eidsvoll,268	
-1907,Eigersund,190	
+1907,Eigersund,192	
 1907,Einabu Sterdalen,1	
 1907,Eisberg,1	
 1907,Eker Vre,1	
 1907,Eker,16	
-1907,Ekersund,2	
 1907,Ekersunds Landsogn,1	
 1907,Elgin Amerika,1	
 1907,Elnesvågen,1	
@@ -154189,7 +153589,7 @@
 1907,Friedrikstadt,1	
 1907,Frien,4	
 1907,Frnens Herred,2	
-1907,Frogn,131	
+1907,Frogn,196	
 1907,Froland,65	
 1907,Frosta,69	
 1907,Frosten,1	
@@ -154271,7 +153671,6 @@
 1907,Halden,383	
 1907,Halingdal,3	
 1907,Hallingdal,7	
-1907,Halså Og Hartmark,66	
 1907,Halså Sogn,2	
 1907,Halså,3	
 1907,Hamar,129	
@@ -154299,7 +153698,6 @@
 1907,Hedrumt,1	
 1907,Heen,1	
 1907,Heggedal,1	
-1907,Hegre,65	
 1907,Heimdalh,1	
 1907,Helgeland,1	
 1907,Helgeroa,1	
@@ -154638,7 +154036,7 @@
 1907,Malns,1	
 1907,Maltberje,1	
 1907,Malvik,76	
-1907,Mandal,97	
+1907,Mandal,163	
 1907,Mangers Herred,1	
 1907,Mark,50	
 1907,Marker,24	
@@ -154649,7 +154047,7 @@
 1907,Meløy,101	
 1907,Meldal,49	
 1907,Melhus,105	
-1907,Meraker,72	
+1907,Meråker,72	
 1907,Messelt,1	
 1907,Midtre Gauldal,96	
 1907,Milwåkee,1	
@@ -154674,7 +154072,7 @@
 1907,Moland,2	
 1907,Molands Song,1	
 1907,Mold,1	
-1907,Molde,68	
+1907,Molde,161	
 1907,Molden,1	
 1907,Montana,1	
 1907,Morgedal,1	
@@ -154815,7 +154213,7 @@
 1907,Otta Gudbrandsdalen,1	
 1907,Otta,2	
 1907,Overhalden,1	
-1907,Overhallen,45	
+1907,Overhalla,45	
 1907,På Nordsjen,1	
 1907,På Norsjen,1	
 1907,Peru,1	
@@ -154859,7 +154257,6 @@
 1907,Redalen Birid,1	
 1907,Relingen,1	
 1907,Rellingen,1	
-1907,Ren I Bols,1	
 1907,Rendalen,99	
 1907,Rennebu,122	
 1907,Rennesøy,50	
@@ -155427,9 +154824,6 @@
 1908,Bogsnes,1	
 1908,Bokn,14	
 1908,Bollestad,1	
-1908,Bols Herred,1	
-1908,Bols Sogn,1	
-1908,Bols,70	
 1908,Borget,1	
 1908,Bors Sverige,1	
 1908,Boston Amerika,1	
@@ -155629,7 +155023,7 @@
 1908,Fria,1	
 1908,Friedrichstadt And Eider Tyskland,1	
 1908,Frien,4	
-1908,Frogn,166	
+1908,Frogn,230	
 1908,Frogner,1	
 1908,Froland,67	
 1908,Frosta,59	
@@ -155712,7 +155106,6 @@
 1908,Halden,384	
 1908,Hallingdal,4	
 1908,Halmstad Sverige,1	
-1908,Halså Og Hartmark,64	
 1908,Halså Sogn,1	
 1908,Halså,2	
 1908,Hamar,137	
@@ -155743,7 +155136,6 @@
 1908,Havslo,1	
 1908,Hawkesbury Canada,1	
 1908,Hedenstad Sandsver,1	
-1908,Hegre,64	
 1908,Helgeland,1	
 1908,Helgen,2	
 1908,Hell Via Trhjem,1	
@@ -156037,7 +155429,7 @@
 1908,Malm,2	
 1908,Malvik,67	
 1908,Manchester,2	
-1908,Mandal,89	
+1908,Mandal,153	
 1908,Manshester England,1	
 1908,Maridalen,1	
 1908,Mark,43	
@@ -156053,7 +155445,7 @@
 1908,Melsomvik,2	
 1908,Menomonie Viskonsin Usa,1	
 1908,Menstad,1	
-1908,Meraker,74	
+1908,Meråker,74	
 1908,Midtre Gauldal,103	
 1908,Millville Mass,1	
 1908,Milwikee Amerika,1	
@@ -156072,7 +155464,7 @@
 1908,Modum,316	
 1908,Moland Stre,1	
 1908,Moland,4	
-1908,Molde,70	
+1908,Molde,142	
 1908,Mon,1	
 1908,Montana Usa,1	
 1908,Montana,1	
@@ -156215,7 +155607,7 @@
 1908,Oslo,5427	
 1908,Osterøy,267	
 1908,Otta,1	
-1908,Overhallen,45	
+1908,Overhalla,45	
 1908,Pensacola,1	
 1908,Philadelphia,1	
 1908,Pleinfil,1	
@@ -156808,9 +156200,6 @@
 1909,Bogsnes,1	
 1909,Bohuslen,1	
 1909,Bokn,12	
-1909,Bols Herred,1	
-1909,Bols Sogn,1	
-1909,Bols,78	
 1909,Bonn,1	
 1909,Boston Amerika,2	
 1909,Boston,1	
@@ -156900,11 +156289,10 @@
 1909,Eidskog,139	
 1909,Eidsskog,1	
 1909,Eidsvoll,231	
-1909,Eigersund,180	
+1909,Eigersund,182	
 1909,Eikefjord,1	
 1909,Eker Vre,3	
 1909,Eker,11	
-1909,Ekersund,2	
 1909,Ekne,1	
 1909,Elverum,232	
 1909,Enebakk,84	
@@ -156967,7 +156355,7 @@
 1909,Fredrikshal,1	
 1909,Fredrikstad,816	
 1909,Friedrichstadt Tyskland,1	
-1909,Frogn,163	
+1909,Frogn,220	
 1909,Froland,74	
 1909,Frosta,68	
 1909,Frya,1	
@@ -157030,7 +156418,6 @@
 1909,Hallingdal,2	
 1909,Hallingskei Ullvik,1	
 1909,Halmstad,1	
-1909,Halså Og Hartmark,60	
 1909,Halså,3	
 1909,Hamar,111	
 1909,Hamarøy,74	
@@ -157063,7 +156450,6 @@
 1909,Heen,1	
 1909,Heggedal,1	
 1909,Hegholmen,2	
-1909,Hegre,57	
 1909,Helgeland,1	
 1909,Helgen Aneks Til Holden,1	
 1909,Helland,1	
@@ -157330,7 +156716,7 @@
 1909,Malm Sv,1	
 1909,Maltberje,1	
 1909,Malvik,69	
-1909,Mandal,92	
+1909,Mandal,152	
 1909,Maridalen,1	
 1909,Mark,57	
 1909,Marker,17	
@@ -157343,7 +156729,7 @@
 1909,Melhus,95	
 1909,Melum,1	
 1909,Menapolis Amerika,1	
-1909,Meraker,94	
+1909,Meråker,94	
 1909,Methodist,1	
 1909,Mexico,1	
 1909,Middelsbrough,1	
@@ -157362,7 +156748,7 @@
 1909,Moelven,1	
 1909,Moland,3	
 1909,Molands Song,1	
-1909,Molde,60	
+1909,Molde,140	
 1909,Montana Usa,1	
 1909,Montana,2	
 1909,Mosby Krsand S,1	
@@ -157476,7 +156862,7 @@
 1909,Osterøy,254	
 1909,Otawa Canada,1	
 1909,Overhalden,2	
-1909,Overhallen,60	
+1909,Overhalla,60	
 1909,Philadelfia,1	
 1909,Philadelphia,1	
 1909,Porsanger - Porsánjggu Gielda - Porsangin Komuuni,41	
@@ -157983,8 +157369,6 @@
 1910,Bodø,268	
 1910,Bokn,5	
 1910,Bollestad,1	
-1910,Bols H,1	
-1910,Bols,87	
 1910,Borg Lofoten,1	
 1910,Boston Amerika,1	
 1910,Bottenr,1	
@@ -158105,7 +157489,7 @@
 1910,Frøya,151	
 1910,Fredrikstad,779	
 1910,Frien,2	
-1910,Frogn,158	
+1910,Frogn,221	
 1910,Froland,69	
 1910,Frosta,51	
 1910,Frvern,1	
@@ -158155,7 +157539,6 @@
 1910,Hadsel,186	
 1910,Halden,368	
 1910,Hallingdal,1	
-1910,Halså Og Hartmark,65	
 1910,Halså,1	
 1910,Hamar,128	
 1910,Hamarøy,60	
@@ -158172,7 +157555,6 @@
 1910,Hedemarken,1	
 1910,Heggedal,1	
 1910,Hegholmen,1	
-1910,Hegre,63	
 1910,Helland,1	
 1910,Hemne,107	
 1910,Hemnes,110	
@@ -158375,7 +157757,7 @@
 1910,Madagascar,1	
 1910,Malvik,74	
 1910,Manchester,1	
-1910,Mandal,72	
+1910,Mandal,137	
 1910,Mark,51	
 1910,Marker,13	
 1910,Marnardal,10	
@@ -158386,14 +157768,14 @@
 1910,Meldal,79	
 1910,Melhus,94	
 1910,Memel Tyskland,1	
-1910,Meraker,61	
+1910,Meråker,61	
 1910,Midtre Gauldal,97	
 1910,Mjndalen N Eker,1	
 1910,Modalen,21	
 1910,Modom,1	
 1910,Modum,302	
 1910,Moland,2	
-1910,Molde,66	
+1910,Molde,154	
 1910,Mon,1	
 1910,Mosby Krsand S,1	
 1910,Moskenes,1	
@@ -158488,7 +157870,7 @@
 1910,Osterøy,274	
 1910,Otta,1	
 1910,Overhalden,1	
-1910,Overhallen,49	
+1910,Overhalla,49	
 1910,Pleinfil,1	
 1910,Porsanger - Porsánjggu Gielda - Porsangin Komuuni,31	
 1910,Porsanger,1	
@@ -158909,8 +158291,6 @@
 ?,Bokken Ryfylke,1	
 ?,Bokn,3	
 ?,Boksnes,1	
-?,Bols Herred,1	
-?,Bols,3	
 ?,Bore,1	
 ?,Borgestad,1	
 ?,Bosmo Ranen,1	
@@ -159039,7 +158419,7 @@
 ?,Fria,1	
 ?,Frien,26	
 ?,Friens Pr,1	
-?,Frogn,8	
+?,Frogn,12	
 ?,Froland,12	
 ?,Fron,2	
 ?,Frosta,5	
@@ -159111,7 +158491,6 @@
 ?,Halden,16	
 ?,Hallingdal,2	
 ?,Halså Herred,1	
-?,Halså Og Hartmark,9	
 ?,Halsa,1	
 ?,Hamar,9	
 ?,Hamarøy,9	
@@ -159133,7 +158512,6 @@
 ?,Havningberg,1	
 ?,Hberg,1	
 ?,Hedemarken,1	
-?,Hegre,4	
 ?,Heislenheim Tyskland,3	
 ?,Helg,3	
 ?,Helgeland,4	
@@ -159345,7 +158723,7 @@
 ?,Malmm,1	
 ?,Malnes,1	
 ?,Malvik,6	
-?,Mandal,15	
+?,Mandal,24	
 ?,Maridalen,2	
 ?,Mark,1	
 ?,Marnardal,4	
@@ -159357,14 +158735,14 @@
 ?,Meldal,6	
 ?,Melhus,6	
 ?,Mellegrden,1	
-?,Meraker,3	
+?,Meråker,3	
 ?,Messelt,1	
 ?,Midtre Gauldal,15	
 ?,Mlselven,1	
 ?,Modalen,3	
 ?,Modum,14	
 ?,Mold,1	
-?,Molde,3	
+?,Molde,7	
 ?,Molselven,1	
 ?,Moss,18	
 ?,Mysen,1	
@@ -159452,7 +158830,7 @@
 ?,Osen,4	
 ?,Oslo,273	
 ?,Osterøy,24	
-?,Overhallen,1	
+?,Overhalla,1	
 ?,Polen,1	
 ?,Porsanger - Porsánjggu Gielda - Porsangin Komuuni,9	
 ?,Porsgrunn,32	
