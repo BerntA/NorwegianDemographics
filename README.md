@@ -50,5 +50,5 @@ cd into src and execute run.sh (~/dat500/src/)
 
 ## Troubleshooting
 * Check if /usr/local/hadoop/etc/hadoop/hadoop-env.sh has any faulty paths.
-
+* Python 3.6.9 was built from source, and should be the default Python version. However if a different version is preferred, update /usr/local/spark/conf/spark-env.sh to use python3.X for its Python drivers.
 
