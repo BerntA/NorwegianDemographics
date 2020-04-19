@@ -15,7 +15,7 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts"
 rm /etc/hosts && touch /etc/hosts && echo "$host" >> /etc/hosts
 
-mkdir -p /usr/local/hadoop && \
+mkdir -p /usr/local/hadoop && mkdir -p /usr/local/spark && \
 	rm /etc/environment && \
 	touch /etc/environment && \
 	echo 'PATH="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/local/hadoop/bin:/usr/local/hadoop/sbin:/usr/local/spark/bin:/usr/local/spark/sbin"' >> /etc/environment && \
