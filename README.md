@@ -43,7 +43,10 @@ cd into src and execute run.sh (~/dat500/src/)
 ## Visualizing the results locally
 * Sync results retrieved from Hadoop & Spark
 * cd into src
-* pip install requirements.txt
+* conda install geopandas
+* conda install geoplot -c conda-forge
+* conda install -c conda-forge cartopy
+* pip install -r requirements.txt
 * Open visualize.ipynb to visualize results
 
 (the CSV dataset was generated from the original census dataset by running src/merge_data.ipynb)
