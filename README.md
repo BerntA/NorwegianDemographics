@@ -57,3 +57,9 @@ cd into src and execute run.sh (~/dat500/src/)
 
 ## Reference(s) / Guide(s)
 * Check https://codethief.io/hadoop101/ for similar cluster configuration / setup.
+
+# Example Results
+
+![](src/img/1800_1910_anim_croppd_transparent.gif)
+
+![](src/img/1910_religion_distribution_transp.png)
